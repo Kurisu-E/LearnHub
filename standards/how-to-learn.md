@@ -63,3 +63,34 @@ author: 吴玉灿
 
 - 目的：加深对整体的理解，以及小层次知识集之间的关系
 - 示例：去理解教材或者更厉害的学者是如何理解这几个知识集的，以及为什么教材或者教师要按照他们那种结构讲述
+
+### 笔记结构
+
+```markdown
+---
+title: XXX Note
+author: XXX
+---
+
+学习链接：
+
+- XXX[^xx]
+  [^xx]: [XXX](XXX://XXX)
+
+目录：
+
+[toc]
+
+---
+
+### 1&emsp;CHAPTER_TITLE
+
+CONTENT
+
+---
+
+### 2&emsp;CHAPTER_TITLE
+
+CONTENT
+
+```
