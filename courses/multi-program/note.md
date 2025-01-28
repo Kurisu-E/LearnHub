@@ -1,25 +1,25 @@
 ---
-title: 并行计算 Parallel Computing 与多核编程笔记
+title: 并行计算 Parallel Computing 与多核编程 Note
 author: 吴玉灿
 major: 计算机科学与技术（科学方向）
 class: 计科2201
 student number: 202203150527
 ---
 
-[toc]
-
-### 0&emsp;序言
-
 学习链接：
 
 - 斯坦福大学并行计算 CS149[^cs149]
-  [^cs149]: [斯坦福大学 并行计算 CS149](<https://www.bilibili.com/video/BV1du17YfE5G/?spm_id_from=333.337.search-card.all.click&vd_source=8801f3e4d0f4778e3d5e4110b67c5842>)
+  [^cs149]: [斯坦福大学并行计算 CS149](<https://www.bilibili.com/video/BV1du17YfE5G/?spm_id_from=333.337.search-card.all.click&vd_source=8801f3e4d0f4778e3d5e4110b67c5842>)
 - 斯坦福大学并行计算 CS149 2023Fall 课程[^cs149-2023Fall]
   [^cs149-2023Fall]: [斯坦福大学并行计算 CS149 2023Fall 课程](<https://gfxcourses.stanford.edu/cs149/fall23>)
 - CMU15-148 并行计算架构和编程[^cmu15-418]
   [^cmu15-418]: [CMU15-418 并行计算架构和编程](<https://www.bilibili.com/video/BV1Xz4y1p7ZN/?vd_source=8801f3e4d0f4778e3d5e4110b67c5842>)
 - CMU15-418 并行计算架构和编程学习笔记[^cmu15-418note]
   [^cmu15-418note]: [CMU15-418 并行计算架构和编程学习笔记](<https://blog.mizuki.fun/posts/a237868c.html>)
+
+目录：
+
+[toc]
 
 <!-- ---
 
