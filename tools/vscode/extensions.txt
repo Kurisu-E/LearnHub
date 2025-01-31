@@ -1,0 +1,12 @@
+ms-ceintl.vscode-language-pack-zh-hans
+streetsidesoftware.code-spell-checker
+yfzhao.hscopes-booster
+mhutchie.git-graph
+formulahendry.code-runner
+usernamehw.errorlens
+tomoki1207.pdf
+pkief.material-icon-theme
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.remote-explorer
+aminer.codegeex
