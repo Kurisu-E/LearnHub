@@ -21,7 +21,7 @@ student number: 202203150527
 
 [toc]
 
-<!-- ---
+---
 
 ### Lecture 1&emsp;Why Parallelism? Why Efficiency?
 
@@ -103,7 +103,7 @@ student number: 202203150527
       内存内除了有缓存还有预取 prefetch 的方式来减少停滞 reduce stalls (hides latency)（1:09:24[^cs149]），并行处理下如果缓存内无数据且不好预测时，多处理器会在内存访问等待上花费很长时间，由此用同核心多线程交错处理 interleave processing of multi-threads on the same core 来减缓停滞（即同一核心在某一线程阻塞时去工作另一线程任务）（处理器利用率 100%，同一线程延迟会更长. 1:15:25[^cs149]）
 
       !!! question 同核心多线程交错处理和操作系统内的线程状态切换是同一内容吗？
-          似乎不是 -->
+          似乎不是
 
 ---
 
@@ -155,7 +155,7 @@ student number: 202203150527
     用洗衣机流水线 pipeline 来理解程序执行流水线，每个管道 pipe 需要提高带宽才能跟上指令的执行（0:49:51-0:53:01, 0:53:31-01:01:16[^cs149]）
     现代计算机架构师会先考虑有多大带宽，再考虑能放下多少硬件单元来优化
 
-<!-- ---
+---
 
 ### Lecture 4&emsp;Parallel Programming Basics
 
