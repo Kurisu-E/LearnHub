@@ -68,7 +68,7 @@ author: 吴玉灿
 
 ```markdown
 ---
-title: XXX Note
+title: XXX Notes
 author: XXX
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 并行计算 Parallel Computing 与多核编程 Note
+title: 并行计算 Parallel Computing 与多核编程 Notes
 author: 吴玉灿
 major: 计算机科学与技术（科学方向）
 class: 计科2201
