@@ -3,154 +3,143 @@
 #include <unistd.h>
 #include <math.h>
 #include <time.h>
+#include <stdarg.h>
 #include <mpi.h>
+
+#define ROWS 25
+#define COLS 10
+
+FILE* fp = NULL;
+
+/// @brief 将格式化字符串输出到标准输出和文件，
+/// 如果文件指针 `fp` 为 `NULL`，则只输出到标准输出
+void dual_printf(const char *format, ...) {
+  va_list args1, args2;
+  va_start(args1, format);
+  va_copy(args2, args1);
+
+  vprintf(format, args1);
+  if (fp != NULL) {
+    vfprintf(fp, format, args2);
+    fflush(fp);
+  }
+
+  va_end(args1);
+  va_end(args2);
+}
+
+void print_vector(int* vector, int len) {
+  dual_printf(" [");
+  for (int i = 0; i < len; i++) {
+    dual_printf("%5d", vector[i]);
+  }
+  dual_printf(" ]\n");
+}
+
+void print_matrix(int* matrix, int rows, int cols) {
+  for (int i = 0; i < rows; i++) {
+    dual_printf(" |");
+    for (int j = 0; j < cols; j++) {
+      dual_printf("%3d", matrix[i * cols + j]);
+    }
+    dual_printf(" |\n");
+  }
+}
+
+void matrix_vector_multiplication(int* matrix, int* vector, int* result, int rows, int cols) {
+  for (int i = 0; i < rows; ++i) {
+    result[i] = 0;
+    for (int j = 0; j < cols; ++j) {
+      result[i] += matrix[i * cols + j] * vector[j];
+    }
+  }
+}
 
 int main(int argc, char* argv[]) {
   int rank, size;
   MPI_Init(&argc, &argv);
   MPI_Comm_rank(MPI_COMM_WORLD, &rank);
   MPI_Comm_size(MPI_COMM_WORLD, &size);
+  
+  int local_rows = ROWS / size + (int)(rank < ROWS % size);
 
-  int total_rows = 3, cols = 2;
-  int rows_per_proc = total_rows / size;
-  int remainder = total_rows % size;
-  int local_rows = rows_per_proc + (rank < remainder ? 1 : 0);
-
-  // 在主进程中定义完整矩阵
-  int** global_matrix = NULL;
+  // 主进程内定义矩阵和向量，通过随机值初始化
+  // 矩阵展平便于发放和接收
+  int* matrix = NULL,
+     * vector = (int*)malloc(COLS * sizeof(int)),
+     * result = NULL;
   if (rank == 0) {
-    global_matrix = (int**)malloc(total_rows * sizeof(int*));
-    for (int i = 0; i < total_rows; i++) {
-      global_matrix[i] = (int*)malloc(cols * sizeof(int));
-    }
-    // 初始化矩阵数据
-    int init_data[3][2] = {{1, 2}, {3, 4}, {5, 6}};
-    for (int i = 0; i < total_rows; i++) {
-      for (int j = 0; j < cols; j++) {
-        global_matrix[i][j] = init_data[i][j];
+    srand(time(NULL));
+    matrix = (int*)malloc(ROWS * COLS * sizeof(int));
+    result = (int*)malloc(ROWS * sizeof(int));
+    for (int i = 0; i < ROWS; ++i) {
+      for (int j = 0; j < COLS; ++j) {
+        matrix[i * COLS + j] = rand() % 11 - 5; // 随机化矩阵元素（-5 ~ 5）
+        vector[j] = rand() % 11 - 5;            // 随机化向量元素（-5 ~ 5）
       }
     }
-    
-    printf("Original Matrix:\n");
-    for (int i = 0; i < total_rows; i++) {
-      for (int j = 0; j < cols; j++) {
-        printf("%d ", global_matrix[i][j]);
-      }
-      printf("\n");
-    }
-    printf("\nVector: [7, 8]\n\n");
+
+    fp = fopen("output.txt", "w");
+    if (fp == NULL)
+      perror("Failed to open file");
+    dual_printf("Matrix:\n");
+    print_matrix(matrix, ROWS, COLS);
+    dual_printf("Vector:\n");
+    print_vector(vector, COLS);
   }
-
-  // 广播向量数据到所有进程
-  int vector[2] = {7, 8};
-  MPI_Bcast(vector, cols, MPI_INT, 0, MPI_COMM_WORLD);
-
-  // 计算各进程分配的行数和偏移量
-  int* sendcounts = (int*)malloc(size * sizeof(int));
-  int* displs = (int*)malloc(size * sizeof(int));
-  int offset = 0;
-  for (int i = 0; i < size; i++) {
-    sendcounts[i] = (rows_per_proc + (i < remainder ? 1 : 0)) * cols;
+  MPI_Barrier(MPI_COMM_WORLD);
+  
+  // 分发矩阵和向量到各个进程
+  int* sendcounts = (int*)malloc(size * sizeof(int)),
+     * displs = (int*)malloc(size * sizeof(int)),
+     * local_matrix = (int*)malloc(local_rows * COLS * sizeof(int)),
+       offset = 0;
+  for (int i = 0; i < size; ++i) {
+    sendcounts[i] = (ROWS / size + (int)(i < ROWS % size)) * COLS;
     displs[i] = offset;
     offset += sendcounts[i];
   }
+  MPI_Scatterv(matrix, sendcounts, displs, MPI_INT,
+               local_matrix, local_rows * COLS, MPI_INT, 0, MPI_COMM_WORLD);
+  MPI_Bcast(vector, COLS, MPI_INT, 0, MPI_COMM_WORLD);
 
-  // 分配本地矩阵内存
-  int* local_matrix = (int*)malloc(local_rows * cols * sizeof(int));
-
-  // 将矩阵数据转换为一维数组用于散发
-  int* matrix_data = NULL;
-  if (rank == 0) {
-    matrix_data = (int*)malloc(total_rows * cols * sizeof(int));
-    for (int i = 0; i < total_rows; i++) {
-      for (int j = 0; j < cols; j++) {
-        matrix_data[i * cols + j] = global_matrix[i][j];
-      }
-    }
-  }
-
-  // 分发矩阵数据
-  MPI_Scatterv(matrix_data, sendcounts, displs, MPI_INT,
-         local_matrix, local_rows * cols, MPI_INT, 0, MPI_COMM_WORLD);
-
-  // 并行计算本地结果
+  // 每个进程计算其对应的行向量与向量的乘积
   int* local_result = (int*)malloc(local_rows * sizeof(int));
-  for (int i = 0; i < local_rows; i++) {
-    local_result[i] = 0;
-    for (int j = 0; j < cols; j++) {
-      local_result[i] += local_matrix[i * cols + j] * vector[j];
-    }
-  }
+  matrix_vector_multiplication(local_matrix, vector, local_result, local_rows, COLS);
+  MPI_Barrier(MPI_COMM_WORLD);
 
-  printf("Process %d computed %d rows\n", rank, local_rows);
-
-  // 计算结果收集的参数
-  int* result_counts = (int*)malloc(size * sizeof(int));
-  int* result_displs = (int*)malloc(size * sizeof(int));
+  // 收集每个进程的结果
   offset = 0;
-  for (int i = 0; i < size; i++) {
-    result_counts[i] = rows_per_proc + (i < remainder ? 1 : 0);
-    result_displs[i] = offset;
-    offset += result_counts[i];
+  for (int i = 0; i < size; ++i) {
+    sendcounts[i] = ROWS / size + (int)(i < ROWS % size);
+    displs[i] = offset;
+    offset += sendcounts[i];
   }
-
-  int* final_result = NULL;
-  if (rank == 0) {
-    final_result = (int*)malloc(total_rows * sizeof(int));
-  }
-
-  // 收集所有计算结果
   MPI_Gatherv(local_result, local_rows, MPI_INT,
-        final_result, result_counts, result_displs, MPI_INT, 0, MPI_COMM_WORLD);
+              result, sendcounts, displs, MPI_INT, 0, MPI_COMM_WORLD);
 
-  // 主进程输出结果到文件和控制台
+  // 打印结果
   if (rank == 0) {
-    FILE* output_file = fopen("result.txt", "w");
-    if (output_file != NULL) {
-      fprintf(output_file, "Matrix-Vector Multiplication Result:\n");
-      fprintf(output_file, "Matrix:\n");
-      fprintf(output_file, "1 2\n3 4\n5 6\n");
-      fprintf(output_file, "Vector: [7, 8]\n");
-      fprintf(output_file, "Result:\n");
-      for (int i = 0; i < total_rows; i++) {
-        fprintf(output_file, "%d\n", final_result[i]);
-      }
-      fclose(output_file);
-      printf("Results written to result.txt\n");
-    } else {
-      printf("Error: Could not open result.txt for writing\n");
-    }
-    
-    // 同时在控制台输出
-    printf("\nFinal Result vector:\n");
-    for (int i = 0; i < total_rows; i++) {
-      printf("%d\n", final_result[i]);
-    }
+    for (int i = 0; i < size; ++i)
+      dual_printf("Process %d has %d rows.\n", i, sendcounts[i]);
+    dual_printf("Result vector:\n");
+    print_vector(result, ROWS);
+
+    dual_printf("Serial result vector:\n");
+    matrix_vector_multiplication(matrix, vector, result, ROWS, COLS);
+    print_vector(result, ROWS);
   }
 
   // 释放内存
+  free(vector);
   free(local_matrix);
   free(local_result);
   free(sendcounts);
   free(displs);
-  free(result_counts);
-  free(result_displs);
-
   if (rank == 0) {
-    if (global_matrix != NULL) {
-      for (int i = 0; i < total_rows; i++) {
-        free(global_matrix[i]);
-      }
-      free(global_matrix);
-    }
-    if (matrix_data != NULL) {
-      free(matrix_data);
-    }
-    if (final_result != NULL) {
-      free(final_result);
-    }
+    free(matrix);
+    free(result);
   }
-
   MPI_Finalize();
   return 0;
 }
