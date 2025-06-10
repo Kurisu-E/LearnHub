@@ -1,0 +1,3 @@
+Result match!
+Parallel time: 0.221792 ms
+Serial time: 3.397000 ms
