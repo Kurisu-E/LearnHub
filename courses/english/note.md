@@ -3,42 +3,13 @@ title: English Learning
 author: Chris Evans
 ---
 
-## Master's Entrance Examination (English I)
+[toc]
 
-### 10/03/2024
+## Basic Foundations
 
-**助动词**分为
+### Pronunciation
 
-1. 时态助动词 tense auxiliary
-2. do助动词 do auxiliary
-3. 情态动词 modal auxiliary
-
-**情态动词**：modal auxiliary，用于表达说话人持有的态度、观点等
-
-- he can speak english. 强调说话人**认为**他**可以**讲英语的观点
-- he speaks english. 强调他讲英语这个事实
-
-常见的情态动词有：must, can, may, will, dare...
-
-情态动词后需要接实义动词的**动词原形**, 构成动词词组，中心动词是实义动词.
-
-#### Words 10.03
-
-**$^1\text{dare}$**&emsp;$\textit{verb}$&emsp;**$\sim\!\text{d}; \sim\!\text{ing}; \sim\!\text{s}$**$\textit{ or (auxiliary) }$**$\text{dare}$**&emsp;(bef. 12c)
-
-&emsp;$\textit{auxiliary verb}$
-&emsp;: to be sufficiently courageous to
-<blockquote style="margin-left: 1em">
-those hypotheses that <b><i>dare</i></b> not speak its name
-
-其中 "dare" 是 modal auxiliary
-</blockquote>
-
-#### Phrases 10.03
-
-#### Sentences 10.03
-
-## Etymology of Words (Roots and Affixes)
+### Etymology of Words (Roots and Affixes)
 
 ![alt text](img/image.png)
 ![alt text](img/image-1.png)
@@ -93,12 +64,24 @@ graph TD;
   aa -- 引入 *10c* --> J
 ```
 
-## Listening Training ([near-]Homophones)
+### Grammar
 
-## Vocabulary Training
+## Logs
 
-### 10/04
+### Listening & Speaking
 
-#### 10.04-0
+### Vocabulary
 
-## Writing Training (Sentence Construction)
+#### V - 06/22/2025
+
+- The crude oil's prize affect the coffee'prize, and [vice versa](dict/vice_versa.md#entry_1-g_1).
+
+### Reading & Writing
+
+#### RW - 06/23/2025
+
+## Exams
+
+### National Postgraduate Entrance Examination (NPEE) English I
+
+#### NPEE-E1-2010
