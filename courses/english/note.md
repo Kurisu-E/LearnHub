@@ -72,13 +72,19 @@ graph TD;
 
 ### Vocabulary
 
-#### V - 06/22/2025
+#### 06/22/2025 {V}
 
-- The crude oil's prize affect the coffee'prize, and [vice versa](dict/vice_versa.md#entry_1-g_1).
+- The crude oil's prize affect the coffee's prize, and [vice versa](dict/vice_versa.md#entry_1-g_1).
+
+#### 06/23/2025 {V}
+
+- [log scales](dict/log_scale.md)
 
 ### Reading & Writing
 
-#### RW - 06/23/2025
+#### 06/23/2025 {RW}
+
+- This means that Malawi and Paraguay are placed almost [on top of each other](dict/top.md#phrase2-g1), while there's a large empty space between Thailand and Brazil.
 
 ## Exams
 

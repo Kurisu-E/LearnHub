@@ -33,6 +33,8 @@ entry: < Entry name >
 
 ### {entry3-g1}
 
+## {phrases}
+
 ## {synonyms & antonyms}
 
 ## {near-homophones}
