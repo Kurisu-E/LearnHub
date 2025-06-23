@@ -5,14 +5,15 @@ entry: vice versa
 
 <div class="container">
 
-## {entry_1}
+## {entry1}
 
 **vice versa** adverb
 
 vice ver·​sa | \ ˈvīs-ˈvər-sə \ | \ ˌvī-si-ˈvər-sə \
 
-### {entry_1-g_1}
+### {entry1-g1}
 
 : with the order changed : with the relations reversed: [CONVERSELY](TODO:)
+> The crude oil's prize affect the coffee's prize, and *vice versa*.
 
 </div>

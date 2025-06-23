@@ -5,33 +5,33 @@ entry: < Entry name >
 
 <div class="container">
 
-## {entry_1}
+## {entry1}
 
-### {entry_1-g_1}
+### {entry1-g1}
 
-### {entry_1-g_2}
+### {entry1-g2}
 
-### {entry_1-g_3}
+### {entry1-g3}
 
-#### {entry_1-g_3-s_1}
+#### {entry1-g3s1}
 
-##### {entry_1-g_1-s_1-ss_1}
+##### {entry1-g1s1ss1}
 
-##### {entry_1-g_1-s_1-ss_2}
+##### {entry1-g1s1ss2}
 
-#### {entry_1-g_3-s_2}
+#### {entry1-g3s2}
 
-## {entry-2}
+## {entry2}
 
-### {entry_2-g_1}
+### {entry2-g1}
 
-#### {entry_2-g_1-s_1}
+#### {entry2-g1s1}
 
-#### {entry_2-g_1-s_2}
+#### {entry2-g1s2}
 
-## {entry-3}
+## {entry3}
 
-### {entry_3-g_1}
+### {entry3-g1}
 
 ## {synonyms & antonyms}
 
