@@ -80,11 +80,29 @@ graph TD;
 
 - [log scales](dict/log_scale.md)
 
+#### 06/24/2025 {V}
+
+- This tables contains coffee consumption in kilograms [per capita](dict/per_capita.md#entry1-g1s1) of coffee [importers](dict/import.md#entry1-deriv1) over the span of two decades.
+- Data tables are often so large that only small [fraction](dict/fraction.md#entry1-g1s1ss2sss2) of rows are displayed.
+- Use the [dropdown](dict/drop-down.md#entry1-deriv1) to select just the US consumption data.
+- We filtered data in tables for specific countries to [produce](dict/produce.md#entry1-g1s1) bar charts.
+- Set a new filter condition on `Owner` or `Density` that [leads to](dict/lead_to.md#entry1-g1) the most [common](dict/common.md#entry1-g1s3ss1) opening time being later than 5 AM.
+- Connecting two filters with `OR` returns records that [meet](dict/meet.md#entry1-g1s4) at least one of the two filter conditions.
+- [Crafting](TODO:) precise logical expressions and combining them with logical operators lets us [access](TODO:) any segment [of interest](TODO:).
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
 
-- This means that Malawi and Paraguay are placed almost [on top of each other](dict/top.md#phrase2-g1), while there's a large empty space between Thailand and Brazil.
+- This means that [Malawi](TODO:) and [Paraguay](TODO:) are placed almost [on top of each other](dict/top.md#phrase2-g1), while there's a large empty space between [Thailand](TODO:) and [Brazil](TODO:).
+
+#### 06/24/2025 {RW}
+
+- [Finnish](TODO:) coffee consumption is double [Germany](TODO:)'s year over year.
+- What year did [Tunisia](TODO:)'s coffee consumption [peak](TODO:)?
+- This dataset can be filtered by factors [other than](TODO:) state — like whether a cafe is in an urban or [rural](TODO:) area, or whether it’s a corporate owned (“CO”) or licensed (“LS”) store.
+- \- Suppose we applied the filter `State=NY OR Density=Rural`. Do you think this would return cafes in rural New York?
+  \- Yes, but that's it. \- Yes, and other cafes too.
 
 ## Exams
 
