@@ -1,9 +1,6 @@
 ---
-entry: < Entry name >
+title: < Category >/< Entry >
 ---
-<!-- @import "../theme/text.less" -->
-
-<div class="container">
 
 ## {entry1}
 
@@ -42,5 +39,3 @@ entry: < Entry name >
 ## {word history}
 
 ## {phrases containing}
-
-</div>
