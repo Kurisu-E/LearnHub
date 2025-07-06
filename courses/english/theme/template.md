@@ -2,6 +2,327 @@
 title: < Category >/< Entry >
 ---
 
+<!-- @import "styles.less" -->
+
+<div class="container">
+  <div id="entry1">
+    <div class="entry-header">
+      <span class="headword">entryname</span>
+      <span class="badge entry-numbers-badge">1 of 2</span>
+      <a class="parts-of-speech" href="../dict/verb.md">verb</a>
+    </div>
+    <div class="entry-attr">
+      <div class="word-syllables-prons">
+        <span class="syllable">syl·​la·​ble</span>
+        <span class="pron">pron11&nbsp;</span><span>,</span>
+        <span class="pron">pron12&nbsp;</span><span>;</span>
+        <span class="pron">pron21&nbsp;</span><span>,</span>
+        <span class="pron">pron22&nbsp;</span><span class="fst-italic mx-4">also</span>
+        <span class="pron">pron23&nbsp;</span>
+      </div>
+      <div class="word-ins-vrs">
+        <span class="if">entryname-d</span>
+        <span class="pron">pron-d1</span><span>,</span>
+        <span class="pron">pron-d2</span><span class="fw-bold pe-0">;</span>
+        <span class="if">entryname-ing</span>
+        <span class="pron">pron-ing</span><span class="fw-bold pe-0">;</span>
+        <span class="if">entryname-s</span>
+        <span class="pron">pron-s</span><span class="fst-italic mx-4">especially British</span>
+        <span class="pron">pron-s-br</span>
+      </div>
+    </div>
+    <div class="entry-sense">
+      <p class="sense-header">
+        <a href="../dict/transitive.md">transitive verb</a>
+      </p>
+      <div class="sense-item">
+        <div class="label">1</div>
+        <div class="content">
+          <div class="sense-item">
+            <div class="num">a</div>
+            <div class="content">
+              <div class="sense-item">
+                <div class="deep-num">(1)</div>
+                <div class="d-inline">
+                  <span>
+                    <strong>:</strong>
+                    entry 1 sense 1.a.(1)
+                  </span>
+                </div>
+              </div>
+              <div class="sense-item">
+                <div class="deep-num">(2)</div>
+                <div class="d-inline">
+                  <span>
+                    <strong>:</strong>
+                    entry 1 sense 1.a.(2)
+                    <strong>:</strong>
+                    <a href="../dict/another-word.md" class="text-uppercase fw-bold">another-word</a>
+                  </span>
+                  <div class="example">
+                    the example sentence containing <i>entryname</i>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="sense-item">
+            <div class="num">b</div>
+            <div class="d-inline">
+              <span>
+                <strong>:</strong>
+                entry 1 sense 1.b
+              </span>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+              <span>
+                <i>specifically</i>
+                <strong>:</strong>
+                to do something ...
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sense-item">
+        <div class="label">2</div>
+        <div class="content">
+          <div class="sense-item">
+            <span class="d-inline">
+              <span>
+                <strong>:</strong>
+                entry 1 sense 2
+                <strong>:</strong>
+                <a href="../dict/another-word.md" class="text-uppercase fw-bold">another-word</a>
+              </span>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="entry-sense">
+      <p class="sense-header">
+        <a href="../dict/auxiliary.md">auxiliary verb</a>
+      </p>
+      <div class="sense-item">
+        <div class="label">1</div>
+        <div class="content">
+          <div class="sense-item">
+            <span class="d-inline">
+              <span>
+                → used with ...
+              </span>
+              <div class="example">
+                <i>has</i>
+              </div>
+              <div class="example">
+                <i>had</i>
+              </div>
+              <div class="example">
+                will <i>have</i>
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="sense-item">
+        <div class="label">2</div>
+        <div class="content">
+          <div class="sense-item">
+            <span class="d-inline">
+              <span>
+                <strong>:</strong>
+                to be ...
+              </span>
+              <div class="example">
+                we <i>have</i>
+              </div>
+              <div class="example">
+                do what you <i>have</i>
+              </div>
+              <div class="example">
+                it <i>has</i>
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="entry2">
+    <div class="entry-header">
+      <span class="headword">entryname</span>
+      <span class="badge entry-numbers-badge">2 of 2</span>
+      <a class="parts-of-speech" href="../dict/noun.md">noun</a>
+    </div>
+    <div class="entry-attr">
+      <div class="word-syllables-prons">
+        <span class="syllable">syl·​la·​ble</span>
+        <span class="pron">pron&nbsp;</span>
+      </div>
+      <div class="word-ins-vrs">
+        <span class="badge ins-vrs-badge">plural</span>
+        <span class="if">plural-entryname</span>
+      </div>
+      <div class="word-ins-vrs">
+        <span class="badge ins-vrs-badge">often attributive</span>
+      </div>
+    </div>
+    <div class="entry-sense">
+      <div class="sense-item">
+        <div class="label">1</div>
+        <div class="content">
+          <div class="sense-item">
+            <div class="num">a</div>
+            <div class="d-inline">
+              <span class="badge">of a word</span>
+              <span>
+                <strong>:</strong>
+                entry 2 sense 1.a
+              </span>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+            </div>
+          </div>
+          <div class="sense-item">
+            <div class="num">b</div>
+            <div class="d-inline">
+              <span class="badge">of a sentence</span>
+              <span>
+                <strong>:</strong>
+                entry 2 sense 1.b
+              </span>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sense-item">
+        <div class="label">2</div>
+        <div class="content">
+          <div class="sense-item">
+            <span class="d-inline">
+              <span>
+                <strong>:</strong>
+                something which do
+                <a href="../dict/entryname#entry1">entryname</a>
+              </span>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+              <div class="example">
+                the example sentence containing <i>entryname</i>
+              </div>
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="entry-deriv">
+      <div class="deriv-item">
+        <span class="label">entryname-able</span>
+        <span class="pron mx-2">pron</span>
+        <span class="parts-of-speech">adjective</span>
+      </div>
+      <div class="deriv-item">
+        <span class="label">entryname-ably</span>
+        <span class="parts-of-speech">adverb</span>
+      </div>
+    </div>
+  </div>
+  <div id="phrase" class="widget">
+    <div class="body">
+      <div class="header">Phrases</div>
+      <div id="phrase1">
+        <span class="fw-bold">phrase1.1</span>
+        <span class="fst-italic">or</span>
+        <span class="fw-bold">phrase1.2</span>
+        <div class="entry-sense">
+          <div class="sense-item">
+            <div class="content">
+              <div class="sense-item">
+                <span class="d-inline">
+                  <span>
+                    <strong>:</strong>
+                    phrase1
+                  </span>
+                  <div class="example">
+                    the example sentence containing <i>phrase1</i>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="phrase2">
+        <span class="fw-bold">phrase2</span>
+        <div class="entry-sense">
+          <div class="sense-item">
+            <div class="content">
+              <div class="sense-item">
+                <span class="d-inline">
+                  <span>
+                    <strong>:</strong>
+                    phrase2
+                  </span>
+                  <div class="example">
+                    the example sentence containing <i>phrase2</i>
+                  </div>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="word-history" class="widget">
+    <div class="header">
+      Word History
+    </div>
+    <div class="body">
+      <div class="header">Etymology</div>
+      <p class="function-label">Verb and Noun</p>
+      <p>
+        Middle English ...
+      </p>
+      <div class="header">First Known Use</div>
+      <p class="function-label">Verb</p>
+      <p>
+        before the 12th century ...
+      </p>
+      <p class="function-label">Noun</p>
+      <p>
+        circa 1739 ...
+      </p>
+    </div>
+  </div>
+  <div id="related-phrases" class="widget">
+    <div class="header">
+      Phrases Containing <i>entryname</i>
+    </div>
+    <div class="body">
+      <ul class="table-list">
+        <li class="list-item"><a href="">entryname phrase1</a></li>
+        <li class="list-item"><a href="">entryname phrase2</a></li>
+        <li class="list-item"><a href="">entryname phrase3</a></li>
+        <li class="list-item"><a href="">entryname phrase4</a></li>
+        <li class="list-item"><a href="">entryname phrase5</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 ## {entry1}
 
 ### {entry1-g1}
