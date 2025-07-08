@@ -5,7 +5,7 @@ title: < Category >/< Entry >
 <!-- @import "styles.less" -->
 
 <div class="container">
-  <div id="entry1">
+  <div id="entry1" name="entry1">
     <div class="entry-header">
       <span class="headword">entryname</span>
       <span class="badge entry-numbers-badge">1 of 2</span>

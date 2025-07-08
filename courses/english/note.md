@@ -79,6 +79,7 @@ graph TD;
 #### 06/23/2025 {V}
 
 - [log scales](dict/log_scale.md)
+[aa](http://localhost:5500/english/theme/template.html#entry2)
 
 #### 06/24/2025 {V}
 
