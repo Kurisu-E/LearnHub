@@ -1,5 +1,5 @@
-@import "text.css";
-@import "global.css";
+@import "font.css";
+@import "base.css";
 
 .container {
   background: #fff;

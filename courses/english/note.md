@@ -7,8 +7,6 @@ author: Chris Evans
 
 ## Basic Foundations
 
-### Pronunciation
-
 ### Etymology of Words (Roots and Affixes)
 
 ![alt text](img/image.png)
@@ -64,6 +62,8 @@ graph TD;
   aa -- 引入 *10c* --> J
 ```
 
+### Pronunciation
+
 ### Grammar
 
 ## Logs
@@ -79,7 +79,6 @@ graph TD;
 #### 06/23/2025 {V}
 
 - [log scales](dict/log_scale.md)
-[aa](http://localhost:5500/english/theme/template.html#entry2)
 
 #### 06/24/2025 {V}
 
