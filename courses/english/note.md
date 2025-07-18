@@ -90,9 +90,24 @@ graph TD;
 - Connecting two filters with `OR` returns records that [meet](http://127.0.0.1:5500/english/dict/meet.html#entry1.1-4) at least one of the two filter conditions.
 - [Crafting](http://127.0.0.1:5500/english/dict/craft.html#entry2.1-1) precise logical expressions and combining them with logical operators lets us [access](http://127.0.0.1:5500/english/dict/access.html#entry2.1-1a) any segment [of interest](http://127.0.0.1:5500/english/dict/of_interest.html#entry1.1-1).
 
-#### 07/17/2025 {V}
+#### 07/18/2025 {V}
 
-
+- [shop-floor](http://127.0.0.1:5500/english/dict/shop_floor.html#entry1.1-1) [lighting](http://127.0.0.1:5500/english/dict/lighting.html#entry1.1-1a)
+- [extract](http://127.0.0.1:5500/english/dict/extract.html)
+- [end up](http://127.0.0.1:5500/english/dict/end_up.html#entry1.1-1) vs. [end with](http://127.0.0.1:5500/english/dict/end_with.html#entry1.1-1)
+- the behavior of the women in the [plant](http://127.0.0.1:5500/english/dict/plant.html#entry2.1-2b)
+- [mischievous](http://127.0.0.1:5500/english/dict/mischievous.html)
+- [account](http://127.0.0.1:5500/english/dict/account.html#entry1.1-2) of actions
+- [so long as](http://127.0.0.1:5500/english/dict/so_long_as.html#entry1.1) vs. [in case](http://127.0.0.1:5500/english/dict/in_case.html#entry1.1)
+- [by itself](http://127.0.0.1:5500/english/dict/by_itself.html#entry1.1-1)
+- [contrary to](http://127.0.0.1:5500/english/dict/contrary_to.html)
+- [subject to](http://127.0.0.1:5500/english/dict/subject_to.html)
+- [peculiar to](http://127.0.0.1:5500/english/dict/peculiar_to.html)
+- It [turns out](http://127.0.0.1:5500/english/dict/turnout.html#entry2.1-2a) that ...
+- [in contrast](http://127.0.0.1:5500/english/dict/in_contrast.html)
+- [duly](http://127.0.0.1:5500/english/dict/duly.html)
+- Workers tended to be [diligent](http://127.0.0.1:5500/english/dict/diligent.html#entry1.1-1) for the first few days of the week in any case.
+- This suggests that the [alleged](http://127.0.0.1:5500/english/dict/alleged.html#entry1.1-2) "Hawthorne effect" is hard to [pin down](http://127.0.0.1:5500/english/dict/pin_down.html#entry1.1-2).
 
 ### Reading & Writing
 
@@ -104,7 +119,7 @@ graph TD;
 
 - [Finnish](http://127.0.0.1:5500/english/dict/Finnish.html#entry1.1-1) coffee consumption is double [Germany](http://127.0.0.1:5500/english/geo/Germany.html#entry1.1-1)'s [year over year](http://127.0.0.1:5500/english/dict/year-over-year.html#entry1.1-1).
 - What year did [Tunisia](http://127.0.0.1:5500/english/geo/Tunisia.html#entry1.1-1)'s coffee consumption [peak](http://127.0.0.1:5500/english/dict/peak.html#entry2.1-1)?
-- This dataset can be filtered by factors [other than](http://127.0.0.1:5500/english/dict/other_than.html#entry1.1-1) state — like whether a cafe is in an urban or 、rural area, or whether it’s a corporate owned (“CO”) or licensed (“LS”) store.
+- This dataset can be filtered by factors [other than](http://127.0.0.1:5500/english/dict/other_than.html#entry1.1-1) state — like whether a cafe is in an urban or rural area, or whether it’s a corporate owned (“CO”) or licensed (“LS”) store.
 - \- Suppose we applied the filter `State=NY OR Density=Rural`. Do you think this would return cafes in rural New York?
   **A**. \- Yes, but that's it. \- Yes, and other cafes too.
   **B**. \- Yes, and that's it. \- Yes, but other cafes too.
@@ -112,6 +127,8 @@ graph TD;
 #### 07/17/2025 {RW}
 
 - Two engineer supervised a series of experiments at a telephone-part factory called the [Hawthorne](http://127.0.0.1:5500/english/geo/Hawthorne.html#entry1.1-1) Plant near [Chicago](http://127.0.0.1:5500/english/geo/Chicago.html#entry1.1-1).
+
+#### 07/18/2025 {RW}
 
 ## Exams
 
