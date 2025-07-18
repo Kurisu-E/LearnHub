@@ -74,35 +74,44 @@ graph TD;
 
 #### 06/22/2025 {V}
 
-- The crude oil's prize affect the coffee's prize, and [vice versa](dict/vice_versa.md#entry_1-g_1).
+- The crude oil's prize affect the coffee's prize, and [vice versa](http://127.0.0.1:5500/english/dict/vice_versa.html#entry1.1-1).
 
 #### 06/23/2025 {V}
 
-- [log scales](dict/log_scale.md)
+- [log scales](http://127.0.0.1:5500/english/dict/log_scale.html#entry1.1-2)
 
 #### 06/24/2025 {V}
 
-- This tables contains coffee consumption in kilograms [per capita](dict/per_capita.md#entry1-g1s1) of coffee [importers](dict/import.md#entry1-deriv1) over the span of two decades.
-- Data tables are often so large that only small [fraction](dict/fraction.md#entry1-g1s1ss2sss2) of rows are displayed.
-- Use the [dropdown](dict/drop-down.md#entry1-deriv1) to select just the US consumption data.
-- We filtered data in tables for specific countries to [produce](dict/produce.md#entry1-g1s1) bar charts.
-- Set a new filter condition on `Owner` or `Density` that [leads to](dict/lead_to.md#entry1-g1) the most [common](dict/common.md#entry1-g1s3ss1) opening time being later than 5 AM.
-- Connecting two filters with `OR` returns records that [meet](dict/meet.md#entry1-g1s4) at least one of the two filter conditions.
-- [Crafting](TODO:) precise logical expressions and combining them with logical operators lets us [access](TODO:) any segment [of interest](TODO:).
+- This tables contains coffee consumption in kilograms [per capita](http://127.0.0.1:5500/english/dict/per_capita.html#entry1.1-1) of coffee [import](http://127.0.0.1:5500/english/dict/import.html#entry1.1-1a)[ers](http://127.0.0.1:5500/english/dict/er.html#entry5.1-2b) over the span of two decades.
+- Data tables are often so large that only small [fraction](http://127.0.0.1:5500/english/dict/fraction.html#entry1.1-1b(2)) of rows are displayed.
+- Use the [dropdown](http://127.0.0.1:5500/english/dict/drop-down.html#entry1.1-1) to select just the US consumption data.
+- We filtered data in tables for specific countries to [produce](http://127.0.0.1:5500/english/dict/produce.html#entry1.1-1) bar charts.
+- Set a new filter condition on `Owner` or `Density` that [leads to](http://127.0.0.1:5500/english/dict/lead_to.html#entry1.1-1) the most [common](http://127.0.0.1:5500/english/dict/common.html#entry1.1-3a) opening time being later than 5 AM.
+- Connecting two filters with `OR` returns records that [meet](http://127.0.0.1:5500/english/dict/meet.html#entry1.1-4) at least one of the two filter conditions.
+- [Crafting](http://127.0.0.1:5500/english/dict/craft.html#entry2.1-1) precise logical expressions and combining them with logical operators lets us [access](http://127.0.0.1:5500/english/dict/access.html#entry2.1-1a) any segment [of interest](http://127.0.0.1:5500/english/dict/of_interest.html#entry1.1-1).
+
+#### 07/17/2025 {V}
+
+
 
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
 
-- This means that [Malawi](TODO:) and [Paraguay](TODO:) are placed almost [on top of each other](dict/top.md#phrase2-g1), while there's a large empty space between [Thailand](TODO:) and [Brazil](TODO:).
+- This means that [Malawi](http://127.0.0.1:5500/english/geo/Malawi.html#entry1.1-1) and [Paraguay](http://127.0.0.1:5500/english/geo/Paraguay.html#entry1.1-1) are placed almost [on top of each other](http://127.0.0.1:5500/english/dict/top.html#on_top_of_each_other.1-1), while there's a large empty space between [Thailand](http://127.0.0.1:5500/english/geo/Thailand.html#entry1.1-1) and [Brazil](http://127.0.0.1:5500/english/geo/Brazil.html#entry1.1-1).
 
 #### 06/24/2025 {RW}
 
-- [Finnish](TODO:) coffee consumption is double [Germany](TODO:)'s year over year.
-- What year did [Tunisia](TODO:)'s coffee consumption [peak](TODO:)?
-- This dataset can be filtered by factors [other than](TODO:) state — like whether a cafe is in an urban or [rural](TODO:) area, or whether it’s a corporate owned (“CO”) or licensed (“LS”) store.
+- [Finnish](http://127.0.0.1:5500/english/dict/Finnish.html#entry1.1-1) coffee consumption is double [Germany](http://127.0.0.1:5500/english/geo/Germany.html#entry1.1-1)'s [year over year](http://127.0.0.1:5500/english/dict/year-over-year.html#entry1.1-1).
+- What year did [Tunisia](http://127.0.0.1:5500/english/geo/Tunisia.html#entry1.1-1)'s coffee consumption [peak](http://127.0.0.1:5500/english/dict/peak.html#entry2.1-1)?
+- This dataset can be filtered by factors [other than](http://127.0.0.1:5500/english/dict/other_than.html#entry1.1-1) state — like whether a cafe is in an urban or 、rural area, or whether it’s a corporate owned (“CO”) or licensed (“LS”) store.
 - \- Suppose we applied the filter `State=NY OR Density=Rural`. Do you think this would return cafes in rural New York?
-  \- Yes, but that's it. \- Yes, and other cafes too.
+  **A**. \- Yes, but that's it. \- Yes, and other cafes too.
+  **B**. \- Yes, and that's it. \- Yes, but other cafes too.
+
+#### 07/17/2025 {RW}
+
+- Two engineer supervised a series of experiments at a telephone-part factory called the [Hawthorne](http://127.0.0.1:5500/english/geo/Hawthorne.html#entry1.1-1) Plant near [Chicago](http://127.0.0.1:5500/english/geo/Chicago.html#entry1.1-1).
 
 ## Exams
 

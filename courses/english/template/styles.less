@@ -110,6 +110,17 @@
       content: "";
     }
   }
+  .inf-vrs {
+    >span.if {
+      display: inline;
+      font-weight: @fw-bold;
+    }
+  }
+  .note {
+    display: block;
+    padding: 0 0 0 12px;
+    color: #8a8d91;
+  }
   .pron {
     display: inline-block;
     padding: 0 10px 1px 12px;
@@ -151,15 +162,6 @@
           font-size: 19px;
           line-height: 28px;
         }
-        img {
-          position: relative;
-          display: block;
-          overflow: hidden;
-          max-height: 400px;
-          margin: 8px 0;
-          border: 1px solid #d7d5d5;
-          border-radius: 4px;
-        }
       }
       >.item {
         position: relative;
@@ -196,6 +198,19 @@
         }
         >.content {
           margin-left: 8px;
+          a:has(img) { 
+            position: relative;
+            display: block;
+            height: 100%;
+            border-radius: 4px;
+            >img {
+              overflow: hidden;
+              max-height: 400px;
+              height: auto;
+              border: 1px solid #d7d5d5;
+              border-radius: 4px;
+            }
+          }
           >.brief {
             padding-left: 9px;
             margin-bottom: 4px;
@@ -322,14 +337,16 @@
               content: "";
             }
             >span.headword {
+              background: linear-gradient(90deg,#303336,#303336cc 34.96%,#303336);
+              background-clip: text;
+              -webkit-text-fill-color: #0000;
               color: #303336;
               font-family: @ff-important;
               font-weight: @fw-bold;
               font-size: 24px;
               line-height: 26px;
             }
-            >a.parts-of-speech {
-              .parts-of-speech();
+            >.parts-of-speech {
               font-size: 16px;
               line-height: 21px;
             }
@@ -380,7 +397,6 @@
         }
       }
       >span.badge {
-        .badge();
         position: relative;
         bottom: 3px;
         margin: 8px 10px 0 0;
@@ -402,15 +418,12 @@
           margin: 4px 10px 0 0;
         }
       }
-      >.ins-vrs {
+      >.inf-vrs {
         padding-top: 4px;
         font-size: 19px;
         line-height: 38px;
         >span.if {
-          display: inline;
-          margin-right: 10px;
           color: #525a5b;
-          font-weight: @fw-bold;
         }
       }
     }
