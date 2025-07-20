@@ -109,6 +109,10 @@ graph TD;
 - Workers tended to be [diligent](http://127.0.0.1:5500/english/dict/diligent.html#entry1.1-1) for the first few days of the week in any case.
 - This suggests that the [alleged](http://127.0.0.1:5500/english/dict/alleged.html#entry1.1-2) "Hawthorne effect" is hard to [pin down](http://127.0.0.1:5500/english/dict/pin_down.html#entry1.1-2).
 
+#### 07/19/2025 {V}
+
+- This development is boosting [wholesale](http://127.0.0.1:5500/english/dict/wholesale.html#entry2.1-2) [demand](http://127.0.0.1:5500/english/dict/demand.html#entry1.1-3b) from the food service segment by 4 to 5 percent a year across Europe, compared with growth in [retail](http://127.0.0.1:5500/english/dict/retail.html#entry3.1-1) demand of 1 to 2 percent.
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
@@ -128,7 +132,9 @@ graph TD;
 
 - Two engineer supervised a series of experiments at a telephone-part factory called the [Hawthorne](http://127.0.0.1:5500/english/geo/Hawthorne.html#entry1.1-1) Plant near [Chicago](http://127.0.0.1:5500/english/geo/Chicago.html#entry1.1-1).
 
-#### 07/18/2025 {RW}
+#### 07/19/2025 {RW}
+
+- The first and more important is the consumer's growing preference for eating out.
 
 ## Exams
 
