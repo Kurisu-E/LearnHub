@@ -108,10 +108,17 @@ graph TD;
 - [duly](http://127.0.0.1:5500/english/dict/duly.html)
 - Workers tended to be [diligent](http://127.0.0.1:5500/english/dict/diligent.html#entry1.1-1) for the first few days of the week in any case.
 - This suggests that the [alleged](http://127.0.0.1:5500/english/dict/alleged.html#entry1.1-2) "Hawthorne effect" is hard to [pin down](http://127.0.0.1:5500/english/dict/pin_down.html#entry1.1-2).
+- Filter with [inequality](http://127.0.0.1:5500/english/dict/inequality.html#entry1.1-3)
 
 #### 07/19/2025 {V}
 
 - This development is boosting [wholesale](http://127.0.0.1:5500/english/dict/wholesale.html#entry2.1-2) [demand](http://127.0.0.1:5500/english/dict/demand.html#entry1.1-3b) from the food service segment by 4 to 5 percent a year across Europe, compared with growth in [retail](http://127.0.0.1:5500/english/dict/retail.html#entry3.1-1) demand of 1 to 2 percent.
+
+#### 07/23/2025 {V}
+
+- According to [accounts](http://127.0.0.1:5500/english/dict/account.html#entry1.1-7) of the experiment
+- Starbucks offers a variety of [discounts](http://127.0.0.1:5500/english/dict/discount.html#entry1.1-1a(1)) and [promotions](http://127.0.0.1:5500/english/dict/promotion.html#entry1.1-2) to help [entice](http://127.0.0.1:5500/english/dict/entice.html#entry1.1-1) customers and boost their business.
+- [BOGO](http://127.0.0.1:5500/english/dict/BOGO.html#entry1.1-1) is abbreviated of "buy one, get one".
 
 ### Reading & Writing
 
@@ -135,6 +142,10 @@ graph TD;
 #### 07/19/2025 {RW}
 
 - The first and more important is the consumer's growing preference for eating out.
+
+#### 07/23/2025 {RW}
+
+- the same data were [subjected to](http://127.0.0.1:5500/english/dict/subject_to.html#entry1.1-3) econometric analysis
 
 ## Exams
 
