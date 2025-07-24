@@ -120,6 +120,21 @@ graph TD;
 - Starbucks offers a variety of [discounts](http://127.0.0.1:5500/english/dict/discount.html#entry1.1-1a(1)) and [promotions](http://127.0.0.1:5500/english/dict/promotion.html#entry1.1-2) to help [entice](http://127.0.0.1:5500/english/dict/entice.html#entry1.1-1) customers and boost their business.
 - [BOGO](http://127.0.0.1:5500/english/dict/BOGO.html#entry1.1-1) is abbreviated of "buy one, get one".
 
+#### 07/24/2025 {V}
+
+- they [brought the average revenue down](http://127.0.0.1:5500/english/dict/bring_down.html#entry2.1-1)
+- They have an [offer](http://127.0.0.1:5500/english/dict/offer.html#entry3.1-1) on beer at the moment.
+- The [fridge](http://127.0.0.1:5500/english/dict/fridge.html#entry1.1-1) is in the corner of the room.
+- This bird is called a [peacock](http://127.0.0.1:5500/english/dict/peacock.html#entry1.1-1).
+- Let's [put the shoes and glasses on](http://127.0.0.1:5500/english/dict/put_on.html#entry3.1-1a).
+- We're looking for [machete](http://127.0.0.1:5500/english/dict/machete.html#entry1.1-1) to cut down the forest over there, because it's really thick.
+- This is called [weeds](http://127.0.0.1:5500/english/dict/weed.html#entry1.1-1a(1)). It's not grass. Grass is the one that's nicely cut and finished good. And this right here is a [trail](http://127.0.0.1:5500/english/dict/trail.html#entry2.1-1a(2)), a walking trail, or you could call it a hiking trail. But this is [more of](http://127.0.0.1:5500/english/dict/more_of.html#entry1.1-1) a walking trail.
+- This is the tea I made that last time. It smells like [licorice](http://127.0.0.1:5500/english/dict/licorice.html#entry1.1-2).
+- [Calves](http://127.0.0.1:5500/english/dict/calf.html#entry1.1-1a) are the young, and cows are older. This is a calf.
+- Birds [chirping](http://127.0.0.1:5500/english/dict/chirp.html#entry1.1-1).
+- This is a [lime](http://127.0.0.1:5500/english/dict/lime.html#entry5.1-2) tree.
+- [Watch yourself](http://127.0.0.1:5500/english/dict/watch_oneself.html#entry1.1-1).
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
@@ -145,7 +160,11 @@ graph TD;
 
 #### 07/23/2025 {RW}
 
-- the same data were [subjected to](http://127.0.0.1:5500/english/dict/subject_to.html#entry1.1-3) econometric analysis
+- the same data were [subjected to](http://127.0.0.1:5500/english/dict/subject_to.html#entry1.1-2) econometric analysis
+
+#### 07/24/2025 {RW}
+
+- I think that hedge up there is going to look better than it would with this if it's actually going to grow like the one you said in Loja.
 
 ## Exams
 
