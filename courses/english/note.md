@@ -135,6 +135,16 @@ graph TD;
 - This is a [lime](http://127.0.0.1:5500/english/dict/lime.html#entry5.1-2) tree.
 - [Watch yourself](http://127.0.0.1:5500/english/dict/watch_oneself.html#entry1.1-1).
 
+#### 07/25/2025 {V}
+
+- We can convert the opening times to [UTC](http://127.0.0.1:5500/english/dict/UTC.html#entry1.1-1) by [subtracting](http://127.0.0.1:5500/english/dict/subtract.html#entry1.1-1) the time difference.
+- But first we'll need all the times in the table to be in a [uniform](http://127.0.0.1:5500/english/dict/uniform.html#entry1.1-3) format.
+- We've [got rid of](http://127.0.0.1:5500/english/dict/get_rid_of.html#entry1.1-1) the negative times but the times still don't all [fall](http://127.0.0.1:5500/english/dict/fall.html#entry1.1-8) within a single 24 hour period.
+- We can use this method to [populate](http://127.0.0.1:5500/english/dict/populate.html#entry1.1-3) a new table where the first column is the time of day in hours.
+- What we actually care about is the change in the number that are open --- the [net](http://127.0.0.1:5500/english/dict/net.html#entry3.1-1a) increase.
+- Sometimes the information you [want out of](http://127.0.0.1:5500/english/dict/want_out_of.html#entry1.1-1) dataset is there, but it takes several stages of [manipulation](http://127.0.0.1:5500/english/dict/manipulation.html#entry1.1-2a) to [extract](http://127.0.0.1:5500/english/dict/extract.html#entry1.1-1a) it.
+- For [much](http://127.0.0.1:5500/english/dict/much.html#entry3.1-1) of the day the "Net Increase" column is negative.
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
