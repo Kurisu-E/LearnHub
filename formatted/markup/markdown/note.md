@@ -16,7 +16,7 @@ author: Kur1su
 
 ---
 
-## 第一章&emsp;Markdown 教程[^md-official]
+## Part I&emsp;Markdown 教程[^md-official]
 
 ### 1&emsp;Markdown 入门基础
 
@@ -424,7 +424,7 @@ Second Term
 
 行内公式使用 `$` 包围，行间公式使用 `$$` 包围.
 
-## 第二章&emsp;Markdown in VSCode
+## Part II&emsp;Markdown in VSCode
 
 VSCode 原生支持 Markdown 基础语法，也有许多 Markdown 拓展插件.
 
