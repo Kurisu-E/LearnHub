@@ -145,6 +145,30 @@ graph TD;
 - Sometimes the information you [want out of](http://127.0.0.1:5500/english/dict/want_out_of.html#entry1.1-1) dataset is there, but it takes several stages of [manipulation](http://127.0.0.1:5500/english/dict/manipulation.html#entry1.1-2a) to [extract](http://127.0.0.1:5500/english/dict/extract.html#entry1.1-1a) it.
 - For [much](http://127.0.0.1:5500/english/dict/much.html#entry3.1-1) of the day the "Net Increase" column is negative.
 
+#### 07/28/2025 {V}
+
+- there are a few things a host should know before [investing in](http://127.0.0.1:5500/english/dict/invest_in.html#entry1.1-1) a [property](http://127.0.0.1:5500/english/dict/property.html#entry1.1-2a)
+- you'll have data-[backed](http://127.0.0.1:5500/english/dict/back.html#entry4.1-1a) recommendations for anyone looking to start an Airbnb in a major US city.
+- With enough properties and bookings, shared rooms could [outperform](http://127.0.0.1:5500/english/dict/outperform.html#entry1.1-1) the other two despite being cheaper.
+- you can ignore the days a property [stood](http://127.0.0.1:5500/english/dict/stand.html#entry1.1-3) empty
+- On the other hand, higher rents may [turn guests away](http://127.0.0.1:5500/english/dict/turn_away.html#entry1.1-1c).
+- a host wants a [clearcut](http://127.0.0.1:5500/english/dict/clearcut.html#entry1.1-2) recommendation
+- [impair](http://127.0.0.1:5500/english/dict/impair.html#entry1.1-1)
+- [hard](http://127.0.0.1:5500/english/dict/hard.html#entry1.1-8e(3)) laughter is difficult to sustain
+- studies [dating back to](http://127.0.0.1:5500/english/dict/date_back_to.html#entry1.1-1) the 1930s
+- laughter relaxes muscles, decreasing [muscle tone](http://127.0.0.1:5500/english/dict/muscle_tone.html#entry1.1-1) for up to 45 minutes after the laugh [dies down](http://127.0.0.1:5500/english/dict/die_down.html#entry1.1-1).
+- our feeling are partially [rooted in](http://127.0.0.1:5500/english/dict/rooted_in.html#entry1.1-1) physical reactions
+- biting with lips would produce an [indifferent](http://127.0.0.1:5500/english/dict/indifferent.html#entry1.1-1) expression
+- mouths were [contracted](http://127.0.0.1:5500/english/dict/contract.html#entry2.1-4) in a [frown](http://127.0.0.1:5500/english/dict/frown.html#entry2.1-1)
+- the New York [Philharmonic](http://127.0.0.1:5500/english/dict/philharmonic.html#entry1.1-1)
+- For the most part, the response has been favorable, [to say the least](http://127.0.0.1:5500/english/dict/to_say_the_least.html#entry1.1-1).
+- [Hooray](http://127.0.0.1:5500/english/dict/hooray.html#entry1.1-1)! At last!
+- a [sober-sided](http://127.0.0.1:5500/english/dict/sober-sided.html#entry1.1-1) classical-music critic
+- an [unpretentious](http://127.0.0.1:5500/english/dict/unpretentious.html#entry1.1-1) musician with no [air](http://127.0.0.1:5500/english/dict/air.html#entry1.1-3c) of the formidable conductor about him
+- that seems likely to have [struck](http://127.0.0.1:5500/english/dict/strike.html#entry1.2-15b) at least some *Times* readers as [faint](http://127.0.0.1:5500/english/dict/faint.html#entry1.1-4) praise
+- [devoted](http://127.0.0.1:5500/english/dict/devoted.html#entry1.1-1) [concertgoer](http://127.0.0.1:5500/english/dict/concertgoer.html#entry1.1-1)
+- a markedly different, more [vibrant](http://127.0.0.1:5500/english/dict/vibrant.html#entry1.1-1a(1)) organization
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
@@ -175,6 +199,18 @@ graph TD;
 #### 07/24/2025 {RW}
 
 - I think that hedge up there is going to look better than it would with this if it's actually going to grow like the one you said in Loja.
+
+#### 07/28/2025 {RW}
+
+- There're three types of property:
+
+  | Type | Description | Illustration |
+  | --- | --- | --- |
+  | **shared room** | offers the most budget-friendly option, where you sleep in a space shared with other guests | ![alt text](img/image.jpeg) |
+  | **private room** | provides a personal bedroom, but shared access to common areas | ![alt text](img/image.webp) |
+  | **entire residence** | offers complete privacy, with exclusive use of the entire space, including bedrooms, bathrooms, and living areas | ![alt text](img/image-1.jpg) |
+
+- If it were, the histogram wouldn't have such a long tail.
 
 ## Exams
 
