@@ -169,6 +169,34 @@ graph TD;
 - [devoted](http://127.0.0.1:5500/english/dict/devoted.html#entry1.1-1) [concertgoer](http://127.0.0.1:5500/english/dict/concertgoer.html#entry1.1-1)
 - a markedly different, more [vibrant](http://127.0.0.1:5500/english/dict/vibrant.html#entry1.1-1a(1)) organization
 
+#### 07/29/2025 {V}
+
+- his explanation was surprisingly [straight up](http://127.0.0.1:5500/english/dict/straight_up.html#entry2.1-2)
+- [cloaking](http://127.0.0.1:5500/english/dict/cloak.html#entry2.1-1) his exit in the usual vague excuses
+- leaving without a position [lined up](http://127.0.0.1:5500/english/dict/line_up.html#entry2.2-2) gave him time to reflect on what kind of company he wanted to run
+- his [aspirations](http://127.0.0.1:5500/english/dict/aspiration.html#entry1.1-1)
+- executives were [looking for](http://127.0.0.1:5500/english/dict/look.html#look_for.1-2) a [CEO](http://127.0.0.1:5500/english/dict/CEO.html#entry1.1-1) post
+- As boards [scrutinize](http://127.0.0.1:5500/english/dict/scrutinize.html#entry1.1-1) [succession plans](http://127.0.0.1:5500/english/dict/succesion_plan.html#entry1.1-1) in response to [shareholder](http://127.0.0.1:5500/english/dict/shareholder.html#entry1.1-1) pressure, executives who don't [get the nod](http://127.0.0.1:5500/english/dict/get_the_nod.html#entry1.1-1) also may wish to [move on](http://127.0.0.1:5500/english/dict/move_on.html#entry1.1-1).
+- senior managers cautious of letting vague pronouncements [cloud](http://127.0.0.1:5500/english/dict/cloud.html#entry2.2-3) their reputations
+- As the first signs of [recovery](http://127.0.0.1:5500/english/dict/recovery.html#entry1.1-1) begin to [take hold](http://127.0.0.1:5500/english/dict/take_hold.html#entry1.1-2), [deputy](http://127.0.0.1:5500/english/dict/deputy.html#entry1.1-1b) chiefs may be more willing to make the jump without a [net](http://127.0.0.1:5500/english/dict/net.html#entry1.1-1b(4)).
+- nervous boards [stuck with](http://127.0.0.1:5500/english/dict/stick_with.html#entry1.1-2) the leaders they had
+- As the economy [picks up](http://127.0.0.1:5500/english/dict/pick_up.html#entry3.2-1), opportunities will [abound](http://127.0.0.1:5500/english/dict/abound.html#entry1.1-1) for aspiring leaders.
+- For years executives and [headhunters](http://127.0.0.1:5500/english/dict/headhunter.html#entry1.1-1) have [adhered to](http://127.0.0.1:5500/english/dict/adhere_to.html#entry1.1-1) the rule that the most attractive CEO candidates are the ones who must be [poached](http://127.0.0.1:5500/english/dict/poach.html#entry2.2-2c).
+- the old [disgrace](http://127.0.0.1:5500/english/dict/disgrace.html#entry2.1-2) is fading for top performers
+- [frank](http://127.0.0.1:5500/english/dict/frank.html#entry1.1-1)
+- [impulsive](http://127.0.0.1:5500/english/dict/impulsive.html#entry1.1-1b)
+- [guard against](http://127.0.0.1:5500/english/dict/guard_against.html#entry1.1-1)
+- The [rough](http://127.0.0.1:5500/english/dict/rough.html#entry1.1-4b) guide to marketing success used to be that [you got what you paid for](http://127.0.0.1:5500/english/dict/you_get_what_you_pay_for.html#entry1.1-1).
+- a company may [leverage](http://127.0.0.1:5500/english/dict/leverage.html#entry2.1-2) "owned" media by sending e-mail alerts about products and sales to customers registered with its Web site
+- marketing's impact [stems from](http://127.0.0.1:5500/english/dict/stem_from.html#entry1.1-1) a broad range of factors beyond conventional paid media
+- a [stand-alone](http://127.0.0.1:5500/english/dict/stand-alone.html#entry1.1-1a) media property that promotes complementary and even competitive products
+- help expand user [traffic](http://127.0.0.1:5500/english/dict/traffic.html#entry1.1-2) for all companies concerned
+- an asset or campaign becomes hostage to consumers, other [stakeholders](http://127.0.0.1:5500/english/dict/stakeholder.html#entry1.1-3), or [activists](http://127.0.0.1:5500/english/dict/activist.html#entry1.1-1) who make negative allegations about a brand or product.
+- the learning curve has been [steep](http://127.0.0.1:5500/english/dict/steep.html#entry1.1-3b)
+- Toyota Motor [alleviated](http://127.0.0.1:5500/english/dict/alleviate.html#entry1.1-1a) some of the damage from its recall crisis earlier this year with a relatively quick and well-[orchestrated](http://127.0.0.1:5500/english/dict/orchestrate.html#entry1.1-2) social-media response campaign
+- [invite](http://127.0.0.1:5500/english/dict/invite.html#entry1.1-2b) constant conflicts
+- [take advantage of](http://127.0.0.1:5500/english/dict/take_advantage_of.html#entry1.1-1) hijacked media
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
@@ -211,6 +239,13 @@ graph TD;
   | **entire residence** | offers complete privacy, with exclusive use of the entire space, including bedrooms, bathrooms, and living areas | ![alt text](img/image-1.jpg) |
 
 - If it were, the histogram wouldn't have such a long tail.
+
+#### 07/30/2025 {RW}
+
+- Digital marketing media types
+
+  ![alt text](img/digital-marketing-media-types.png)
+  ![alt text](img/SVG_MediaTypes_ex_2.svg)
 
 ## Exams
 
