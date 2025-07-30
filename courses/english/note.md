@@ -176,7 +176,7 @@ graph TD;
 - leaving without a position [lined up](http://127.0.0.1:5500/english/dict/line_up.html#entry2.2-2) gave him time to reflect on what kind of company he wanted to run
 - his [aspirations](http://127.0.0.1:5500/english/dict/aspiration.html#entry1.1-1)
 - executives were [looking for](http://127.0.0.1:5500/english/dict/look.html#look_for.1-2) a [CEO](http://127.0.0.1:5500/english/dict/CEO.html#entry1.1-1) post
-- As boards [scrutinize](http://127.0.0.1:5500/english/dict/scrutinize.html#entry1.1-1) [succession plans](http://127.0.0.1:5500/english/dict/succesion_plan.html#entry1.1-1) in response to [shareholder](http://127.0.0.1:5500/english/dict/shareholder.html#entry1.1-1) pressure, executives who don't [get the nod](http://127.0.0.1:5500/english/dict/get_the_nod.html#entry1.1-1) also may wish to [move on](http://127.0.0.1:5500/english/dict/move_on.html#entry1.1-1).
+- As boards [scrutinize](http://127.0.0.1:5500/english/dict/scrutinize.html#entry1.1-1) [succession plans](http://127.0.0.1:5500/english/dict/succession_plan.html#entry1.1-1) in response to [shareholder](http://127.0.0.1:5500/english/dict/shareholder.html#entry1.1-1) pressure, executives who don't [get the nod](http://127.0.0.1:5500/english/dict/get_the_nod.html#entry1.1-1) also may wish to [move on](http://127.0.0.1:5500/english/dict/move_on.html#entry1.1-1).
 - senior managers cautious of letting vague pronouncements [cloud](http://127.0.0.1:5500/english/dict/cloud.html#entry2.2-3) their reputations
 - As the first signs of [recovery](http://127.0.0.1:5500/english/dict/recovery.html#entry1.1-1) begin to [take hold](http://127.0.0.1:5500/english/dict/take_hold.html#entry1.1-2), [deputy](http://127.0.0.1:5500/english/dict/deputy.html#entry1.1-1b) chiefs may be more willing to make the jump without a [net](http://127.0.0.1:5500/english/dict/net.html#entry1.1-1b(4)).
 - nervous boards [stuck with](http://127.0.0.1:5500/english/dict/stick_with.html#entry1.1-2) the leaders they had
@@ -196,6 +196,37 @@ graph TD;
 - Toyota Motor [alleviated](http://127.0.0.1:5500/english/dict/alleviate.html#entry1.1-1a) some of the damage from its recall crisis earlier this year with a relatively quick and well-[orchestrated](http://127.0.0.1:5500/english/dict/orchestrate.html#entry1.1-2) social-media response campaign
 - [invite](http://127.0.0.1:5500/english/dict/invite.html#entry1.1-2b) constant conflicts
 - [take advantage of](http://127.0.0.1:5500/english/dict/take_advantage_of.html#entry1.1-1) hijacked media
+
+#### 07/30/2025 {V}
+
+- [insightful](http://127.0.0.1:5500/english/dict/insightful.html#entry1.1-1), [provocative](http://127.0.0.1:5500/english/dict/provocative.html#entry1.1-1) magazine [cover story](http://127.0.0.1:5500/english/dict/cover_story.html#entry1.1-1)
+- [child rearing](http://127.0.0.1:5500/english/dict/child_rearing.html#entry1.1-1) is anything [less than](http://127.0.0.1:5500/english/dict/less.html#less_than.1-1) a completely fulfilling, life-enriching experience
+- [moment-to-moment](http://127.0.0.1:5500/english/dict/moment-to-moment.html#entry1.1-1) joy
+- Even though the [day-to-day](http://127.0.0.1:5500/english/dict/day-to-day.html#entry1.1-1) experience of raising kids can be [soul-crushingly](http://127.0.0.1:5500/english/dict/soul-crushingly.html#entry1.1-1) hard, Senior writes that "the very things that in the moment [dampen](http://127.0.0.1:5500/english/dict/dampen.html#entry1.1-1) our moods can later be sources of intense [gratification](http://127.0.0.1:5500/english/dict/gratification.html#entry1.1-2) and delight."
+- [Madonna](http://127.0.0.1:5500/english/dict/Madonna.html#entry1.1-1)-and-child image on [newsstands](http://127.0.0.1:5500/english/dict/newsstand.html#entry1.1-1)
+- In a society that so persistently celebrates [procreation](http://127.0.0.1:5500/english/dict/procreation.html#entry1.2-1)
+- [kitten](http://127.0.0.1:5500/english/dict/kitten.html#entry1.1-1)
+- raising a kid on their "own" (read: with [round-the-clock](http://127.0.0.1:5500/english/dict/round-the-clock.html#entry1.1-1) help) is [a piece of cake](http://127.0.0.1:5500/english/dict/a_piece_of_cake.html#entry1.1-1)
+- in some small, [subconscious](http://127.0.0.1:5500/english/dict/subconscious.html#entry1.1-1) way [contributing](http://127.0.0.1:5500/english/dict/contribute.html#entry1.1-3) to our own dissatisfactions with the actual experience
+- happiness [in retrospect](http://127.0.0.1:5500/english/dict/retrospect.html#in_retrospect.1-1)
+- [soothing](http://127.0.0.1:5500/english/dict/soothing.html#entry1.1-1)
+- something [curious](http://127.0.0.1:5500/english/dict/curious.html#entry1.1-2)
+- these are [disciplines](http://127.0.0.1:5500/english/dict/discipline.html#entry1.1-2) that are [going out of style](http://127.0.0.1:5500/english/dict/go_out_of_style.html#entry1.1-1)
+- a [grounding](http://127.0.0.1:5500/english/dict/grounding.html#entry1.1-1) in the basic [canon](http://127.0.0.1:5500/english/dict/canon.html#entry1.1-4c) of ideas that every educated person should possess
+- They [cut across](http://127.0.0.1:5500/english/dict/cut_across.html#entry1.1-1) the [insistence](http://127.0.0.1:5500/english/dict/insistence.html#entry1.1-1) by top American universities that liberal-arts education and professional education should be kept separate, taught in different schools.
+- future doctors and lawyers must study a [nonspecialist](http://127.0.0.1:5500/english/dict/nonspecialist.html#entry1.1-1) liberal-arts degree before embarking on a professional qualification
+- federal research [grants](http://127.0.0.1:5500/english/dict/grant.html#entry2.1-2) rose [fourfold](http://127.0.0.1:5500/english/dict/fourfold.html#entry1.1-1) between 1960 and 1990, but [faculty](http://127.0.0.1:5500/english/dict/faculty.html#entry1.1-2a) teaching hours fell by half as research [took its toll](http://127.0.0.1:5500/english/dict/take_its_toll.html#entry1.1-1).
+- a [prerequisite](http://127.0.0.1:5500/english/dict/prerequisite.html#entry1.1-1) for a successful academic career
+- No disciplines have [seized on](http://127.0.0.1:5500/english/dict/seize_on.html#entry1.1-1) [professionalism](http://127.0.0.1:5500/english/dict/professionalism.html#entry1.1-1) with as much enthusiasm as the [humanities](http://127.0.0.1:5500/english/dict/humanity.html#entry1.1-3).
+- up to half of all doctoral students in English [drop out](http://127.0.0.1:5500/english/dict/drop_out.html#entry2.1-1) before getting their degrees
+- Academic [inquiry](http://127.0.0.1:5500/english/dict/inquiry.html#entry1.1-3) may need to become less [exclusionary](http://127.0.0.1:5500/english/dict/exclusionary.html#entry1.1-1) and more [holistic](http://127.0.0.1:5500/english/dict/holistic.html#entry1.1-2).
+- So [when it comes time to](http://127.0.0.1:5500/english/dict/when_it_comes_time_to.html#entry1.1-1) to pick up a location for their new Airbnb, a host needs to know where a property is likely to be [in demand](http://127.0.0.1:5500/english/dict/in_demand.html#entry1.1-1).
+- [chart](http://127.0.0.1:5500/english/dict/chart.html#entry2.1-2) occupancy rates throughout the year to [pinpoint](http://127.0.0.1:5500/english/dict/pinpoint.html#entry3.1-2a) [peak](http://127.0.0.1:5500/english/dict/peak_season.html#entry1.1-1) and [off-seasons](http://127.0.0.1:5500/english/dict/off-season.html#entry1.1-1).
+- What's a good time to [take a property off](http://127.0.0.1:5500/english/dict/take_off.html#entry2.1-1) the market for [remodeling](http://127.0.0.1:5500/english/dict/remodel.html#entry1.1-1)? When will bookings [drop off](http://127.0.0.1:5500/english/dict/drop_off.html#entry2.1-1), and when will they [spike](http://127.0.0.1:5500/english/dict/spike.html#entry2.2-1)? Questions like these [keep an Airbnb host up](http://127.0.0.1:5500/english/dict/keep_up.html#entry1.1-1) at night.
+- The line graph looks very [jagged](http://127.0.0.1:5500/english/dict/jagged.html#entry1.1-1).
+- Aggregating the occupancy rates over months instead of days helps [smooth things out](http://127.0.0.1:5500/english/dict/smooth_things_out.html#entry1.1-2)
+- If the data captures a real seasonal trend, occupancy peaks in March, June, July, and September but [bottoms out](http://127.0.0.1:5500/english/dict/bottom_out.html#entry1.1-1) in February, May, and November.
+- Raising rent when demand peaks could bring in more revenue to [hold a host over](http://127.0.0.1:5500/english/dict/hold_over.html#entry2.2-1b) through the [lean](http://127.0.0.1:5500/english/dict/lean.html#entry3.1-2) times. Raising it during the off-season could [balance out](http://127.0.0.1:5500/english/dict/balance_out.html#entry1.1-1) the smaller number of guests.
 
 ### Reading & Writing
 
@@ -240,12 +271,21 @@ graph TD;
 
 - If it were, the histogram wouldn't have such a long tail.
 
-#### 07/30/2025 {RW}
+#### 07/29/2025 {RW}
 
 - Digital marketing media types
 
   ![alt text](img/digital-marketing-media-types.png)
   ![alt text](img/SVG_MediaTypes_ex_2.svg)
+
+#### 07/30/2025 {RW}
+
+- obviously their misery must be a direct result of the [gaping](http://127.0.0.1:5500/english/dict/gaping.html#entry1.1-1) baby-size [holes](http://127.0.0.1:5500/english/dict/hole.html#entry1.1-1b) in their lives.
+- most adults understand that a baby is not a [haircut](http://127.0.0.1:5500/english/dict/haircut.html#entry1.1-2)
+- The knowledge and skills needed for a particular specialisation are transmissible but not transferable. So disciplines acquire a monopoly not just over the production of knowledge, but over the production of the producers of knowledge.
+- Only about half end up with professorships for which they entered [graduate](http://127.0.0.1:5500/english/dict/graduate.html#entry3.1-1) school.
+- Otherwise, academics will continue to think dangerously alike, increasingly detached from the societies which they study, investigate and criticise.
+- Well, there may be wisdom in following the lead of established Airbnbs.
 
 ## Exams
 
