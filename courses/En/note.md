@@ -82,9 +82,9 @@ graph TD;
 
 #### 06/24/2025 {V}
 
-- This tables contains coffee consumption in kilograms [per capita](http://127.0.0.1:5500/En/dict/per_capita.html#entry1.1-1) of coffee [import](http://127.0.0.1:5500/En/dict/import.html#entry1.1-1a)[ers](http://127.0.0.1:5500/En/dict/er.html#entry5.1-2b) over the span of two decades.
+- This tables contains coffee consumption in kilograms [per capita](http://127.0.0.1:5500/En/dict/per_capita.html#entry1.1-1) of coffee [import](http://127.0.0.1:5500/En/dict/import.html#entry1.1-1a)[ers](http://127.0.0.1:5500/En/dict/-er.html#entry5.1-2b) over the span of two decades.
 - Data tables are often so large that only small [fraction](http://127.0.0.1:5500/En/dict/fraction.html#entry1.1-1b(2)) of rows are displayed.
-- Use the [dropdown](http://127.0.0.1:5500/En/dict/drop-down.html#entry1.1-1) to select just the US consumption data.
+- Use the [dropdown](http://127.0.0.1:5500/En/dict/dropdown.html#entry1.1-1) to select just the US consumption data.
 - We filtered data in tables for specific countries to [produce](http://127.0.0.1:5500/En/dict/produce.html#entry1.1-1) bar charts.
 - Set a new filter condition on `Owner` or `Density` that [leads to](http://127.0.0.1:5500/En/dict/lead_to.html#entry1.1-1) the most [common](http://127.0.0.1:5500/En/dict/common.html#entry1.1-3a) opening time being later than 5 AM.
 - Connecting two filters with `OR` returns records that [meet](http://127.0.0.1:5500/En/dict/meet.html#entry1.1-4) at least one of the two filter conditions.
@@ -103,7 +103,7 @@ graph TD;
 - [contrary to](http://127.0.0.1:5500/En/dict/contrary_to.html)
 - [subject to](http://127.0.0.1:5500/En/dict/subject_to.html)
 - [peculiar to](http://127.0.0.1:5500/En/dict/peculiar_to.html)
-- It [turns out](http://127.0.0.1:5500/En/dict/turnout.html#entry2.1-2a) that ...
+- It [turns out](http://127.0.0.1:5500/En/dict/turn_out.html#entry2.1-2a) that ...
 - [in contrast](http://127.0.0.1:5500/En/dict/in_contrast.html)
 - [duly](http://127.0.0.1:5500/En/dict/duly.html)
 - Workers tended to be [diligent](http://127.0.0.1:5500/En/dict/diligent.html#entry1.1-1) for the first few days of the week in any case.
@@ -227,6 +227,47 @@ graph TD;
 - Aggregating the occupancy rates over months instead of days helps [smooth things out](http://127.0.0.1:5500/En/dict/smooth_things_out.html#entry1.1-2)
 - If the data captures a real seasonal trend, occupancy peaks in March, June, July, and September but [bottoms out](http://127.0.0.1:5500/En/dict/bottom_out.html#entry1.1-1) in February, May, and November.
 - Raising rent when demand peaks could bring in more revenue to [hold a host over](http://127.0.0.1:5500/En/dict/hold_over.html#entry2.2-1b) through the [lean](http://127.0.0.1:5500/En/dict/lean.html#entry3.1-2) times. Raising it during the off-season could [balance out](http://127.0.0.1:5500/En/dict/balance_out.html#entry1.1-1) the smaller number of guests.
+
+#### 07/31/2025 {V}
+
+- The court cannot maintain its [legitimacy](http://127.0.0.1:5500/En/dict/legitimacy.html#entry1.1-1) as guardian of the rule of law when [justices](http://127.0.0.1:5500/En/dict/justice.html#entry1.1-1b) behave like politicians.
+- justices acted in ways that are independent and [impartial](http://127.0.0.1:5500/En/dict/impartial.html#entry1.1-1)
+- a code of [conduct](http://127.0.0.1:5500/En/dict/conduct.html#entry2.1-1)
+- [immune](http://127.0.0.1:5500/En/dict/immune.html#entry1.1-1)
+- [resort](http://127.0.0.1:5500/En/dict/resort.html#entry2.1-2) to force
+- effectively [evade](http://127.0.0.1:5500/En/dict/evade.html#entry1.2-2b) the flaws of the social cure
+- whether there is still a [line](http://127.0.0.1:5500/En/dict/line.html#entry1.1-3e(2)) between the court and politics
+- The [framers](http://127.0.0.1:5500/En/dict/framer.html#entry2.1-2b) of the Constitution [envisioned](http://127.0.0.1:5500/En/dict/envision.html#entry1.1-1) law as having authority apart from politics.
+- they would be free to [upset](http://127.0.0.1:5500/En/dict/upset.html#entry1.1-2) those in power and have no need to [cultivate](http://127.0.0.1:5500/En/dict/cultivate.html#entry1.1-4b) political support
+- [amiable](http://127.0.0.1:5500/En/dict/amiable.html#entry1.1-1a) justices
+- [accountable](http://127.0.0.1:5500/En/dict/accountable.html)
+- [by all means](http://127.0.0.1:5500/En/dict/mean.html#by_all_means.1-1)
+- [at all costs](http://127.0.0.1:5500/En/dict/cost.html#at_all_costs.1-1)
+- [in a word](http://127.0.0.1:5500/En/dict/word.html#in_a_word.1-1)
+- [Peer pressure](http://127.0.0.1:5500/En/dict/peer_pressure.html#entry1.1-1) can also be a positive force through the [social cure](http://127.0.0.1:5500/En/dict/social_cure.html#entry1.1-1), in which organizations and officials use the power of [group dynamics](http://127.0.0.1:5500/En/dict/group_dynamics.html#entry1.1-1) to help individuals improve their lives and possibly the world.
+- Rosenberg offers a [host](http://127.0.0.1:5500/En/dict/host.html#entry4.1-1) of examples of the social cure in action.
+- Rosenberg is a [perceptive](http://127.0.0.1:5500/En/dict/perceptive.html#entry1.1-2) observer
+- Her [critique](http://127.0.0.1:5500/En/dict/critique.html#entry1.1-1) of the [lameness](http://127.0.0.1:5500/En/dict/lameness.html#entry1.1-2) of many public-health campaigns is [spot-on](http://127.0.0.1:5500/En/dict/spot-on.html#entry1.1-1).
+- one [billboard](http://127.0.0.1:5500/En/dict/billboard.html#entry1.1-1) campaign pleads
+- public-health advocates ought to [take a page from advertisers](http://127.0.0.1:5500/En/dict/take_a_page_from_someone.html#entry1.1-1), so skilled at applying peer pressure
+- the most [glaring](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3) flaw
+- Far less [certain](http://127.0.0.1:5500/En/dict/certain.html#entry1.1-3b) is how successfully experts and [bureaucrats](http://127.0.0.1:5500/En/dict/bureaucrat.html#entry1.1-1) can select our peer groups and steer their activities in [virtuous](http://127.0.0.1:5500/En/dict/virtuous.html#entry1.1-1b) directions.
+- the teacher [breaks up](http://127.0.0.1:5500/En/dict/break_up.html#entry2.2-1) the troublemakers
+- The [tactic](http://127.0.0.1:5500/En/dict/tactic.html#entry1.1-1) never really works.
+- [When it comes to](http://127.0.0.1:5500/En/dict/when_it_comes_to.html#entry1.1-1) ratings, Airbnb guests have high standards.
+- What does this mean for a host's [bottom line](http://127.0.0.1:5500/En/dict/bottom_line.html#entry2.1-2a)?
+- With so much [at stake](http://127.0.0.1:5500/En/dict/stake.html#at_stak.1-1), it's important to know how common it is for a San Francisco Airbnb to rate below 4.7 stars [out of](http://127.0.0.1:5500/En/dict/out_of.html#entry1.1-4) 5.
+- This result would [land](http://127.0.0.1:5500/En/dict/land.html#entry2.1-2b) better if it came in the form of a pie chart.
+- [SF](http://127.0.0.1:5500/En/dict/SF.html#entry2.1-2) Airbnb
+- What can a host do to get those [coveted](http://127.0.0.1:5500/En/dict/coveted.html#entry1.1-1) stars?
+- Does the value rating [have more or less to do](http://127.0.0.1:5500/En/dict/have.html#have_to_do_with.1-2) with the overall rating than the price?
+- you can now [uncover](http://127.0.0.1:5500/En/dict/uncover.html#entry1.1-1) insights from any city's Airbnb data
+
+**Word of the Day: [Petulant](http://127.0.0.1:5500/En/dict/petulant.html)** | *adjective* | PET-chuh-lunt
+
+*Petulant* describes a person who is angry and annoyed, or an attitude or behavior showing the emotions of such a person.
+
+**Quiz:** Rearrange the letters to form a word that refers to "a fit of bad temper": MNUATTR <details><summary>Answer</summary>[tantrum](http://127.0.0.1:5500/En/dict/tantrum.html)</details>
 
 ### Reading & Writing
 
