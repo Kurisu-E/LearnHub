@@ -267,7 +267,7 @@ graph TD;
 
 *Petulant* describes a person who is angry and annoyed, or an attitude or behavior showing the emotions of such a person.
 
-**Quiz:** Rearrange the letters to form a word that refers to "a fit of bad temper": MNUATTR <details><summary>Answer</summary>[tantrum](http://127.0.0.1:5500/En/dict/tantrum.html)</details>
+**Quiz:** Rearrange the letters to form a word that refers to "a fit of bad temper": [MNUATTR](http://127.0.0.1:5500/En/dict/tantrum.html)
 
 ### Reading & Writing
 
