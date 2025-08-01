@@ -260,14 +260,22 @@ graph TD;
 - This result would [land](http://127.0.0.1:5500/En/dict/land.html#entry2.1-2b) better if it came in the form of a pie chart.
 - [SF](http://127.0.0.1:5500/En/dict/SF.html#entry2.1-2) Airbnb
 - What can a host do to get those [coveted](http://127.0.0.1:5500/En/dict/coveted.html#entry1.1-1) stars?
-- Does the value rating [have more or less to do](http://127.0.0.1:5500/En/dict/have.html#have_to_do_with.1-2) with the overall rating than the price?
+- Does the value rating [have more or less to do with](http://127.0.0.1:5500/En/dict/have.html#have_to_do_with.1-2) the overall rating than the price?
 - you can now [uncover](http://127.0.0.1:5500/En/dict/uncover.html#entry1.1-1) insights from any city's Airbnb data
 
-**Word of the Day: [Petulant](http://127.0.0.1:5500/En/dict/petulant.html)** | *adjective* | PET-chuh-lunt
+**Word of the Day: [petulant](http://127.0.0.1:5500/En/dict/petulant.html)** | *adjective* | PET-chuh-lunt
 
 *Petulant* describes a person who is angry and annoyed, or an attitude or behavior showing the emotions of such a person.
 
 **Quiz:** Rearrange the letters to form a word that refers to "a fit of bad temper": [MNUATTR](http://127.0.0.1:5500/En/dict/tantrum.html)
+
+#### 08/01/2025 {V}
+
+- **Word of the Day: [dissociate](http://127.0.0.1:5500/En/dict/dissociate.html)** | *verb* | dih-SOH-shee-ayt
+
+To *dissociate* is to separate oneself from association or union with someone or something; in contexts relating to psychology, it has to do specifically with mentally detaching from one's physical or emotional experiences. In chemistry, *dissociate* means "to separate a chemical compound into its constituent parts especially through the application of heat or a solvent."
+
+**Quiz:** Rearrange the letters to form a word that refers to "a deep fissure, as in a glacier or the earth": [SRAEEVSC](http://127.0.0.1:5500/En/dict/crevasse.html)
 
 ### Reading & Writing
 
