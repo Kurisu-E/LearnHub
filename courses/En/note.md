@@ -271,11 +271,24 @@ graph TD;
 
 #### 08/01/2025 {V}
 
-- **Word of the Day: [dissociate](http://127.0.0.1:5500/En/dict/dissociate.html)** | *verb* | dih-SOH-shee-ayt
+**Word of the Day: [dissociate](http://127.0.0.1:5500/En/dict/dissociate.html)** | *verb* | dih-SOH-shee-ayt
 
 To *dissociate* is to separate oneself from association or union with someone or something; in contexts relating to psychology, it has to do specifically with mentally detaching from one's physical or emotional experiences. In chemistry, *dissociate* means "to separate a chemical compound into its constituent parts especially through the application of heat or a solvent."
 
 **Quiz:** Rearrange the letters to form a word that refers to "a deep fissure, as in a glacier or the earth": [SRAEEVSC](http://127.0.0.1:5500/En/dict/crevasse.html)
+
+#### 08/03/2025 {V}
+
+- jogging dose have [measurable](http://127.0.0.1:5500/En/dict/measurable.html#entry1.1-2) benefits on health
+- expressions may influence emotions rather than just [the other way around](http://127.0.0.1:5500/En/dict/the_other_way_around.html#entry1.1-1)
+- [gem](http://127.0.0.1:5500/En/dict/gem.html#entry1.1-1)
+- writing precise [pseudocode](http://127.0.0.1:5500/En/dict/pseudocode.html#entry1.1-1) is a great first step
+
+**Word of the Day: [egregious](http://127.0.0.1:5500/En/dict/egregious.html)** | *adjective* | ih-GREE-juss
+
+*Egregious* is a formal word used to describe things that are conspicuously bad.
+
+**Quiz**: Rearrange the letters to form a synonym of *egregious*: [RLINGAG](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3)
 
 ### Reading & Writing
 
@@ -336,8 +349,77 @@ To *dissociate* is to separate oneself from association or union with someone or
 - Otherwise, academics will continue to think dangerously alike, increasingly detached from the societies which they study, investigate and criticise.
 - Well, there may be wisdom in following the lead of established Airbnbs.
 
+#### 08/03/2025 {RW}
+
+- Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a [frown](http://127.0.0.1:5500/En/dict/frown.html#entry1.1-1).
+
 ## Exams
 
 ### National Postgraduate Entrance Examination (NPEE) English I
 
 #### NPEE-E1-2010
+
+#### NPEE-E1-2011
+
+**Section I.1**: Ancient Greek philosopher Aristotle viewed laughter as "a bodily exercise precious to health." But ____ some claims to the contrary, laughing probably has little influence on physical fitness.
+
+| A. among | B. except | **C. despite** | D. like |
+| -------- | --------- | -------------- | ------- |
+
+**Section I.3**: Laughter does produce short-term changes in the function of the heart and its blood vessels, ____ heart rate and oxygen consumption.
+
+| A. stabilizing | **B. boosting** | C. impairing | D. determining |
+| -------------- | --------------- | ------------ | -------------- |
+
+**Section I.4-5**: But because [hard](http://127.0.0.1:5500/En/dict/hard.html#entry1.1-8e(3)) laughing is difficult to ____, a good laugh is unlikely to have ____ benefits the way, say, walking or jogging does.
+
+| A. transmit | **B. sustain** | C. evaluate | D. observe |
+| ----------- | -------------- | ----------- | ---------- |
+
+| **A. [measurable](http://127.0.0.1:5500/En/dict/measurable.html#entry1.1-2)** | B. manageable | C. affordable | D. renewable |
+| ----------------------------------------------------------------------------- | ------------- | ------------- | ------------ |
+
+**Section I.13**: It was argued at the end of the 19th century that humans do not cry ____ they are sad but they become sad when the tears begin to flow.
+
+| A. unless | B. until | C. if | **D. because** |
+| --------- | -------- | ----- | -------------- |
+
+**Section I.16-19**: In an experiment published in 1988, social psychologist Fritz Strack of the University of würzburg in Germany asked volunteers to ____ a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a(an) ____ expression. Those forced to exercise their smiling muscles ____ more enthusiastically to funny cartoons that did those whose mouths were [contracted](http://127.0.0.1:5500/En/dict/contract.html#entry2.1-4) in a [frown](http://127.0.0.1:5500/En/dict/frown.html#entry2.1-1), ____ that expressions may influence emotions rather than just [the other way around](http://127.0.0.1:5500/En/dict/the_other_way_around.html#entry1.1-1).
+
+| A. fetch | B. [bite](http://127.0.0.1:5500/En/dict/bite.html#entry1.1-1a) | C. pick | **D. [hold](http://127.0.0.1:5500/En/dict/hold.html#entry1.1-4a)** |
+| -------- | -------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
+
+| **A. disappointed** | B. excited | C. joyful | D. [indifferent](http://127.0.0.1:5500/En/dict/indifferent.html#entry1.1-1) |
+| ------------------- | ---------- | --------- | --------------------------------------------------------------------------- |
+
+| A. adapted | B. catered | C. turned | **D. reacted** |
+| ----------- | --------- | --------- | -------------- |
+
+| **A. suggesting** | B. requiring | C. mentioning | D. supposing |
+| ----------------- | ------------ | ------------- | ------------ |
+
+#### NPEE-E1-2012
+
+**Section I.1-3**: The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot ____ its [legitimacy](http://127.0.0.1:5500/En/dict/legitimacy.html#entry1.1-1) as guardian of the rule of law ____ justices behave like politicians. Yet, in several instances, justices acted in ways that ____ the court's reputation for being independent and impartial.
+
+| A. emphasize | **B. maintain** | C. modify | D. recognize |
+| ------------ | --------------- | --------- | ------------ |
+
+| **A. when** | B. lest | C. before | D. unless |
+| ----------- | ------- | --------- | --------- |
+
+| A. restored | **B. weakened** | C. established | D. eliminated |
+| ----------- | --------------- | ------------- | -------------- |
+
+**Section I.17**: When the court deals with social policy decisions, the law it shapes is inescapably political—which is why decisions split along ideological lines are so easily ____ as unjust.
+
+| **A. dismissed** | B. released | C. ranked | D. [distorted](http://127.0.0.1:5500/En/dict/distort.html#entry1.1-1) |
+| ---------------- | ---------- | ---------- | --------------------------------------------------------------------- |
+
+**Section I.19-20**: The justices must address doubts about the court’s legitimacy by making themselves ____ to the code of conduct. That would make rulings more likely to be seen as separate from politics and, ____, convincing as law.
+
+| A. accessible | B. [amiable](http://127.0.0.1:5500/En/dict/amiable.html#entry1.1-1a) | C. agreeable | **D. [accountable](http://127.0.0.1:5500/En/dict/accountable.html#entry1.1-1)** |
+| ------------- | -------------------------------------------------------------------- | ------------ | ------------------ |
+
+| A. [by all means](http://127.0.0.1:5500/En/dict/mean.html#by_all_means.1-1) | B. [at all costs](http://127.0.0.1:5500/En/dict/cost.html#at_all_costs.1-1) | C. [in a word](http://127.0.0.1:5500/En/dict/word.html#in_a_word.1-1) | D. as a result |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
