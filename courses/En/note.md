@@ -290,6 +290,16 @@ To *dissociate* is to separate oneself from association or union with someone or
 
 **Quiz**: Rearrange the letters to form a synonym of *egregious*: [RLINGAG](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3)
 
+#### 08/04/2025 {V}
+
+- Since the [pattern](http://127.0.0.1:5500/En/dict/pattern.html#entry1.1-10) repeats, we can use a loop.
+
+**Word of the Day: [tapestry](http://127.0.0.1:5500/En/dict/tapestry.html)** | *noun* | TAP-uh-stree
+
+A *tapestry* is a heavy textile characterized by complicated pictorial designs and used for hangings, curtains, and [upholstery](http://127.0.0.1:5500/En/dict/upholstery.html#entry1.1-1). In [figurative](http://127.0.0.1:5500/En/dict/figurative.html#entry1.1-2b) use, *tapestry* may refer to anything made up of different things, people, colors, etc.
+
+**Quiz**: Rearrange the letters to form a word "for a painting done on freshly [spread](http://127.0.0.1:5500/En/dict/spread.html#entry1.1-2c) moist [lime plaster](http://127.0.0.1:5500/En/dict/lime_plaster.html#entry1.1-1) with water-based [pigments](http://127.0.0.1:5500/En/dict/pigment.html#entry1.1-1)": [SFORCE](http://127.0.0.1:5500/En/dict/fresco.html)
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
