@@ -286,7 +286,7 @@ To *dissociate* is to separate oneself from association or union with someone or
 
 **Word of the Day: [egregious](http://127.0.0.1:5500/En/dict/egregious.html)** | *adjective* | ih-GREE-juss
 
-*Egregious* is a formal word used to describe things that are conspicuously bad.
+*Egregious* is a formal word used to describe things that are [conspicuously](http://127.0.0.1:5500/En/dict/conspicuously.html#entry1.1-2) bad.
 
 **Quiz**: Rearrange the letters to form a synonym of *egregious*: [RLINGAG](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3)
 
