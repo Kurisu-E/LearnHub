@@ -288,7 +288,7 @@ To *dissociate* is to separate oneself from association or union with someone or
 
 *Egregious* is a formal word used to describe things that are [conspicuously](http://127.0.0.1:5500/En/dict/conspicuously.html#entry1.1-2) bad.
 
-**Quiz**: Rearrange the letters to form a synonym of *egregious*: [RLINGAG](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3)
+**Quiz:** Rearrange the letters to form a synonym of *egregious*: [RLINGAG](http://127.0.0.1:5500/En/dict/glaring.html#entry1.1-3)
 
 #### 08/04/2025 {V}
 
@@ -298,7 +298,25 @@ To *dissociate* is to separate oneself from association or union with someone or
 
 A *tapestry* is a heavy textile characterized by complicated pictorial designs and used for hangings, curtains, and [upholstery](http://127.0.0.1:5500/En/dict/upholstery.html#entry1.1-1). In [figurative](http://127.0.0.1:5500/En/dict/figurative.html#entry1.1-2b) use, *tapestry* may refer to anything made up of different things, people, colors, etc.
 
-**Quiz**: Rearrange the letters to form a word "for a painting done on freshly [spread](http://127.0.0.1:5500/En/dict/spread.html#entry1.1-2c) moist [lime plaster](http://127.0.0.1:5500/En/dict/lime_plaster.html#entry1.1-1) with water-based [pigments](http://127.0.0.1:5500/En/dict/pigment.html#entry1.1-1)": [SFORCE](http://127.0.0.1:5500/En/dict/fresco.html)
+**Quiz:** Rearrange the letters to form a word "for a painting done on freshly [spread](http://127.0.0.1:5500/En/dict/spread.html#entry1.1-2c) moist [lime plaster](http://127.0.0.1:5500/En/dict/lime_plaster.html#entry1.1-1) with water-based [pigments](http://127.0.0.1:5500/En/dict/pigment.html#entry1.1-1)": [SFORCE](http://127.0.0.1:5500/En/dict/fresco.html)
+
+#### 08/05/2025 {V}
+
+- The company [provoked](http://127.0.0.1:5500/En/dict/provoke.html#entry1.1-1a) [justified](http://127.0.0.1:5500/En/dict/justified.html#entry1.1-1) outrage in Vermont last week when it announced it was [reneging](http://127.0.0.1:5500/En/dict/renege.html#entry1.1-1) on a [longstanding](http://127.0.0.1:5500/En/dict/longstanding.html#entry1.1-1) [commitment](http://127.0.0.1:5500/En/dict/commitment.html#entry1.1-1a) to [abide by](http://127.0.0.1:5500/En/dict/abide.html#abide_by.1-1) the state's strict nuclear regulations.
+- [desperate](http://127.0.0.1:5500/En/dict/desperate.html#entry1.1-2b) effort to keep its nuclear power plant running
+- The state required that any [extension](http://127.0.0.1:5500/En/dict/extension.html#entry1.1-5) of the plant's license be subject to the legislature's approval. Then, too, the company [went along](http://127.0.0.1:5500/En/dict/go_along.html#entry1.1-3).
+- he never really intended to [live by](http://127.0.0.1:5500/En/dict/live_by.html#entry1.1-1) those commitments
+- By [entering into](http://127.0.0.1:5500/En/dict/enter.html#enter_into.1-1) the 2002 agreement, Entergy intended to get permission to purchase a power plant.
+- There are valid concerns about the [patchwork](http://127.0.0.1:5500/En/dict/patchwork.html#entry1.1-1) regulations that could [result](http://127.0.0.1:5500/En/dict/result.html#entry1.1-1) if every state sets its own rules.
+- But had Entergy [kept its word](http://127.0.0.1:5500/En/dict/keep_one's_word.html#entry1.1-1), that debate would be [beside the point](http://127.0.0.1:5500/En/dict/point.html#beside_the_point.1-1).
+- What's cool is that a `while` loop doesn't need a number of repetitions specified [ahead of time](http://127.0.0.1:5500/En/dict/ahead_of_time.html#entry1.1-1).
+- Logic makes it possible for a program to be [versatile](http://127.0.0.1:5500/En/dict/versatile.html#entry1.1-2) like this.
+
+**Word of the Day: [contentious](http://127.0.0.1:5500/En/dict/contentious.html)** | *adjective* | kun-TEN-shuss
+
+*Contentious* describes something that is likely to cause people to argue or disagree or that involves a log of arguing. When used of a person, *contentious* describes someone likely or willing to argue.
+
+**Quiz:** Rearrange the letters to form a word referring to "a habitually [irritable](http://127.0.0.1:5500/En/dict/irritble.html#entry1.1-1a) or complaining person": [OGHCUR](http://127.0.0.1:5500/En/dict/grouch.html#entry1.1-2)
 
 ### Reading & Writing
 
