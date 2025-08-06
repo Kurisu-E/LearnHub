@@ -307,16 +307,35 @@ A *tapestry* is a heavy textile characterized by complicated pictorial designs a
 - The state required that any [extension](http://127.0.0.1:5500/En/dict/extension.html#entry1.1-5) of the plant's license be subject to the legislature's approval. Then, too, the company [went along](http://127.0.0.1:5500/En/dict/go_along.html#entry1.1-3).
 - he never really intended to [live by](http://127.0.0.1:5500/En/dict/live_by.html#entry1.1-1) those commitments
 - By [entering into](http://127.0.0.1:5500/En/dict/enter.html#enter_into.1-1) the 2002 agreement, Entergy intended to get permission to purchase a power plant.
-- There are valid concerns about the [patchwork](http://127.0.0.1:5500/En/dict/patchwork.html#entry1.1-1) regulations that could [result](http://127.0.0.1:5500/En/dict/result.html#entry1.1-1) if every state sets its own rules.
+- There are valid concerns about the [patchwork](http://127.0.0.1:5500/En/dict/patchwork.html#entry1.1-1) regulations that could [result](http://127.0.0.1:5500/En/dict/result.html#entry1.1-1a) if every state sets its own rules.
 - But had Entergy [kept its word](http://127.0.0.1:5500/En/dict/keep_one's_word.html#entry1.1-1), that debate would be [beside the point](http://127.0.0.1:5500/En/dict/point.html#beside_the_point.1-1).
 - What's cool is that a `while` loop doesn't need a number of repetitions specified [ahead of time](http://127.0.0.1:5500/En/dict/ahead_of_time.html#entry1.1-1).
 - Logic makes it possible for a program to be [versatile](http://127.0.0.1:5500/En/dict/versatile.html#entry1.1-2) like this.
 
 **Word of the Day: [contentious](http://127.0.0.1:5500/En/dict/contentious.html)** | *adjective* | kun-TEN-shuss
 
-*Contentious* describes something that is likely to cause people to argue or disagree or that involves a log of arguing. When used of a person, *contentious* describes someone likely or willing to argue.
+*Contentious* describes something that is likely to cause people to argue or disagree or that involves a lot of arguing. When used of a person, *contentious* describes someone likely or willing to argue.
 
-**Quiz:** Rearrange the letters to form a word referring to "a habitually [irritable](http://127.0.0.1:5500/En/dict/irritble.html#entry1.1-1a) or complaining person": [OGHCUR](http://127.0.0.1:5500/En/dict/grouch.html#entry1.1-2)
+**Quiz:** Rearrange the letters to form a word referring to "a habitually [irritable](http://127.0.0.1:5500/En/dict/irritable.html#entry1.1-1a) or complaining person": [OGHCUR](http://127.0.0.1:5500/En/dict/grouch.html#entry1.1-2)
+
+#### 08/06/2025 {V}
+
+- objective researchers use the scientific method to [carry out](http://127.0.0.1:5500/En/dict/carry_out.html#entry2.1-2) their work
+- the [subsequent](http://127.0.0.1:5500/En/dict/subsequent.html#entry1.1-1) actions we take
+- Opportunities for [misinterpretation](http://127.0.0.1:5500/En/dict/misinterpretation.html#entry1.1-1), error, and [self-deception](http://127.0.0.1:5500/En/dict/self-deception.html#entry1.1-1) abound.
+- discovery claims should be thought of as [proto](http://127.0.0.1:5500/En/dict/proto-.html#entry1.1-1b)science
+- It takes collective [scrutiny](http://127.0.0.1:5500/En/dict/scrutiny.html#entry1.1-1) and acceptance to transform a discovery claim into a mature discover. This is the [credibility](http://127.0.0.1:5500/En/dict/credibility.html#entry1.1-1) process.
+- a discovery claim [works its way](http://127.0.0.1:5500/En/dict/work_one's_way.html#entry1.1-1) through the community
+- [prevailing](http://127.0.0.1:5500/En/dict/prevail.html#entry1.1-5) knowledge
+- [Novelty](http://127.0.0.1:5500/En/dict/novelty.html#entry1.1-2) itself provokes disbelief.
+- scientific work [calls for](http://127.0.0.1:5500/En/dict/call.html#call_for.1-2) a critical mind
+- it [comes in handy](http://127.0.0.1:5500/En/dict/come_in_handy.html#entry1.1-1) to know when and where to use a loop
+
+**Word of the Day: [largesse](http://127.0.0.1:5500/En/dict/largesse.html)** | *noun* | lahr-ZHESS
+
+*Largesse* is a somewhat formal word that refers to the act of giving away money or the generosity of a person who gives away money. It can also refer to the money that is given away.
+
+**Quiz:** Fill in the blanks to complete a word "for a small gift given to a customer by a merchant at the time of purchase": [I␣␣ni␣p␣e](http://127.0.0.1:5500/En/dict/lagniappe.html#entry1.1-1)
 
 ### Reading & Writing
 
