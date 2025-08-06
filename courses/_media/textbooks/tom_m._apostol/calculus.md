@@ -10,10 +10,10 @@ contents:
 
 Learning Materials:
 
-- Calculus Vol. I[^cal_i]
-  [^cal_i]: [Calculus Vol. I](calculus_i(2nd).pdf)
-- Calculus Vol. II[^cal_ii]
-  [^cal_ii]: [Calculus Vol. II](calculus_ii(2nd).pdf)
+- *Calculus Vol. I*[^cal_i]
+  [^cal_i]: [*Calculus Vol. I*](calculus_i(2nd).pdf)
+- **Calculus Vol. II*[^cal_ii]
+  [^cal_ii]: [*Calculus Vol. II*](calculus_ii(2nd).pdf)
 
 Contents:
 
@@ -79,6 +79,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 - *Proof of the well-ordering principle 良序原理的证明*
 - The summation notation 求和符号
 - Absolute values and the triangle inequality 绝对值与三角不等式
+
+---
 
 ## Part I&emsp;Fundamental Calculus
 
@@ -179,6 +181,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 - Integration by substitution 换元积分法
 - Integration by parts 分部积分法
 
+---
+
 ## Part II&emsp;Advanced Calculus and Applications
 
 ### 6&emsp;The Logarithm, the Exponential, and the Inverse Trigonometric Functions
@@ -205,6 +209,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 
 函数的序列和级数
 
+---
+
 ## Part III&emsp;Calculus in Analytic Geometry
 
 ### 12&emsp;Vector Algebra
@@ -218,6 +224,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 ### 14&emsp;Calculus of Vector-Valued Functions
 
 向量值函数的微积分
+
+---
 
 ## Part IV&emsp;Linear Analysis
 
@@ -249,6 +257,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 
 微分方程组
 
+---
+
 ## Part V&emsp;Nonlinear Analysis
 
 ### 22&emsp;Differential Calculus of Scalar and Vector Fields
@@ -270,6 +280,8 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 ### 26&emsp;Surface Integrals
 
 曲面积分
+
+---
 
 ## Part VI&emsp;Special Topics
 
