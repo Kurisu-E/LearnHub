@@ -337,6 +337,26 @@ A *tapestry* is a heavy textile characterized by complicated pictorial designs a
 
 **Quiz:** Fill in the blanks to complete a word "for a small gift given to a customer by a merchant at the time of purchase": [I␣␣ni␣p␣e](http://localhost:5500/En/dict/lagniappe.html#entry1.1-1)
 
+#### 08/08/2025 {V}
+
+- the [trade unionist](http://localhost:5500/En/dict/trade_unionist.html#entry1.1-1) would probably represent [civil servants](http://localhost:5500/En/dict/civil_servant.html#entry1.1-1).
+- They were [in their prime](http://localhost:5500/En/dict/in_one's_prime.html#entry1.1-1) in 1960.
+- In 2009 the number of unionists in America's [public sector](http://localhost:5500/En/dict/public_sector.html#entry1.1-1) passed that of their fellow members in the [private sector](http://localhost:5500/En/dict/private_sector.html#entry1.1-1).
+- They now dominate [left-of-centre](http://localhost:5500/En/dict/left-of-centre.html#entry1.1-1) politics. Some of their [ties](http://localhost:5500/En/dict/tie.html#entry2.1-2b) [go back a long way](http://localhost:5500/En/dict/go_back_a_long_way.html#entry1.1-1).
+- At the state level their influence can be even more [fearsome](http://localhost:5500/En/dict/fearsome.html#entry1.1-1a).
+- Much of the state's [budget](http://localhost:5500/En/dict/budget.html#entry1.1-4c) is [patrolled](http://localhost:5500/En/dict/patrol.html#entry2.2-1) by unions.
+- Politicians have repeatedly "[backloaded](http://localhost:5500/En/dict/backload.html#entry2.1-1)" public-sector pay deals, keeping the pay increases [modest](http://localhost:5500/En/dict/modest.html#entry1.1-4a) but adding to holidays and especially [pensions](http://localhost:5500/En/dict/pension.html#entry1.1-2) that are already generous.
+- [charter schools](http://localhost:5500/En/dict/charter_school.html#entry1.1-1), academies and [merit pay](http://localhost:5500/En/dict/merit_pay.html#entry1.1-1) all faced [drawn-out](http://localhost:5500/En/dict/draw_out.html#entry1.1-2) battles
+- As the cost to everyone else has become clearer, politicians have begun to [clamp down](http://localhost:5500/En/dict/clamp_down.html#entry2.1-1).
+- the norms of culture in Western [civil services](http://localhost:5500/En/dict/civil_service.html#entry1.1-1) suit those who want to [stay put](http://localhost:5500/En/dict/stay_put.html#entry1.1-1) but is bad for high achievers
+- Loop [combo](http://localhost:5500/En/dict/combo.html#entry1.1-2) challenge
+
+**Word of the Day: [winsome](http://localhost:5500/En/dict/winsome.html)** | *adjective* | WIN-sum
+
+*Winsome* describes people and things that are cheerful, pleasant, and appealing.
+
+**Quiz:** What 7-letter synonym of *cheerful* can also be used to mean "[capable of floating](http://localhost:5500/En/dict/buoyant.html)"?
+
 ### Reading & Writing
 
 #### 06/23/2025 {RW}
@@ -399,6 +419,11 @@ A *tapestry* is a heavy textile characterized by complicated pictorial designs a
 #### 08/03/2025 {RW}
 
 - Those forced to exercise their smiling muscles reacted more enthusiastically to funny cartoons than did those whose mouths were contracted in a [frown](http://localhost:5500/En/dict/frown.html#entry1.1-1).
+
+#### 08/08/2025 {RW}
+
+- More than half of public-sector workers but only about 15% of private-sector ones are unionized.
+- So `if` statements are a key part of any programmer's toolbox.
 
 ## Exams
 
