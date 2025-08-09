@@ -164,6 +164,25 @@ A *tapestry* is a heavy textile characterized by complicated pictorial designs a
 
 **Quiz:** What 7-letter synonym of *cheerful* can also be used to mean "[capable of floating](http://localhost:5500/En/dict/buoyant.html)"?
 
+#### 08/09/2025 {V}
+
+- those [fleeting](http://localhost:5500/En/dict/fleeting.html#entry1.1-1) moments
+- [brown-paper](http://localhost:5500/En/dict/brown_paper.html#entry1.1-1) envelope
+- Take [a moment or two](http://localhost:5500/En/dict/a_(something)_or_two.html#entry1.1-1) to wonder at those marvels. You are the lucky inheritor of a [dream come true](http://localhost:5500/En/dict/dream_come_true.html#entry1.1-1).
+- [visionaries](http://localhost:5500/En/dict/visionary.html#entry2.1-1) labor create a [fabulous](http://localhost:5500/En/dict/fabulous.html#entry1.1-1b) machine
+- by the [turn](http://localhost:5500/En/dict/turn.html#entry2.1-5c) of the [millennium](http://localhost:5500/En/dict/millennium.html#entry1.1-2a)
+- there are strong commercial [agendas](http://localhost:5500/En/dict/agenda.html#entry1.1-2) [at work](http://localhost:5500/En/dict/work.html#at_work.1-2)
+- failing to move beyond downloading is to [strip](http://localhost:5500/En/dict/strip.html#entry1.1-1b) oneself of a defining constituent of humanity
+- Even after the [advent](http://localhost:5500/En/dict/advent.html#entry1.1-3) of of widespread social media, a [pyramid](http://localhost:5500/En/dict/pyramid.html#entry1.1-5) of production remains, with a small number of people uploading material, a slightly larger group commenting on or modifying that content, and a huge percentage remaining content to just consume.
+- Television is a [one-way](http://localhost:5500/En/dict/one-way.html#entry1.1-1) [tap](http://localhost:5500/En/dict/tap.html#entry3.1-1b) flowing into our homes.
+- "stickiness"—creations and experiences to which others [adhere](http://localhost:5500/En/dict/adhere.html#entry1.1-2)
+
+**Word of the Day: [behemoth](http://localhost:5500/En/dict/behemoth.html)** | *noun* | bih-HEE-muth
+
+A *behemoth* is something of monstrous size, power, or appearance. *Behemoth* (usually capitalized) is also the name of a mighty animal described in the biblical book of Job.
+
+**Quiz:** Fill in the blanks to complete a synonym of *behemoth*: [m␣m␣␣t␣](http://localhost:5500/En/dict/mammoth.html#entry1.1-2)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
