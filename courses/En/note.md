@@ -240,6 +240,14 @@ A *behemoth* is something of monstrous size, power, or appearance. *Behemoth* (u
 
 **Quiz:** Fill in the blanks to complete a synonym of *behemoth*: [m␣m␣␣t␣](http://localhost:5500/En/dict/mammoth.html#entry1.1-2)
 
+#### 08/10/2025 {V}
+
+**Word of the Day: [hidebound](http://localhost:5500/En/dict/hidebound.html)** | *adjective* | HYDE-bound
+
+Someone or something described as *hidebound* is inflexible and unwilling to accept new or different ideas.
+
+**Quiz**: Rearrange the letters to form an adjective meaning "formal" or "stiff" that can also describe foods such as bread or pasta: [RHSYTAC](http://localhost:5500/En/dict/starchy.html)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
@@ -265,63 +273,84 @@ A *behemoth* is something of monstrous size, power, or appearance. *Behemoth* (u
 
 **Section I.1**: Ancient Greek philosopher Aristotle viewed laughter as "a bodily exercise precious to health." But ____ some claims to the contrary, laughing probably has little influence on physical fitness.
 
-| A. among | B. except | **C. despite** | D. like |
-| -------- | --------- | -------------- | ------- |
+| A. among | B. except | C. despite | D. like |
+| -------- | --------- | :--------: | ------- |
 
 **Section I.3**: Laughter does produce short-term changes in the function of the heart and its blood vessels, ____ heart rate and oxygen consumption.
 
-| A. stabilizing | **B. boosting** | C. impairing | D. determining |
-| -------------- | --------------- | ------------ | -------------- |
+| A. stabilizing | B. boosting | C. impairing | D. determining |
+| -------------- | :---------: | ------------ | -------------- |
 
 **Section I.4-5**: But because [hard](http://localhost:5500/En/dict/hard.html#entry1.1-8e(3)) laughing is difficult to ____, a good laugh is unlikely to have ____ benefits the way, say, walking or jogging does.
 
-| A. transmit | **B. sustain** | C. evaluate | D. observe |
-| ----------- | -------------- | ----------- | ---------- |
+| A. transmit | B. sustain | C. evaluate | D. observe |
+| ----------- | :--------: | ----------- | ---------- |
 
-| **A. [measurable](http://localhost:5500/En/dict/measurable.html#entry1.1-2)** | B. manageable | C. affordable | D. renewable |
-| ----------------------------------------------------------------------------- | ------------- | ------------- | ------------ |
+| A. [measurable](http://localhost:5500/En/dict/measurable.html#entry1.1-2) | B. manageable | C. affordable | D. renewable |
+| :-----------------------------------------------------------------------: | ------------- | ------------- | ------------ |
 
 **Section I.13**: It was argued at the end of the 19th century that humans do not cry ____ they are sad but they become sad when the tears begin to flow.
 
-| A. unless | B. until | C. if | **D. because** |
-| --------- | -------- | ----- | -------------- |
+| A. unless | B. until | C. if | D. because |
+| --------- | -------- | ----- | :--------: |
 
 **Section I.16-19**: In an experiment published in 1988, social psychologist Fritz Strack of the University of würzburg in Germany asked volunteers to ____ a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a(an) ____ expression. Those forced to exercise their smiling muscles ____ more enthusiastically to funny cartoons that did those whose mouths were [contracted](http://localhost:5500/En/dict/contract.html#entry2.1-4) in a [frown](http://localhost:5500/En/dict/frown.html#entry2.1-1), ____ that expressions may influence emotions rather than just [the other way around](http://localhost:5500/En/dict/the_other_way_around.html#entry1.1-1).
 
-| A. fetch | B. [bite](http://localhost:5500/En/dict/bite.html#entry1.1-1a) | C. pick | **D. [hold](http://localhost:5500/En/dict/hold.html#entry1.1-4a)** |
-| -------- | -------------------------------------------------------------- | ------- | ------------------------------------------------------------------ |
+| A. fetch | B. [bite](http://localhost:5500/En/dict/bite.html#entry1.1-1a) | C. pick | D. [hold](http://localhost:5500/En/dict/hold.html#entry1.1-4a) |
+| -------- | -------------------------------------------------------------- | ------- | :------------------------------------------------------------: |
 
-| **A. disappointed** | B. excited | C. joyful | D. [indifferent](http://localhost:5500/En/dict/indifferent.html#entry1.1-1) |
-| ------------------- | ---------- | --------- | --------------------------------------------------------------------------- |
+| A. disappointed | B. excited | C. joyful | D. [indifferent](http://localhost:5500/En/dict/indifferent.html#entry1.1-1) |
+| :-------------: | ---------- | --------- | --------------------------------------------------------------------------- |
 
-| A. adapted | B. catered | C. turned | **D. reacted** |
-| ----------- | --------- | --------- | -------------- |
+| A. adapted | B. catered | C. turned | D. reacted |
+| ----------- | --------- | --------- | :--------: |
 
-| **A. suggesting** | B. requiring | C. mentioning | D. supposing |
-| ----------------- | ------------ | ------------- | ------------ |
+| A. suggesting | B. requiring | C. mentioning | D. supposing |
+| :-----------: | ------------ | ------------- | ------------ |
 
 #### NPEE-E1-2012
 
 **Section I.1-3**: The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot ____ its [legitimacy](http://localhost:5500/En/dict/legitimacy.html#entry1.1-1) as guardian of the rule of law ____ justices behave like politicians. Yet, in several instances, justices acted in ways that ____ the court's reputation for being independent and impartial.
 
-| A. emphasize | **B. maintain** | C. modify | D. recognize |
-| ------------ | --------------- | --------- | ------------ |
+| A. emphasize | B. maintain | C. modify | D. recognize |
+| ------------ | :---------: | --------- | ------------ |
 
-| **A. when** | B. lest | C. before | D. unless |
-| ----------- | ------- | --------- | --------- |
+| A. when | B. lest | C. before | D. unless |
+| :-----: | ------- | --------- | --------- |
 
-| A. restored | **B. weakened** | C. established | D. eliminated |
-| ----------- | --------------- | ------------- | -------------- |
+| A. restored | B. weakened | C. established | D. eliminated |
+| ----------- | :---------: | ------------- | -------------- |
 
 **Section I.17**: When the court deals with social policy decisions, the law it shapes is inescapably political—which is why decisions split along ideological lines are so easily ____ as unjust.
 
-| **A. dismissed** | B. released | C. ranked | D. [distorted](http://localhost:5500/En/dict/distort.html#entry1.1-1) |
-| ---------------- | ---------- | ---------- | --------------------------------------------------------------------- |
+| A. dismissed | B. released | C. ranked | D. [distorted](http://localhost:5500/En/dict/distort.html#entry1.1-1) |
+| :----------: | ---------- | ---------- | --------------------------------------------------------------------- |
 
 **Section I.19-20**: The justices must address doubts about the court’s legitimacy by making themselves ____ to the code of conduct. That would make rulings more likely to be seen as separate from politics and, ____, convincing as law.
 
-| A. accessible | B. [amiable](http://localhost:5500/En/dict/amiable.html#entry1.1-1a) | C. agreeable | **D. [accountable](http://localhost:5500/En/dict/accountable.html#entry1.1-1)** |
-| ------------- | -------------------------------------------------------------------- | ------------ | ------------------ |
+| A. accessible | B. [amiable](http://localhost:5500/En/dict/amiable.html#entry1.1-1a) | C. agreeable | D. [accountable](http://localhost:5500/En/dict/accountable.html#entry1.1-1) |
+| ------------- | -------------------------------------------------------------------- | ------------ | :-------------------------------------------------------------------------: |
 
 | A. [by all means](http://localhost:5500/En/dict/mean.html#by_all_means.1-1) | B. [at all costs](http://localhost:5500/En/dict/cost.html#at_all_costs.1-1) | C. [in a word](http://localhost:5500/En/dict/word.html#in_a_word.1-1) | D. as a result |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------- |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- | :------------: |
+
+**Section II. Part A. Text 3**:
+
+> **Para.2**&emsp;Consequently, discovery claims should be thought of as protoscience. Similar to newly staked mining claims, they are full of potential. But it takes collective [scrutiny](http://localhost:5500/En/dict/scrutiny.html#entry1.1-1) and acceptance to transform a discovery claim into a mature discovery. This is the [credibility](http://localhost:5500/En/dict/credibility.html#entry1.1-1) process, through which the individual researcher's *me*, *here, *now* becomes the community's *anyone*, *anywhere*, *anytime*. Objective knowledge is the goal, not the starting point.
+> **Para.3**&emsp;Once a discovery claim becomes public, the discoverer receives intellectual credit. But, unlike with mining claims, the community takes control of hat happens next. Within the complex social structure off the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology. As a discovery claim [works its way](http://localhost:5500/En/dict/work_one's_way.html#entry1.1-1) through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.
+
+**T.32**: It can be inferred from Paragraph 2 that the credibility process requires
+
+| A. strict inspection.         |
+| :---------------------------- |
+| **B. shared efforts.** |
+| **C. individual wisdom.**     |
+| **D. persistent innovation.** |
+
+**T.33**: Paragraph 3 shows that a discovery claim becomes credible after it
+
+| A. has attracted the attention of the general public.       |
+| :---------------------------------------------------------- |
+| **B. has been examined by the scientific community.** |
+| **C. has received recognition from editors and reviewers.** |
+| **D. has been frequently quoted by peer scientists.**       |

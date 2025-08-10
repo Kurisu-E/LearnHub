@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DICT / THE OTHER WAY AROUND</title>
+  <title>DICT / HIDEBOUND</title>
   <link rel="stylesheet/less" type="text/css" href="/En/template/styles.less">
   <script src="https://cdn.jsdelivr.net/npm/less"></script>
 </head>
@@ -12,12 +12,20 @@
     <!-- Insert with `en!entry` if need -->
     
     <div id="entry1" class="entry">
-      <div class="header long">
-        <span class="headword">the other way around</span>
-        <a class="parts-of-speech" href="http://localhost:5500/En/dict/idiom.html">idiom</a>
+      <div class="header">
+        <span class="headword">hidebound</span>
+        <a class="parts-of-speech" href="http://localhost:5500/En/dict/adjective.html">adjective</a>
       </div>
       <!-- Insert with `en!entry-attr` and `en!sense` -->
-      <div id="entry1.1" class="sense">
+      <div class="attr">
+        <!-- Insert with `en!attr-syllables-prons` or `en!inf-vrs` -->
+        <div class="syllables-prons">
+          <!-- Insert with `span.syllable` (may need '·​'), `span.pron`, `i` or something -->
+          <span class="syllable">hide·​bound</span>
+          <span class="pron">ˈhīd-ˌbau̇nd</span>
+        </div>
+      </div>
+      <div id="entry1.1" class="sense">    
         <div class="content">
           <!-- Insert with `en!sense-item` -->
           <div id="entry1.1-1" class="item">
@@ -25,11 +33,18 @@
             <div class="content">
               <div class="brief">
                 <!-- Insert with `p>span.badge~b~i~en!rel[-cls]`, `p.note`, `p.example` or something -->
-                <p><b>:</b> in the opposite position, direction, or order</p>
-                <p class="example">You put the fork on the right and the knife on the left. They should be <i>the other way around</i>.</p>
+                <p><span class="badge">of a domestic animal</span> <b>:</b> having a dry skin lacking in pliancy and adhering closely to the underlying flesh</p>
               </div>
               <!-- Insert with `en!sense-illus`, `en!sense-item-sub`, `en!sense-item-syn-ant`, `en!sense-deriv` orderly if need -->
-              
+              <div class="illustrations">
+                <div class="img">
+                  <!-- Insert with `en!sense-illus-img` -->
+                  <a href="img/hidebound-animal-cattle.jpg"><img src="img/hidebound-animal-cattle.jpg" alt="hidebound-animal-cattle.jpg"></a>
+                  <a href="img/hidebound-animal.webp"><img src="img/hidebound-animal.webp" alt="hidebound-animal.webp"></a>
+                </div>
+                <!-- Insert with `en!illus-legend` -->
+                
+              </div>
             </div>
           </div>
           <div id="entry1.1-2" class="item">
@@ -37,7 +52,8 @@
             <div class="content">
               <div class="brief">
                 <!-- Insert with `p>span.badge~b~i~en!rel[-cls]`, `p.note`, `p.example` or something -->
-                
+                <p><b>:</b> having an inflexible or ultraconservative character</p>
+                <p class="example">Although somewhat stuffy and strict, the professor did not so completely adhere to <i>hidebound</i> academic tradition that he wouldn't teach class outside on an especially lovely day.</p>
               </div>
               <!-- Insert with `en!sense-illus`, `en!sense-item-sub`, `en!sense-item-syn-ant`, `en!sense-deriv` orderly if need -->
               
