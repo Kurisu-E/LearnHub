@@ -248,6 +248,16 @@ Someone or something described as *hidebound* is inflexible and unwilling to acc
 
 **Quiz**: Rearrange the letters to form an adjective meaning "formal" or "stiff" that can also describe foods such as bread or pasta: [RHSYTAC](http://localhost:5500/En/dict/starchy.html)
 
+#### 08/11/2025 {V}
+
+- Let's learn to [wield](http://localhost:5500/En/dict/wield.html#entry1.1-2) an `if-else` statement in more complex ways.
+
+**Word of the Day: [stipulate](http://localhost:5500/En/dict/stipulate.html#entry1.2-1)** | *verb* | STIP-yuh-layt
+
+To *stipulate* is to demand or require something as part of an agreement.
+
+**Quiz**: Fill in the blanks to complete a noun that refers to "an agreement or covenant between two or more parties": [c␣␣p␣c␣](http://localhost:5500/En/dict/compact.html#entry4.1-1)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
