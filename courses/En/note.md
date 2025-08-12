@@ -246,7 +246,7 @@ A *behemoth* is something of monstrous size, power, or appearance. *Behemoth* (u
 
 Someone or something described as *hidebound* is inflexible and unwilling to accept new or different ideas.
 
-**Quiz**: Rearrange the letters to form an adjective meaning "formal" or "stiff" that can also describe foods such as bread or pasta: [RHSYTAC](http://localhost:5500/En/dict/starchy.html)
+**Quiz:** Rearrange the letters to form an adjective meaning "formal" or "stiff" that can also describe foods such as bread or pasta: [RHSYTAC](http://localhost:5500/En/dict/starchy.html)
 
 #### 08/11/2025 {V}
 
@@ -256,7 +256,27 @@ Someone or something described as *hidebound* is inflexible and unwilling to acc
 
 To *stipulate* is to demand or require something as part of an agreement.
 
-**Quiz**: Fill in the blanks to complete a noun that refers to "an agreement or covenant between two or more parties": [c␣␣p␣c␣](http://localhost:5500/En/dict/compact.html#entry4.1-1)
+**Quiz:** Fill in the blanks to complete a noun that refers to "an agreement or covenant between two or more parties": [c␣␣p␣c␣](http://localhost:5500/En/dict/compact.html#entry4.1-1)
+
+#### 08/12/2025 {V}
+
+- [on the whole](http://localhost:5500/En/dict/on_the_whole.html#whole.1)
+- But he speculated that an inability to consider [the big picture](http://localhost:5500/En/dict/the_big_picture.html#entry1.1-1) was leading decision-makers to be biased by the daily samples of information they were working with.
+- [In principle](http://localhost:5500/En/dict/principle.html#in_principle.1-1)
+- He theorized that a judge fearful of appearing too soft on crime might be more likely to send someone to prison if he had already [sentenced](http://localhost:5500/En/dict/sentence.html#entry2.1-1) five or six other [defendants](http://localhost:5500/En/dict/defendant.html#entry1.1-1) only to forced [community service](http://localhost:5500/En/dict/community_service.html#entry1.1-1) on that day.
+- This scale [took numerous factors into consideration](http://localhost:5500/En/dict/take_(something)_into_consideration.html#entry1.1-1).
+- The scores were then used [in conjunction with](http://localhost:5500/En/dict/in_conjunction_with.html#entry1.1-1) an applicant's score on the Graduate Management Admission Test, or GMAT, a standardized exam which is [marked](http://localhost:5500/En/dict/marked.html#entry2.1-2b(4)) [out of](http://localhost:5500/En/dict/out_of.html#entry1.1-4) 800 points, to make a decision on whether to accept him or her.
+- [fluctuate](http://localhost:5500/En/dict/fluctuate.html#entry1.1-1)
+- [disregard](http://localhost:5500/En/dict/disregard.html#entry1.1-1)
+- This might sound small, but to [undo](http://localhost:5500/En/dict/undo.html#entry1.1-2) the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary.
+- [More often than not](http://localhost:5500/En/dict/more_often_than_not.html#entry1.1-1), it's an iterative process.
+- Programmers tend to build good programs [one update at a time](http://localhost:5500/En/dict/at_a_time.html#entry1.1-1).
+
+**Word of the Day: [ramshackle](http://localhost:5500/En/dict/ramshackle.html)** | *adjective* | RAM-shak-ul
+
+*Ramshackle* describes things that are in a very bad condition and need to be repaired, or that are carelessly or loosely constructed.
+
+**Quiz:** Fill in the blanks to complete a word meaning "decayed, deteriorated, or fallen into partial ruin": [d␣␣a␣␣d␣t␣d](http://localhost:5500/En/dict/dilapdated.html#entry1.1-1)
 
 ### Reading & Writing
 
@@ -272,6 +292,10 @@ To *stipulate* is to demand or require something as part of an agreement.
 
 - More than half of public-sector workers but only about 15% of private-sector ones are unionized.
 - So `if` statements are a key part of any programmer's toolbox.
+
+#### 08/12/2025 {RW}
+
+- This might sound small, but to undo the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary.
 
 ## Exams
 
