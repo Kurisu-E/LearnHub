@@ -119,7 +119,7 @@ graph TD;
   aa -- 引入 *10c* --> J
 ```
 
-### Pronunciation
+### Phonology
 
 ### Grammar
 
