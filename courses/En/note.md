@@ -224,7 +224,7 @@ A *tapestry* is a heavy textile characterized by complicated pictorial designs a
 #### 08/09/2025 {V}
 
 - those [fleeting](http://localhost:5500/En/dict/fleeting.html#entry1.1-1) moments
-- [brown-paper](http://localhost:5500/En/dict/brown_paper.html#entry1.1-1) envelope
+- [brown-paper](http://localhost:5500/En/dict/brown-paper.html#entry1.1-1) envelope
 - Take [a moment or two](http://localhost:5500/En/dict/a_(something)_or_two.html#entry1.1-1) to wonder at those marvels. You are the lucky inheritor of a [dream come true](http://localhost:5500/En/dict/dream_come_true.html#entry1.1-1).
 - [visionaries](http://localhost:5500/En/dict/visionary.html#entry2.1-1) labor create a [fabulous](http://localhost:5500/En/dict/fabulous.html#entry1.1-1b) machine
 - by the [turn](http://localhost:5500/En/dict/turn.html#entry2.1-5c) of the [millennium](http://localhost:5500/En/dict/millennium.html#entry1.1-2a)
@@ -260,7 +260,7 @@ To *stipulate* is to demand or require something as part of an agreement.
 
 #### 08/12/2025 {V}
 
-- [on the whole](http://localhost:5500/En/dict/on_the_whole.html#whole.1)
+- [on the whole](http://localhost:5500/En/dict/whole.html#on_the_whole.1)
 - But he speculated that an inability to consider [the big picture](http://localhost:5500/En/dict/the_big_picture.html#entry1.1-1) was leading decision-makers to be biased by the daily samples of information they were working with.
 - [In principle](http://localhost:5500/En/dict/principle.html#in_principle.1-1)
 - He theorized that a judge fearful of appearing too soft on crime might be more likely to send someone to prison if he had already [sentenced](http://localhost:5500/En/dict/sentence.html#entry2.1-1) five or six other [defendants](http://localhost:5500/En/dict/defendant.html#entry1.1-1) only to forced [community service](http://localhost:5500/En/dict/community_service.html#entry1.1-1) on that day.
@@ -276,7 +276,31 @@ To *stipulate* is to demand or require something as part of an agreement.
 
 *Ramshackle* describes things that are in a very bad condition and need to be repaired, or that are carelessly or loosely constructed.
 
-**Quiz:** Fill in the blanks to complete a word meaning "decayed, deteriorated, or fallen into partial ruin": [d␣␣a␣␣d␣t␣d](http://localhost:5500/En/dict/dilapdated.html#entry1.1-1)
+**Quiz:** Fill in the blanks to complete a word meaning "decayed, deteriorated, or fallen into partial ruin": [d␣␣a␣␣d␣t␣d](http://localhost:5500/En/dict/dilapidated.html#entry1.1-1)
+
+#### 08/15/2025 {V}
+
+- Miranda Priestly [scolds](http://localhost:5500/En/dict/scold.html#entry1.1-1) her unattractive assistant for [imagining](http://localhost:5500/En/dict/imagine.html#entry1.1-2) that high fashion doesn't affect her.
+- This [top-down](http://localhost:5500/En/dict/top-down.html#entry1.1-1) conception of the fashion business couldn't be more out of date and [at odds with](http://localhost:5500/En/dict/at_odds_with.html#entry1.1-1) the [feverish](http://localhost:5500/En/dict/feverish.html#entry1.1-2) world described in *Overdressed*, Elizabeth Cline's three-year [indictment](http://localhost:5500/En/dict/indictment.html#entry1.1-3) of "[fast fashion](http://localhost:5500/En/dict/fast_fashion.html#entry1.1-1)".
+- In the last decade [or so](http://localhost:5500/En/dict/or_so.html#entry1.1-1), advances in technology have allowed [mass-market](http://localhost:5500/En/dict/mass-market.html#entry1.1-2) [labels](http://localhost:5500/En/dict/label.html#entry1.1-2b) to react to trends more quickly and anticipate demand more precisely.
+- Quicker [turnarounds](http://localhost:5500/En/dict/turnaround.html#entry1.1-1a) mean less wasted [inventory](http://localhost:5500/En/dict/inventory.html#entry1.1-2), more frequent releases, and more profit.
+- These labels encourage style-conscious consumers to see clothes as [disposable](http://localhost:5500/En/dict/disposable.html#entry1.1-2).
+- By offering on-trend items at [dirt-cheap](http://localhost:5500/En/dict/dirt-cheap.html#entry1.1-1) prices, these brands have hijacked fashion cycles, shaking an industry long [accustomed](http://localhost:5500/En/dict/accustomed.html#entry1.1-2) to a seasonal pace.
+- it must rely on low-wage overseas labor, order in [volumes](http://localhost:5500/En/dict/volume.html#entry1.1-3a(2)) that [strain](http://localhost:5500/En/dict/strain.html#entry2.1-5) natural resources, and use massive amounts of harmful chemicals.
+- no matter how much they [give away](http://localhost:5500/En/dict/give_away.html#entry2.1-1), this excess leads to waste
+- Towards the end of *Overdressed*, Cline introduced her [ideal](http://localhost:5500/En/dict/ideal.html#entry2.1-2), a Brooklyn woman.
+- But as Cline is the first to note, it took Beaumont decades to perfect her craft; her example can't be [knocked off](http://localhost:5500/En/dict/knock_off.html#entry2.1-6).
+- Several companies have made efforts to [curb](http://localhost:5500/En/dict/curb.html#entry2.1-2) their impact on labor and the environment.
+- [Vanity](http://localhost:5500/En/dict/vanity.html#entry1.1-1) is a constant.
+- [Satire](http://localhost:5500/En/dict/satire.html#entry1.1-1) on an extravagant lifestyle is the subject of the text.
+- A business with a nice website can [outshine](http://localhost:5500/En/dict/outshine.html#entry1.1-2) the [competition](http://localhost:5500/En/dict/competition.html#entry1.1-2).
+- Modern websites need to look [sleek](http://localhost:5500/En/dict/sleek.html#entry1.1-3c) on any user's device.
+
+**Word of the Day: [meander](http://localhost:5500/En/dict/meander.html#entry2.1)** | *verb* | mee-AN-der
+
+To *meander* is to follow a winding or intricate course—that is, one with a lot of turns and curves—or to walk slowly without a specific goal, purpose, or direction.
+
+**Quiz:** Fill in the blanks to complete a verb meaning "to walk or travel about without apparent plan": [t␣␣i␣s␣](http://localhost:5500/En/dict/traipse.html)
 
 ### Reading & Writing
 
@@ -296,6 +320,10 @@ To *stipulate* is to demand or require something as part of an agreement.
 #### 08/12/2025 {RW}
 
 - This might sound small, but to undo the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been necessary.
+
+#### 08/15/2025 {RW}
+
+- She exhibits the idealism common to many advocates of sustainability, be it in food or in energy.
 
 ## Exams
 
