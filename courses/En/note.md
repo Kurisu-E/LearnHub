@@ -143,7 +143,7 @@ To *dissociate* is to separate oneself from association or union with someone or
 
 #### 08/03/2025 {V}
 
-- jogging dose have [measurable](http://localhost:5500/En/dict/measurable.html#entry1.1-2) benefits on health
+- jogging does have [measurable](http://localhost:5500/En/dict/measurable.html#entry1.1-2) benefits on health
 - expressions may influence emotions rather than just [the other way around](http://localhost:5500/En/dict/the_other_way_around.html#entry1.1-1)
 - [gem](http://localhost:5500/En/dict/gem.html#entry1.1-1)
 - writing precise [pseudocode](http://localhost:5500/En/dict/pseudocode.html#entry1.1-1) is a great first step
@@ -302,6 +302,27 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 
 **Quiz:** Fill in the blanks to complete a verb meaning "to walk or travel about without apparent plan": [t␣␣i␣s␣](http://localhost:5500/En/dict/traipse.html)
 
+#### 08/16/2025 {V}
+
+- companies can [aim](http://localhost:5500/En/dict/aim.html#entry1.2-1b) "behavioral" ads at those most likely to buy.
+- such [fine-grained](http://localhost:5500/En/dict/fine-grained.html#entry1.1-1) information
+- the industry would [get cracking](http://localhost:5500/En/dict/get.html#get_cracking.1-1) on responding to DNT requests.
+- On May 31st Microsoft [set off](http://localhost:5500/En/dict/set_off.html#entry2.1-3a) the [row](http://localhost:5500/En/dict/row.html#entry5.1-1).
+- consumers will be [worse off](http://localhost:5500/En/dict/worse_off.html#entry1.1-2)
+- some may ignore a DNT signal and [press on](http://localhost:5500/En/dict/press_on.html#entry1.1-2) anyway.
+- Also unclear is why Microsoft has [gone it alone](http://localhost:5500/En/dict/go_it_alone.html#entry1.1-1).
+- setting DNT as a default may cut the number of [junk](http://localhost:5500/En/dict/junk.html#entry1.1-1b) ads.
+- DNT may not serve its [intended](http://localhost:5500/En/dict/intended.html#entry1.1-1) purpose.
+- Posts [tailored](http://localhost:5500/En/dict/tailored.html#entry1.1-2) to each platform.
+- share every post the business has [approved](http://localhost:5500/En/dict/approve.html#entry1.1-2a).
+- Loops and conditionals can help add popular features to an app, making it easier to gain an [edge](http://localhost:5500/En/dict/edge.html#entry1.1-2d) on the competition.
+
+**Word of the Day: [tempestuous](http://localhost:5500/En/dict/tempestuous.html)** | *adjective* | tem-PESS-chuh-wus
+
+*Tempestuous* is used to describe something that is related to or resembles a violent storm. In its literal (and often literary) use *tempestuous* is synonymous with [*turbulent*](http://localhost:5500/En/dict/turbulent.html) and [*stormy*](http://localhost:5500/En/dict/stormy.html). Figuratively, *tempestuous* describes something or someone full of strong emotions, such as anger or excitement.
+
+**Quiz:** Rearrange the letters to form a word that refers to "an extremely large, powerful, and destructive storm with very high winds that turn around an area of low pressure": [OYCENLC](http://localhost:5500/En/dict/cyclone.html#entry1.1-1)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
@@ -324,6 +345,10 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 #### 08/15/2025 {RW}
 
 - She exhibits the idealism common to many advocates of sustainability, be it in food or in energy.
+
+#### 08/16/2025 {RW}
+
+- The firm has compared some of its other products favorably with Google's on that count before.
 
 ## Exams
 
