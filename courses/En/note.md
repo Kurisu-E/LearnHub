@@ -323,6 +323,14 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 
 **Quiz:** Rearrange the letters to form a word that refers to "an extremely large, powerful, and destructive storm with very high winds that turn around an area of low pressure": [OYCENLC](http://localhost:5500/En/dict/cyclone.html#entry1.1-1)
 
+#### 08/17/2025 {V}
+
+**Word of the Day: [glitch](http://localhost:5500/En/dict/glitch.html)** | *noun* | GLITCH
+
+*Glitch* is an informal word referring to an unexpected and usually minor problem. It is used especially for a minor problem with a machine or device, such as a computer.
+
+**Quiz:** Fill in the blanks to complete a word for "a cause of error or equipment malfunction conceived of as a small mischievous gnome": [␣␣em␣i␣](http://localhost:5500/En/dict/gremlin.html#entry1.1-1)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
