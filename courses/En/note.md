@@ -331,6 +331,26 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 
 **Quiz:** Fill in the blanks to complete a word for "a cause of error or equipment malfunction conceived of as a small mischievous gnome": [␣␣em␣i␣](http://localhost:5500/En/dict/gremlin.html#entry1.1-1)
 
+#### 08/21/2025 {V}
+
+- [Up until](http://localhost:5500/En/dict/up_until.html#entry1.1-1) a few decades ago, our visions of the future were largely—though [by no means](http://localhost:5500/En/dict/mean.html#by_no_means.1-1) uniformly—glowingly positive.
+- Now [utopia](http://localhost:5500/En/dict/utopia.html#entry1.1-1) has grown unfashionable, as we have gained a deeper [appreciation](http://localhost:5500/En/dict/appreciation.html#entry1.1-1c) of the range of threats facing us, from [asteroid](http://localhost:5500/En/dict/asteroid.html#entry1.1-1) strike to epidemic [flu](http://localhost:5500/En/dict/flu.html#entry1.1-1) and to climate change.
+- You might even be [tempted](http://localhost:5500/En/dict/tempt.html#entry1.1-2b) to assume that humanity has little future to look forward to.
+- But such gloominess is [misplaced](http://localhost:5500/En/dict/misplace.html#entry1.1-2).
+- The fossil record shows that many species have [endured](http://localhost:5500/En/dict/endure.html#entry1.1-1) for millions of years.
+- it has as its [flagship](http://localhost:5500/En/dict/flagship.html#entry1.1-2) project a mechanical clock
+- the situations in which our [descendants](http://localhost:5500/En/dict/descendant.html#entry2.1-1) will find themselves
+- This long perspective makes the pessimistic view of our prospects seem more likely to be a passing [fad](http://localhost:5500/En/dict/fad.html#entry1.1-1). To be sure, the future is not all [rosy](http://localhost:5500/En/dict/rosy.html#entry1.1-2).
+- to reduce the risks that threatened the existence of earlier humans, and to improve the [lot](http://localhost:5500/En/dict/lot.html#entry1.1-3b) of those to come
+- [draw](http://localhost:5500/En/dict/draw.html#entry1.1-5c) on our experience from the past
+- the Supreme Court [knocked out](http://localhost:5500/En/dict/knock_out.html#entry3.1-2b) much of immigration law
+- the majority overturned three of the four [contested](http://localhost:5500/En/dict/contest.html#entry1.2-1) [provisions](http://localhost:5500/En/dict/provision.html#entry1.1-3) of the plan
+- The only major objection came from a justice, who offered an even more [robust](http://localhost:5500/En/dict/robust.html#entry1.1-1b) defense of state privileges [going back to](http://localhost:5500/En/dict/go_back_to.html#entry1.1-1) the Alien and [Sedition](http://localhost:5500/En/dict/sedition.html#entry1.1-1) [Acts](http://localhost:5500/En/dict/act.html#entry1.1-3a).
+- [In effect](http://localhost:5500/En/dict/effect.html#in_effect.1-1), the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.
+- they [overstepped](http://localhost:5500/En/dict/overstep.html#entry1.1-1) the authority of federal immigration law
+- the Justices agree on Congress's [intervention](http://localhost:5500/En/dict/intervention.html#entry1.1-1a) in immigration enforcement
+- the Acts [violated](http://localhost:5500/En/dict/violate.html#entry1.1-1) the Constitution and [undermined](http://localhost:5500/En/dict/undermine.html#entry1.1-1) the states' [interests](http://localhost:5500/En/dict/interest.html#entry1.1-2)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
@@ -357,6 +377,11 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 #### 08/16/2025 {RW}
 
 - The firm has compared some of its other products favorably with Google's on that count before.
+
+#### 08/21/2025 {RW}
+
+- It becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years.
+- As so often, the past holds the key to the future.
 
 ## Exams
 
