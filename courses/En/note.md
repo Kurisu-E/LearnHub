@@ -351,6 +351,12 @@ To *meander* is to follow a winding or intricate course—that is, one with a lo
 - the Justices agree on Congress's [intervention](http://localhost:5500/En/dict/intervention.html#entry1.1-1a) in immigration enforcement
 - the Acts [violated](http://localhost:5500/En/dict/violate.html#entry1.1-1) the Constitution and [undermined](http://localhost:5500/En/dict/undermine.html#entry1.1-1) the states' [interests](http://localhost:5500/En/dict/interest.html#entry1.1-2)
 
+**Word of the Day: [validate](http://localhost:5500/En/dict/validate.html)** | *verb* | VAL-uh-dayt
+
+To *validate* something is to show that it is real or correct. *Validate* an also mean "to state or show that something is legal or official," "to put a mark on something to show that it has been checked and is official or accepted," and "to show that someone's feelings, opinions, etc., are fair and reasonable."
+
+**Quiz:** Rearrange the letters to reveal a verb meaning "to approve and sanction (something, such as a treaty) formally": [IYRTAF](http://localhost:5500/En/dict/ratify.html#entry1.1-1)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
