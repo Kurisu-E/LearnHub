@@ -357,6 +357,33 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 
 **Quiz:** Rearrange the letters to reveal a verb meaning "to approve and sanction (something, such as a treaty) formally": [IYRTAF](http://localhost:5500/En/dict/ratify.html#entry1.1-1)
 
+#### 08/22/2025 {V}
+
+- The number of social-science students worldwide has [swollen](http://localhost:5500/En/dict/swell.html#entry1.1-1a) by about 11% every year since 2000.
+- [argo-](http://localhost:5500/En/dict/argo-.html#entry1.1-1)technological
+- To [paraphrase](http://localhost:5500/En/dict/paraphrase.html#entry2.2-1) the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.
+- Social scientists who complain about a lack of funding should not expect more in today's economic [climate](http://localhost:5500/En/dict/climate.html#entry1.1-3).
+- many social scientists seem [reluctant](http://localhost:5500/En/dict/reluctant.html#entry1.1-1) to tackle such problems
+- Some are [up in arms](http://localhost:5500/En/dict/arm.html#up_in_arms.1-1) over a proposal to drop a specific funding category for social-science research and to integrate it within [cross-cutting](http://localhost:5500/En/dict/cross-cut.html#entry1.1-1) topics of sustainable development.
+- [senior moment](http://localhost:5500/En/dict/senior_moment.html#entry1.1-1)
+- [roundabout](http://localhost:5500/En/dict/roundabout.html#entry2.1-1)
+- To **figure out** means to think of a solution for something or to understand something. "I just can't *figure* this *out*." "I *figured out* the problem."
+  To **find out** means to look into something or investigate. "Can you *find out* for me?" "I'll *find out* for you."
+  To **turn out** is like a result. "Everything *turned out* okay." "The project *turned out* to be a bust (awful)."
+- It turns out that the right mental workouts can significantly improve our basic [cognitive](http://localhost:5500/En/dict/cognitive.html#entry1.1-1) functions.
+- the university's [criterion](http://localhost:5500/En/dict/criterion.html#entry1.1-1) for admission
+- [To a certain extent](http://localhost:5500/En/dict/to_a_certain_extent.html#entry1.1-1), our ability to [excel](http://localhost:5500/En/dict/excel.html#entry1.2-1) in making connections that drive intelligence is inherited.
+- [carry on](http://localhost:5500/En/dict/carry_on.html#entry3.1-1) research
+- [took on](http://localhost:5500/En/dict/take_on.html#entry1.1-1b) the neighborhood bully
+- [put on](http://localhost:5500/En/dict/put_on.html#entry3.1-3a) weight
+- an [idle](http://localhost:5500/En/dict/idle.html#entry1.1-1a) worker
+
+**Word of the Day: [apathy](http://localhost:5500/En/dict/apathy.html)** | *noun* | AP-uh-thee
+
+*Apathy* refers either to a lack of feeling or emotion, or to a lack of interest or concern.
+
+**Quiz:** Rearrange the letters to form an adjective that can mean both "absurd or laughable" and "having a capacity to move one to either compassionate or contemptuous pity": [HICTPAET](http://localhost:5500/En/dict/pathetic.html)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
@@ -388,6 +415,10 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 
 - It becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years.
 - As so often, the past holds the key to the future.
+
+#### 08/22/2025 {RW}
+
+- [Stemming](http://localhost:5500/En/dict/stem.html#entry2.1-2) climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy.
 
 ## Exams
 
