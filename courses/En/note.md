@@ -384,6 +384,24 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 
 **Quiz:** Rearrange the letters to form an adjective that can mean both "absurd or laughable" and "having a capacity to move one to either compassionate or contemptuous pity": [HICTPAET](http://localhost:5500/En/dict/pathetic.html)
 
+#### 08/23/2025 {V}
+
+- [Chancellor of the Exchequer](http://localhost:5500/En/dict/chancellor_of_the_exchequer.html#entry1.1-1)
+- [upfront](http://localhost:5500/En/dict/upfront.html#entry1.1-1) work search
+- Only if the jobless arrive at the job center with a [CV](http://localhost:5500/En/dict/cv.html#entry2.1-3) will they be [eligible](http://localhost:5500/En/dict/eligible.html#entry1.1-1a) for [benefit](http://localhost:5500/En/dict/benefit.html#entry1.1-2a)—and then they should report weekly rather than [fortnightly](http://localhost:5500/En/dict/fortnightly.html#entry2.1-1).
+- There will now be a seven-day wait for the job seeker's [allowance](http://localhost:5500/En/dict/allowance.html#entry1.1-1a).
+- they help people [stay off](http://localhost:5500/En/dict/stay_off.html#entry1.1-1) benefits
+- an obviously indulgent system that demands too little effort from the newly unemployed to find work, and [subsidises](http://localhost:5500/En/dict/subsidise.html#entry1.1-1b) laziness
+- his [zeal](http://localhost:5500/En/dict/zeal.html#entry1.1-1) for "fundamental fairness"
+- only the most deserving [claimant](http://localhost:5500/En/dict/claimant.html#entry1.1-1) received their benefits
+- Your first [instinct](http://localhost:5500/En/dict/instinct.html#entry1.1-2b) is to fall into dependency supported by a state [only too](http://localhost:5500/En/dict/only_too.html#entry1.1-1) ready to indulge your [falsehood](http://localhost:5500/En/dict/falsehood.html#entry1.1-2).
+
+**Word of the Day: [flagrant](http://localhost:5500/En/dict/flagrant.html#entry1.1-1)** | *adjective* | FLAY-grunt
+
+Something may be described as *flagrant* if it is conspicuously bad—that is, too bad to be ignored.
+
+**Quiz:** Fill in the blanks to complete a synonym of *flagrant*: [␣␣r␣g␣o␣s](http://localhost:5500/En/dict/egregious.html#entry1.1-1)
+
 ### Reading & Writing
 
 ![2025-06-RW](logs/rw/2025-06.md)
