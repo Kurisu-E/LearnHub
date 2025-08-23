@@ -395,6 +395,15 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 - his [zeal](http://localhost:5500/En/dict/zeal.html#entry1.1-1) for "fundamental fairness"
 - only the most deserving [claimant](http://localhost:5500/En/dict/claimant.html#entry1.1-1) received their benefits
 - Your first [instinct](http://localhost:5500/En/dict/instinct.html#entry1.1-2b) is to fall into dependency supported by a state [only too](http://localhost:5500/En/dict/only_too.html#entry1.1-1) ready to indulge your [falsehood](http://localhost:5500/En/dict/falsehood.html#entry1.1-2).
+- The best lawyers made [skyscrapers](http://localhost:5500/En/dict/skyscraper.html#entry1.1-1)-full of money, tempting ever more students to [pile](http://localhost:5500/En/dict/pile.html#entry3.2-2) into law schools.
+- Many of them become the kind of nuisance-lawsuit [filer](http://localhost:5500/En/dict/filer.html#entry4.1-3) that makes the [tort](http://localhost:5500/En/dict/tort.html#entry1.1-1) system a costly nightmare.
+- an expensive preparation for the [bar exam](http://localhost:5500/En/dict/bar_exam.html#entry1.1-1).
+- This leaves today's average law-school graduate with $100,0000 of debt [on top of](http://localhost:5500/En/dict/top.html#on_top_of.1-3) undergraduate debts.
+- let students [sit](http://localhost:5500/En/dict/sit.html#entry1.1-11) for the [bar](http://localhost:5500/En/dict/bar.html#entry1.1-3b(4))
+- the [restrictive](http://localhost:5500/En/dict/restrictive.html#entry1.1-1b) guild-like ownership structure of the business
+- in the [District](http://localhost:5500/En/dict/district.html#entry1.1-1a) of Columbia
+- [Hindrance](http://localhost:5500/En/dict/Hindrance.html#entry1.1-2) to the reform of the legal system originates from the [rigid](http://localhost:5500/En/dict/rigid.html#entry1.1-2a) bodies governing the profession.
+- It prevents lawyers from gaining [due](http://localhost:5500/En/dict/due.html#entry1.1-3a) profits.
 
 **Word of the Day: [flagrant](http://localhost:5500/En/dict/flagrant.html#entry1.1-1)** | *adjective* | FLAY-grunt
 
@@ -437,6 +446,10 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 #### 08/22/2025 {RW}
 
 - [Stemming](http://localhost:5500/En/dict/stem.html#entry2.1-2) climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy.
+
+#### 08/23/2025 {RW}
+
+- There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm [isolates](http://localhost:5500/En/dict/isolate.html#entry1.1-1) lawyers from the pressure to make money rather than serve clients ethically.
 
 ## Exams
 
