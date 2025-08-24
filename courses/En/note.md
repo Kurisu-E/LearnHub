@@ -398,7 +398,7 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 - The best lawyers made [skyscrapers](http://localhost:5500/En/dict/skyscraper.html#entry1.1-1)-full of money, tempting ever more students to [pile](http://localhost:5500/En/dict/pile.html#entry3.2-2) into law schools.
 - Many of them become the kind of nuisance-lawsuit [filer](http://localhost:5500/En/dict/filer.html#entry4.1-3) that makes the [tort](http://localhost:5500/En/dict/tort.html#entry1.1-1) system a costly nightmare.
 - an expensive preparation for the [bar exam](http://localhost:5500/En/dict/bar_exam.html#entry1.1-1).
-- This leaves today's average law-school graduate with $100,0000 of debt [on top of](http://localhost:5500/En/dict/top.html#on_top_of.1-3) undergraduate debts.
+- This leaves today's average law-school graduate with $100,000 of debt [on top of](http://localhost:5500/En/dict/top.html#on_top_of.1-3) undergraduate debts.
 - let students [sit](http://localhost:5500/En/dict/sit.html#entry1.1-11) for the [bar](http://localhost:5500/En/dict/bar.html#entry1.1-3b(4))
 - the [restrictive](http://localhost:5500/En/dict/restrictive.html#entry1.1-1b) guild-like ownership structure of the business
 - in the [District](http://localhost:5500/En/dict/district.html#entry1.1-1a) of Columbia
@@ -410,6 +410,18 @@ To *validate* something is to show that it is real or correct. *Validate* an als
 Something may be described as *flagrant* if it is conspicuously bad—that is, too bad to be ignored.
 
 **Quiz:** Fill in the blanks to complete a synonym of *flagrant*: [␣␣r␣g␣o␣s](http://localhost:5500/En/dict/egregious.html#entry1.1-1)
+
+#### 08/24/2025 {V}
+
+- [**triangle**](http://localhost:5500/En/dict/triangle.html#entry1.1-1)
+  ![alt text](img/triangle.gif)
+- a numerical representation in the form of $\dfrac{3}{4}$ is called [fraction](http://localhost:5500/En/dict/fraction.html#entry1.1-1a)
+
+**Word of the Day: [cloister](http://localhost:5500/En/dict/cloister.html)** | *verb* | KLOY-ster
+
+To *cloister* someone or something is to [shut the person or thing away](http://localhost:5500/En/dict/shut_away.html#entry1.1-1) from the world.
+
+**Quiz:** Rearrange the letters to form a noun that refers to "a specific type of [monastery](http://localhost:5500/En/dict/monastery.html#entry1.1-1)": [BYABE](http://localhost:5500/En/dict/abbey.html#entry1.1-1a)
 
 ### Reading & Writing
 
@@ -459,17 +471,19 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 
 #### NPEE-E1-2011
 
-**Section I.1**: Ancient Greek philosopher Aristotle viewed laughter as "a bodily exercise precious to health." But ____ some claims to the contrary, laughing probably has little influence on physical fitness.
+**Section I&emsp;Use of English**:
+
+**T.1**: Ancient Greek philosopher Aristotle viewed laughter as "a bodily exercise precious to health." But ____ some claims to the contrary, laughing probably has little influence on physical fitness.
 
 | A. among | B. except | C. despite | D. like |
 | -------- | --------- | :--------: | ------- |
 
-**Section I.3**: Laughter does produce short-term changes in the function of the heart and its blood vessels, ____ heart rate and oxygen consumption.
+**T.3**: Laughter does produce short-term changes in the function of the heart and its blood vessels, ____ heart rate and oxygen consumption.
 
 | A. stabilizing | B. boosting | C. impairing | D. determining |
 | -------------- | :---------: | ------------ | -------------- |
 
-**Section I.4-5**: But because [hard](http://localhost:5500/En/dict/hard.html#entry1.1-8e(3)) laughing is difficult to ____, a good laugh is unlikely to have ____ benefits the way, say, walking or jogging does.
+**T.4-5**: But because [hard](http://localhost:5500/En/dict/hard.html#entry1.1-8e(3)) laughing is difficult to ____, a good laugh is unlikely to have ____ benefits the way, say, walking or jogging does.
 
 | A. transmit | B. sustain | C. evaluate | D. observe |
 | ----------- | :--------: | ----------- | ---------- |
@@ -477,12 +491,12 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 | A. [measurable](http://localhost:5500/En/dict/measurable.html#entry1.1-2) | B. manageable | C. affordable | D. renewable |
 | :-----------------------------------------------------------------------: | ------------- | ------------- | ------------ |
 
-**Section I.13**: It was argued at the end of the 19th century that humans do not cry ____ they are sad but they become sad when the tears begin to flow.
+**T.13**: It was argued at the end of the 19th century that humans do not cry ____ they are sad but they become sad when the tears begin to flow.
 
 | A. unless | B. until | C. if | D. because |
 | --------- | -------- | ----- | :--------: |
 
-**Section I.16-19**: In an experiment published in 1988, social psychologist Fritz Strack of the University of würzburg in Germany asked volunteers to ____ a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a(an) ____ expression. Those forced to exercise their smiling muscles ____ more enthusiastically to funny cartoons that did those whose mouths were [contracted](http://localhost:5500/En/dict/contract.html#entry2.1-4) in a [frown](http://localhost:5500/En/dict/frown.html#entry2.1-1), ____ that expressions may influence emotions rather than just [the other way around](http://localhost:5500/En/dict/the_other_way_around.html#entry1.1-1).
+**T.16-19**: In an experiment published in 1988, social psychologist Fritz Strack of the University of würzburg in Germany asked volunteers to ____ a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a(an) ____ expression. Those forced to exercise their smiling muscles ____ more enthusiastically to funny cartoons that did those whose mouths were [contracted](http://localhost:5500/En/dict/contract.html#entry2.1-4) in a [frown](http://localhost:5500/En/dict/frown.html#entry2.1-1), ____ that expressions may influence emotions rather than just [the other way around](http://localhost:5500/En/dict/the_other_way_around.html#entry1.1-1).
 
 | A. fetch | B. [bite](http://localhost:5500/En/dict/bite.html#entry1.1-1a) | C. pick | D. [hold](http://localhost:5500/En/dict/hold.html#entry1.1-4a) |
 | -------- | -------------------------------------------------------------- | ------- | :------------------------------------------------------------: |
@@ -498,7 +512,9 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 
 #### NPEE-E1-2012
 
-**Section I.1-3**: The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot ____ its [legitimacy](http://localhost:5500/En/dict/legitimacy.html#entry1.1-1) as guardian of the rule of law ____ justices behave like politicians. Yet, in several instances, justices acted in ways that ____ the court's reputation for being independent and impartial.
+**Section I&emsp;Use of English**:
+
+**T.1-3**: The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot ____ its [legitimacy](http://localhost:5500/En/dict/legitimacy.html#entry1.1-1) as guardian of the rule of law ____ justices behave like politicians. Yet, in several instances, justices acted in ways that ____ the court's reputation for being independent and impartial.
 
 | A. emphasize | B. maintain | C. modify | D. recognize |
 | ------------ | :---------: | --------- | ------------ |
@@ -509,12 +525,12 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 | A. restored | B. weakened | C. established | D. eliminated |
 | ----------- | :---------: | ------------- | -------------- |
 
-**Section I.17**: When the court deals with social policy decisions, the law it shapes is inescapably political—which is why decisions split along ideological lines are so easily ____ as unjust.
+**T.17**: When the court deals with social policy decisions, the law it shapes is inescapably political—which is why decisions split along ideological lines are so easily ____ as unjust.
 
 | A. dismissed | B. released | C. ranked | D. [distorted](http://localhost:5500/En/dict/distort.html#entry1.1-1) |
 | :----------: | ---------- | ---------- | --------------------------------------------------------------------- |
 
-**Section I.19-20**: The justices must address doubts about the court’s legitimacy by making themselves ____ to the code of conduct. That would make rulings more likely to be seen as separate from politics and, ____, convincing as law.
+**T.19-20**: The justices must address doubts about the court’s legitimacy by making themselves ____ to the code of conduct. That would make rulings more likely to be seen as separate from politics and, ____, convincing as law.
 
 | A. accessible | B. [amiable](http://localhost:5500/En/dict/amiable.html#entry1.1-1a) | C. agreeable | D. [accountable](http://localhost:5500/En/dict/accountable.html#entry1.1-1) |
 | ------------- | -------------------------------------------------------------------- | ------------ | :-------------------------------------------------------------------------: |
@@ -522,7 +538,11 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 | A. [by all means](http://localhost:5500/En/dict/mean.html#by_all_means.1-1) | B. [at all costs](http://localhost:5500/En/dict/cost.html#at_all_costs.1-1) | C. [in a word](http://localhost:5500/En/dict/word.html#in_a_word.1-1) | D. as a result |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- | :------------: |
 
-**Section II. Part A. Text 3**:
+**Section II&emsp;Reading Comprehension**:
+
+**Part A**:
+
+**Text 3**:
 
 > **Para.2**&emsp;Consequently, discovery claims should be thought of as protoscience. Similar to newly staked mining claims, they are full of potential. But it takes collective [scrutiny](http://localhost:5500/En/dict/scrutiny.html#entry1.1-1) and acceptance to transform a discovery claim into a mature discovery. This is the [credibility](http://localhost:5500/En/dict/credibility.html#entry1.1-1) process, through which the individual researcher's *me*, *here, *now* becomes the community's *anyone*, *anywhere*, *anytime*. Objective knowledge is the goal, not the starting point.
 > **Para.3**&emsp;Once a discovery claim becomes public, the discoverer receives intellectual credit. But, unlike with mining claims, the community takes control of hat happens next. Within the complex social structure off the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology. As a discovery claim [works its way](http://localhost:5500/En/dict/work_one's_way.html#entry1.1-1) through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.
@@ -542,3 +562,37 @@ Something may be described as *flagrant* if it is conspicuously bad—that is, t
 | **B. has been examined by the scientific community.** |
 | **C. has received recognition from editors and reviewers.** |
 | **D. has been frequently quoted by peer scientists.**       |
+
+#### NPEE-E1-2013
+
+**Section II&emsp;Reading Comprehension**:
+
+**Part B**:
+
+> **Para.2**&emsp;Yet this enormous resource is not contributing enough to today's global challenges, including climate change, security, sustainable development and health. These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development. Stemming climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy. Humanity has the necessary agro-technological tools to eradicate hunger, from genetically engineered crops to artificial fertilizers. Here, too, the problems are social: the organization and distribution of food, heath, and prosperity..
+> **Para.3**&emsp;**(T.42)**____ This is a shame—the community should be grasping the opportunity to raise its influence in the real word. To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.
+
+| A. It could be that we are evolving too communities of social scientists: one that is discipline-oriented and publishing in highly specialized journals, and one that is problem-oriented and publishing elsewhere, such as policy briefs. |
+| :-- |
+| **D. The solution is to change the mindset of the academic community, and what it considers to be its main goal. Global challenges and social innovation ought to receive much more attention from scientists, especially the young ones.** |
+| **F. Despite these factors, many social scientists seem [reluctant](http://localhost:5500/En/dict/reluctant.html#entry1.1-1) to tackle such problems. And in Europe, some are [up in arms](http://localhost:5500/En/dict/arm.html#up_in_arms.1-1) over a proposal to drop a specific funding category for social-science research and to integrate it within [cross-cutting](http://localhost:5500/En/dict/cross-cut.html#entry1.1-1) topics of sustainable development.**      |
+
+#### NPEE-E1-2014
+
+**Section I&emsp;Use of English**:
+
+**T.9**: Thinking is a ____ of making connections in the brain.
+
+| A. channel | B. process | C. sequence | D. condition |
+| ---------- | :--------: | ----------- | ------------ |
+
+**T.17-19**: The Web-based program allows you to systematically improve your memory and attention skills. The program keeps track of your progress and provides detailed feedback ____ your performance and improvement Most importantly, it ____ modifies and enhances the games you play to ____ on the strengths you are developing—much like a(n) effective exercise routine requires you to increase resistance and vary your muscle use.
+
+| A. to | B. on | C. for | D. with |
+| ----- | :---: | ------ | ------- |
+
+| A. constantly | B. habitually | C. irregularly | D. unusually |
+| :-----------: | ------------- | -------------- | ------------ |
+
+| A. [carry](http://localhost:5500/En/dict/carry_on.html#entry1.1-1) | B. [put](http://localhost:5500/En/dict/put_on.html#entry3.1) | C. [build](http://localhost:5500/En/dict/build.html#entry1.1-4) | D. take |
+| ------------------------------------------------------------------ | -------------------------------------------------------------- | :-------------------------------------------------------------: | ------- |
