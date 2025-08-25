@@ -133,9 +133,9 @@ graph TD;
 
 <!-- ![2025-07](logs/v/2025-07.md) -->
 
-![2025-08](logs/v/2025-08.md)
+<!-- ![2025-08](logs/v/2025-08.md) -->
 
-### Reading & Writing
+### Reading & Writinga patent clerk named Einstein
 
 <!-- ![2025-06](logs/rw/2025-06.md) -->
 
