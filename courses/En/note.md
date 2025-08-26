@@ -133,7 +133,7 @@ graph TD;
 
 <!-- ![2025-07](logs/v/2025-07.md) -->
 
-<!-- ![2025-08](logs/v/2025-08.md) -->
+![2025-08](logs/v/2025-08.md)
 
 ### Reading & Writinga patent clerk named Einstein
 
