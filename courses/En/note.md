@@ -5,9 +5,30 @@ author: Chris Evans
 
 [toc]
 
-## Systems
+## The English Language
 
-### Entries
+Language, studied academically through linguistics, is recognized as a uniquely human activity characterized by [arbitrary](http://localhost:5500/En/dict/arbitrary.html#entry1.1-1b) relationships between sounds and meanings, as well as a systematic nature that enables effective communication. Despite the complexity of language systems, children can quickly learn the essentials, suggesting underlying similarities across languages.
+
+语言学是一门学术学科，被认为是人类独有的活动，其语音和语义之间存在着任意的关系，并具有系统性，从而能够实现有效的沟通. 尽管语言系统错综复杂，但儿童能够快速掌握其基本知识，这表明不同语言之间存在着潜在的相似性.
+
+The major systems that make up the broad comprehensive system of language itself are four in number: lexicon, grammar, semantics, and phonology.
+
+语言本身广泛而全面的系统由四个主要系统组成：词汇、语法、语义和音系.
+
+- **Lexicon** or the vocabulary is the collection of words and word elements which we put together in various ways to form larger units of discourse: phrases, clauses, sentences, paragraphs, and so forth. 词汇就是单词和词素集合，我们将其组合在一起形成更大话语单位：短语、从句、句子、段落等.
+- **Grammar** governs the way in which words are put together to form the larger units of discourse mentioned earlier. 语法决定了如何将单词组合成前面提到的更大话语单位.
+- **Semantics** has to do with meanings and thus with the relationship between the conventionalized symbols that constitute language and the external reality about which we need to communicate through language. 语义与意义有关，因此与构成语言的规范化符号与通过语言传达的外部现实之间的关系有关.
+- **Phonology** is what allows a speaker of that language to transform a grammatical unit embodying a meaning into a flow of uttered sounds that can be heard and interpreted (accurately, if all goes well) by another speaker of the language. 音系是允许语言使用者将包含意义的语法单位转换成另一个语言使用者能够听到并解释（如果一切顺利，准确无误）的发音流.
+
+The largest part of this note is concerned with the systems of English that we have cursorily surveyed in their [synchronic](http://localhost:5500/En/dict/synchronic.html#entry1.1-2b) and [diachronic](http://localhost:5500/En/dict/diachronic.html#entry1.1-1) aspects. In fact, information related to lexicon is given at entries in the dictionary, as well as information related to what could reasonably be considered a fifth system of English and many other (though not all) languages—writing, which provides an alternative to speech that permits long-distance transmission and visual reception of a communication and also enables a record to be kept for much longer than human memory can keep it.
+
+这篇笔记的大部分内容都关注我们粗略概括的英语系统，涵盖了其共时和历时方面. 事实上，词典中的条目不仅提供了与词汇相关的信息，还提供了与可以合理地被视为英语和许多其他（但并非所有）语言的第五大系统——书写系统——相关的信息. 书写系统提供了与语音不同的另一种方式，允许长距离传输和视觉接收通信，并使记录能够比人类记忆保持得更久.
+
+A dictionary is necessarily and obviously concerned with the lexicon above all, and the information it can convey about the language systems is confined to the level of the word or short phrase so the majority of the lexicon, phonology, and grammar systems at rest will be explored in the following sections (see sections on [The History of English](#the-history-of-english), [Phonology](#phonology), and [Grammar](#grammar)).
+
+词典必然且显然关注词汇，它可以传达关于语言系统的信息仅限于单词或短语的水平，因此词汇、音系和语法系统剩余的大部分内容将在以下部分中探讨（见小节 [The History of English](#the-history-of-english)，[Phonology](#phonology)，以及 [Grammar](#grammar)）.
+
+### Explanatory Notes
 
 An [entry](http://localhost:5500/En/dict/entry.html#entry1.1-4b(5)) is a single word or phrase, along with its definition, pronunciation, and example sentences. 或称词条 / 词目
 
@@ -64,7 +85,7 @@ Entries include:
   - **[cognate](http://localhost:5500/En/dict/cognate.html#entry1.1-3b)** cross-reference follows an italic ***spelling of***
   - **inflectional** cross-reference follows an italic label that identifies an entry as an inflected form of the original entry.
 
-### Etymology of Words (Roots and Affixes)
+### The History of English
 
 ![alt text](img/image.png)
 ![alt text](img/image-1.png)
@@ -133,9 +154,9 @@ graph TD;
 
 <!-- ![2025-07](logs/v/2025-07.md) -->
 
-![2025-08](logs/v/2025-08.md)
+<!-- ![2025-08](logs/v/2025-08.md) -->
 
-### Reading & Writinga patent clerk named Einstein
+### Reading & Writing
 
 <!-- ![2025-06](logs/rw/2025-06.md) -->
 
