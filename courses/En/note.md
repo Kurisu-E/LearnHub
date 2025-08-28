@@ -87,22 +87,17 @@ Entries include:
 
 ### The History of English
 
-![alt text](img/image.png)
-![alt text](img/image-1.png)
+The history of English is conventionally divided into three periods usually called Old English (or Anglo-Saxon), Middle English, and Modern English.
 
-**Indo-European languages (印欧语系)** 有两个起源地：**立陶宛地区**和**地中海东岸的闪含语系地区**——来源于 **Phoenician (腓尼基语)**
+英语历史通常被划分为三个时期，通常称为古英语（或称盎格鲁-撒克逊语）、中英语和现代英语.
 
-西北欧的地区大部分是来源于立陶宛语系，地区交流促成了主要的 **Germanic (日耳曼)**、**Celtic (凯尔特)**、**Slavic (斯拉夫)** 语系（B.C. 9c - A.D. 0c）；现代欧洲语言**文字**的 ancestor 是**腓尼基字母**，希腊人在腓尼基字母的基础上创造出希腊字母，形成了 **Greek (古希腊语)**，之后又被意大利地区古罗马和拉丁人学习形成了 **Latin (拉丁语)**；希腊语和拉丁语不注重语法和介词等，用**词根词缀**即可表示复杂的信息
+All languages did not simply spring into existence, they have evolved from earlier languages. German, Dutch, Low German, and Frisian share with certain systematic similarities but do not share with, say, Danish, thus philologists know that the ancestors of these languages must have been a common language, called West Germanic, or dialects of it. However, they have had somehow to reconstruct what that language was like in its lexicon, phonology, grammar, and semantics as best they can through sophisticated techniques of comparison. Similarly, because ancient and modern languages like Old Norse and Gothic or Icelandic and Norwegian have points in common with Old English and Old High German or Dutch and English that they do not share with French or Russian, it is clear that there was an earlier unrecorded language that can called simply Germanic and that must be reconstructed in the same way. Still earlier, Germanic was just a dialect (the ancestors of Greek, Latin, and Sanskrit were three other such dialects) of a language conventionally designated Indo-European and thus English is just one relatively young member of an ancient family of languages whose descendants cover a fair portion of the globe.
+
+所有语言都并非凭空而来，而是从更早的语言演变而来. 德语、荷兰语、低地德语和弗里斯兰语具有某些系统上的相似性，但与丹麦语等语言却截然不同. 因此，语言学家知道这些语言的祖先必定是一种名为西日耳曼语的通用语言，或其方言. 然而，他们必须通过复杂的比较技术，尽可能地重建该语言的词汇、音系、语法和语义. 同样，由于古代和现代语言，例如古挪威语和哥特语、冰岛语和挪威语，与古英语和古高地德语、荷兰语和英语存在共同点，而与法语或俄语则有所不同，因此，显然存在一种更早的、未被记录的语言，可以简单地称为日耳曼语，并且必须以同样的方式重建. 再往更早走，日耳曼语只是通常被认定为印欧语系的一种方言（希腊语、拉丁语和梵语的祖先是另外三种方言），因此英语只是一个古老语言家族中相对年轻的成员，该语言的后代覆盖了全球相当一部分地区.
+
+![alt text](img/indoeuro.jpg)
 
 ![alt text](img/image-2.png)
-
-罗马帝国扩张后，拉丁语逐渐取代古希腊语，欧洲西边大部分讲拉丁语，东边讲希腊语；英国虽处于西边，但并未全部被拉丁语辐射到，仍然是凯尔特人为主（A.D. 0c - 5c）
-
-在罗马帝国末期，日耳曼人入侵凯尔特，凯尔特人被迫逃离，与现代英语几乎无关系，而英语则是属于**日耳曼语族**，与德国、荷兰有相同的起源. 此时被视为英语的起源，盎格鲁撒克逊的**古英语**. 之后英语又被讲另一种日耳曼语的维京人入侵，融合的英语形成了**比较完善的语法结构**，但**失去了日耳曼复合构词的变化**（也就是为什么同是日耳曼语族，英语中的复合构词要比德语和荷兰语少得多）（5c - 10c）；罗马分裂后，拉丁语衍生成多种语言，例如法国、西班牙、意大利等，但 French 追求自己的一套 affix 方法，所以现在的西语和意大利语相比于法语而言更贴近拉丁语. 这些语言被统称为 **Romance Language (罗曼语族/罗马语族/拉丁语族)**. 此时已经很少有地区会讲拉丁语了
-
-中世纪（10c）和近代现代（14c -）时期，英国先后发生了法国入侵和文艺复兴. 法国（诺曼法）入侵带来了大量**法语词汇**（本质是来源于拉丁语，但词缀拓展与拉丁语略有不同），文艺复兴时期都认为**拉丁语是代表着学术文明和高等教育**，而**日耳曼语象征着野蛮和低劣**，所以有大量**学术名词**都是来源于**拉丁语**和**希腊语**，这导致了现代英语的大量词汇会与罗曼语族的语言（如法语、意大利语、西班牙语等）有更多相似之处
-
-![alt text](img/image-3.png)
 
 ```mermaid
 graph TD;
@@ -139,6 +134,69 @@ graph TD;
   I -- 文艺复兴引入拉丁语和希腊语 *14c* --> J
   aa -- 引入 *10c* --> J
 ```
+
+#### Prehistory of English
+
+![alt text](img/image.png)
+![alt text](img/image-1.png)
+
+**Indo-European languages (印欧语系)** 有两个起源地：**立陶宛地区**和**地中海东岸的闪含语系地区**——来源于 **Phoenician (腓尼基语)**
+
+西北欧的地区大部分是来源于立陶宛语系，地区交流促成了主要的 **Germanic (日耳曼)**、**Celtic (凯尔特)**、**Slavic (斯拉夫)** 语系（B.C. 9c - A.D. 0c）；现代欧洲语言**文字**的 ancestor 是**腓尼基字母**，希腊人在腓尼基字母的基础上创造出希腊字母，形成了 **Greek (古希腊语)**，之后又被意大利地区古罗马和拉丁人学习形成了 **Latin (拉丁语)**；希腊语和拉丁语不注重语法和介词等，用**词根词缀**即可表示复杂的信息
+
+罗马帝国扩张后，拉丁语逐渐取代古希腊语，欧洲西边大部分讲拉丁语，东边讲希腊语；英国虽处于西边，但并未全部被拉丁语辐射到，仍然是凯尔特人为主（A.D. 0c - 5c）
+
+#### Old English
+
+在罗马帝国末期，日耳曼人入侵凯尔特，凯尔特人被迫逃离，与现代英语几乎无关系，而英语则是属于**日耳曼语族**，与德国、荷兰有相同的起源. 此时被视为英语的起源，盎格鲁撒克逊的**古英语**. 之后英语又被讲另一种日耳曼语的维京人入侵，融合的英语形成了**比较完善的语法结构**，但**失去了日耳曼复合构词的变化**（也就是为什么同是日耳曼语族，英语中的复合构词要比德语和荷兰语少得多）（5c - 10c）；罗马分裂后，拉丁语衍生成多种语言，例如法国、西班牙、意大利等，但 French 追求自己的一套 affix 方法，所以现在的西语和意大利语相比于法语而言更贴近拉丁语. 这些语言被统称为 **Romance Language (罗曼语族/罗马语族/拉丁语族)**. 此时已经很少有地区会讲拉丁语了
+
+the migration of certain Germanic tribes from the Continent to Britain in the 5c, though no records of their language survive from before 7c.
+
+在5世纪，某些日耳曼部落从大陆迁移到英国，但他们的语言在7世纪之前没有留下任何记录.
+
+the end of 11c, Latin, Old Norse (the language of the Viking invaders), and especially the Anglo-French of the dominant class after the Norman Conquest in 1066 had begun to have a substantial impact on the lexicon and the well-developed inflectional system that typifies the grammar of Old English had begun to break down.
+
+11世纪末，拉丁语、诺曼语（维京入侵者的语言）以及特别是1066年诺曼征服后主导阶级的盎格鲁-法语，已经开始对词汇和典型于古英语的完善屈折系统产生重大影响，古英语的屈折系统已经开始崩溃.
+
+#### Middle English
+
+中世纪（10c）和近代现代（14c -）时期，英国先后发生了法国入侵和文艺复兴. 法国（诺曼法）入侵带来了大量**法语词汇**（本质是来源于拉丁语，但词缀拓展与拉丁语略有不同），文艺复兴时期都认为**拉丁语是代表着学术文明和高等教育**，而**日耳曼语象征着野蛮和低劣**，所以有大量**学术名词**都是来源于**拉丁语**和**希腊语**，这导致了现代英语的大量词汇会与罗曼语族的语言（如法语、意大利语、西班牙语等）有更多相似之处
+
+extends roughly from 12c through 15c, the influence of French (and Latin, often by way of French) upon the lexicon continued.
+
+大约从12世纪到15世纪，法语（以及拉丁语，通常通过法语）对词汇的影响继续存在. 长达两个世纪的征服时期，法语作为统治阶级的官方语言.
+
+the loss of some inflections and the reduction of others (often to a final unstressed vowel spelled *-e*) accelerated, and many changes took place within the phonological and grammatical systems of the language.
+
+一些屈折的丧失和其它屈折的减少（通常减少到末尾的未强调元音，拼写为 *-e*）加速了，语言音系和语法系统中的许多变化发生了.
+
+1300 年左右，英语又重新成为英格兰的 "官方语言".
+
+#### Modern English
+
+extends from the 16c to our own day.
+
+从16世纪到我们今天为止.
+
+The early part of this period saw the completion of a revolution in the phonology of English that had begun in late Middle English and that effective redistributed the occurrence of the vowel phonemes to something approximating their present pattern.
+
+这一时期的早期见证了英语音系中一场革命的完成，这场革命始于中世纪晚期，有效地重新分配了元音音素的出现，使其接近现在的模式.
+
+Other important early developments include the stabilizing effect on spelling of the printing press and the beginning of the direct influence of Latin and, to a lesser extent, Greek on the lexicon.
+
+其他重要的早期发展包括印刷机对拼写的影响的稳定，以及拉丁语和在一定程度上希腊语对词汇的直接影响开始出现.
+
+1476 年 William Caxtond 在英国引进使用印刷机，标志着中世纪英语转入现代英语阶段.
+
+文艺复兴时期，更多的拉丁和希腊词汇加入英语. 文艺复兴时期的作家们，用外借和造字等方法成套地扩大了英语词汇. 16 世纪末，英语拼写逐渐规范，拉丁语，法语，意大利语，希腊语，日耳曼语，阿拉伯语，印度语，西班牙语等源源不断地注入英语之河流，一些外来语词汇保留了其拼写与发音. 这就造成了英语词汇的 "多样性" 与 "复杂性".
+
+Later, as English came into contact with other cultures around the world and distinctive dialects of English developed in the many areas which Britain had colonized, numerous other languages made small but interesting contribution to word-stock.
+
+后来，随着英语与世界各地的其他文化接触，以及英国在许多地区殖民而形成的英语方言，许多其他语言对词汇库做出了小但有趣的小贡献.
+
+18 世纪，随着"日不落帝国"的全球扩张，英国统治阶层感受到 "英文的混乱" 阻碍制约着大英帝国的全球殖民与贸易进程，由政府倡议学界组织的对 "英语" 进行统一编纂整理的"军团"成立，大批的贵族参与到英文的改革完善队伍中来，改良完善内容包括：语法、发音与拼写. 从而使得 "现代英语" 语法繁多而严谨，词汇丰富而规范. 例如：在现代英语中，"月亮moon" 这个单词可以被溯源到来自中世纪的古英语单词——"mōna".
+
+![alt text](img/image-3.png)
 
 ### Phonology
 
