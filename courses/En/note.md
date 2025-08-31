@@ -95,6 +95,166 @@ All languages did not simply spring into existence, they have evolved from earli
 
 所有语言都并非凭空而来，而是从更早的语言演变而来. 德语、荷兰语、低地德语和弗里斯兰语具有某些系统上的相似性，但与丹麦语等语言却截然不同. 因此，语言学家知道这些语言的祖先必定是一种名为西日耳曼语的通用语言，或其方言. 然而，他们必须通过复杂的比较技术，尽可能地重建该语言的词汇、音系、语法和语义. 同样，由于古代和现代语言，例如古挪威语和哥特语、冰岛语和挪威语，与古英语和古高地德语、荷兰语和英语存在共同点，而与法语或俄语则有所不同，因此，显然存在一种更早的、未被记录的语言，可以简单地称为日耳曼语，并且必须以同样的方式重建. 再往更早走，日耳曼语只是通常被认定为印欧语系的一种方言（希腊语、拉丁语和梵语的祖先是另外三种方言），因此英语只是一个古老语言家族中相对年轻的成员，该语言的后代覆盖了全球相当一部分地区.
 
+单词可能是本身 created in English（日耳曼语、OE 古英语、ME 中世纪英语），或是 borrowed into English（1066 诺曼征服 Anglo-French 盎格鲁-法语、French 法语、Latin 拉丁语，或是 14c-16c 文艺复兴 Latin 拉丁语、Greek 希腊语，甚至其他世界各国的语言），以下两单词为例子：
+
+*heaven*: Middle English *heven*, from Old English *heofon*; akin to Old High German *himil* heaven
+
+```mermaid
+graph LR;
+  IE[Indo-European]
+  WG[West Germanic]
+  G[Germanic]
+  IE --> WG --> G
+  OE[Old English *heofon*]
+  ME[Middle English *heven*]
+  ModE[Modern English *heaven*]
+  G --> OE --> ME --> ModE
+  OHG[Old High German *himil*]
+  Ger[German *himmel*]
+  G --> OHG --> Ger
+```
+
+*country*: Middle English *contree*, from Anglo-French *cuntree*, *contré*, from Medieval Latin *contrata*, from Latin *contra* (against, on the opposite side)
+
+只有 Latin *contra* 有定义 against, on the opposite side，是因为其他词与现代英语含义相同所以不再填入
+
+```mermaid
+graph LR;
+  L[Latin *contra*]
+  ML[Medieval Latin *contrata*]
+  AF[AF *cuntree* *contré*]
+  L --> ML --> AF
+  ME[Middle English *contree*]
+  ModE[Modern English *country*]
+  AF --> ME --> ModE
+```
+
+the relationships of sound and meaning and their changes over time that underlie the reconstruction of the Indo-European family 支撑印欧语族重建的音与义之间的关系及其随时间的变化也是词源研究中的重要内容
+
+lexicon and semantic change 词汇和词义演化过程中有很多变化方式，重要的有：
+
+- 外源变化
+  - borrowing 借词，直接从其他语言中借入，例如来自日本的 *ninja*
+  - folk etymology 民间词源学，由相似名词产生的语义变化，例如 *Jerusalem artichoke* (意为耶路撒冷艺术花，实际上并非来自耶路撒冷，而是来自意大利 *girasole*)
+  - myth, legend, and fable 神话、传说和寓言，例如 *behemoth* (意为庞然大物或霸主，源自圣经中的一个巨兽 *Behemoth*)
+  - eponymy, transfer of personal or place names 以人名或地名命名，例如 *silhouette* (意为剪纸或黑影，因法国财政管理因为爱好剪纸得名) 或是 *denim* (意为牛仔布，因法国纺织名城得名)
+  - imitation of sounds 拟声，例如 *whiz* (意为像风一样呼啸的声音)
+  - reanalysis 重分析，词汇的读音或词形可能被误解或重新分析，例如 *apron* (意为围裙，源于 *a napron* 的读音而被误解为 *an apron* 的连读，从而在 17 世界 *napron* 被 *apron* 取代)
+  - taboo or swear word replacement, avoidance of obscenity, euphemism  禁忌或脏话替换，回避不雅词汇，委婉语，例如 *heck* (是 *hell* 的委婉语)
+- 词形构造
+  - ellipsis, shortening or clipping 缩写，例如 *prom* (意为舞会，缩写自 *promenade*)
+  - acronyms, combination of initial letters 首字母缩写，例如 *radar* (意为雷达，缩写自 *{++ra++}dio {++d++}etection {++a++}nd {++r++}anging*)
+  - formation, blending of two words 复合词，例如 *motel* (意为汽车旅馆，复合自 *motor* 和 *hotel*)
+  - back-formation 逆构，例如 grid (意为网格，是 *gridiron* 烤架的逆构词，也就是 *gridiron* 使用要比 *grid* 更早)
+  - Affixation, combination of roots, prefixes, and suffixes (Some from French, but the most directly from Latin or Greek) 词缀法造词，例如 *unhappy* (意为不快乐的，复合自 *un-* from French 和 *happy* from Latin)
+- 语义演变
+  - functional shift 功能转变，词性转变，例如 noun *commute* from the verb *commute*
+  - broadening/generalization 扩展义/泛指，例如 *holiday* (原指宗教节日，后被泛指为任何假日)
+  - narrowing/specialization 缩小义/狭义，例如 *meat* (原指任何非饮用的食物，后被狭义为肉)
+  - metaphor 隐喻，基于相似性 (similarity)，例如 *mouse* (原指老鼠，由于鼠标形状相似，从而也用来指鼠标)
+  - metonymy 转喻/换喻，基于相关性 (contiguity)，例如 *horn* (原指动物角，因有由动物角制成的号角，从而也用来指乐器号角、喇叭)
+  - synecdoche 提喻，一种基于部分与整体关系的转喻，例如 *hand* in *all hands on deck* (原指手，在这里用局部代表整体，本体是 *body* 指身体，可以翻译成: 所有人都在甲板上)
+  - amelioration/elevation 改进/提拔，例如 *knight* (原指男孩、仆人，后指骑士、爵士)
+  - degeneration/pejoration 衰退/贬低，例如 *knave* (原指男孩，后指男仆、恶棍)
+  - hyperbole 夸张，加重含义，例如 *hundreds* (原指整数 100-999，后夸张到表示很多)
+  - meiosis 弱化，减轻含义，例如 *silly* (原指愚蠢，后弱化到无聊、微不足道)
+  - antiphrasis/irony 反义/反语，例如 *perfect lady* (在某些语境下可能指 "prostitute" 妓女)，*bad* (在俚语里会用于 *good* 好的)
+
+Latin 动词、名词、形容词等词性可能都存在相同部分或基本单元，称为词根 (root)，由词根在不同词性下加入第一词缀形成的基本形态称为词干 (stem)，两者可能在形态上相同，但定位不同，后者是基于同一单词同一词性下不同屈折变化 (inflection) 的形态，例如：
+
+Latin root ***fac*** (意为做、做某事)，有
+
+- Verb ***facere*** (first-person singular present active indicative *faciō*; passive infinitive *facī*) (意为做、制造)
+
+  Latin 动词分为四种主要形态，*faciō* (present active 进行时词干)、*facere* (infinitive 不定式)、*fēcī* (perfect active 完成时词干)、*factus* *(perfect passive 过去分词)，其变位法 (conjugation) 非常复杂，大部分规则的动词以其不定式 (infinitive) 结尾区分变位法:
+
+  - 1c: -āre
+  - 2c: -ēre
+  - 3c: -ere
+  - 4c: -īre
+
+  *facere* 是 third conjugation -iō stem 第三变位 i-词干:
+
+  ||||||||||||||||
+  | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | **mood 语气** | **person 人称** | **aspect 体 →** | **imperfect 未完成时** |||||| **perfect 完成时** ||||||
+  | ^ | ^ | **voice 语态 →** | **active 主动** ||| **passive 被动** ||| **active** ||| **passive** |||
+  | ^ | ^ | **tense 时态 →** | **present** | **past** | **future** | **present** | **past** | **future** | **present** | **past** | **future** | **present** | **past** | **future** |
+  | **indicative 陈述** | **1st-person 第一人称** | **singular 单数** |  ***faciō*** | *faciēbam* | *faciam* | *facior* | *faciēbar* | *faciar* | ***fēcī*** | *fēceram* | *fēcerō* | ***factus/-a/-um sum*** | *factus/-a/-um **eram*** | *factus/-a/-um **erō*** |
+  | ^ | ^ | **plural 复数** | *facimus* | *faciēbāmus* | *faciēmus* | *facimur* | *faciēbāmur* | *faciēmur* | *fēcimus* | *fēcerāmus* | *fēcerimus* | *factī/-ae/-a **sumus*** | *factī/-ae/-a **erāmus*** | *factī/-ae/-a **erimus*** |
+  | ^ | **2nd-person 第二人称** | **singular 单数** | *facis* | *faciēbās* | *faciēs* | *faceris* | *faciēbāris* | *faciēris* | *fēcistī* | *fēcerās* | *fēceris* | *factus/-a/-um **es*** | *factus/-a/-um **erās*** | *factus/-a/-um **eris*** |
+  | ^ | ^ | **plural 复数** | *facitis* | *faciēbātis* | *faciētis* | *faciminī* | *faciēbāminī* | *faciēminī* | *fēcistis* | *fēcerātis* | *fēceritis* | *factī/-ae/-a **estis*** | *factī/-ae/-a **erātis*** | *factī/-ae/-a **eritis*** |
+  | ^ | **3rd-person 第三人称** | **singular 单数** | *facit* | *faciēbat* | *faciet* | *facitur* | *faciēbātur* | *faciētur* | *fēcit* | *fēcerat* | *fēcerit* | *factus/-a/-um **est*** | *factus/-a/-um **erat*** | *factus/-a/-um **erit*** |
+  | ^ | ^ | **plural 复数** | *facunt* | *faciēbant* | *facient* | *facuntur* | *faciēbantur* | *facientur* | *fēcērunt* | *fēcerant* | *fēcerint* | *factī/-ae/-a **sunt*** | *factī/-ae/-a **erant*** | *factī/-ae/-a **erunt*** |
+  | **subjunctive 虚拟** | **1st-person 第一人称** | **singular 单数** | *faciam* | *facērem* | - | *faciar* | *facērer* | - | *fēcerim* | *fēcissem* | - | *factus/-a/-um **sim*** | *factus/-a/-um **essem*** | - |
+  | ^ | ^ | **plural 复数** | *faciāmus* | *facēremus* | ^ | *faciāmur* | *facērēmur* | ^ | *fēcerimus* | *fēcissēmus* | ^ | *factī/-ae/-a **sīmus*** | *factī/-ae/-a **essēmus*** | ^ |
+  | ^ | **2nd-person 第二人称** | **singular 单数** | *faciās* | *facērēs* | ^ | *faciāris* | *facērēris* | ^ | *fēceris* | *fēcissēs* | ^ | *factus/-a/-um **sīs*** | *factus/-a/-um **essēs*** | ^ |
+  | ^ | ^ | **plural 复数** | *faciātis* | *facērētis* | ^ | *faciāminī* | *facērēminī* | ^ | *fēceritis* | *fēcissētis* | ^ | *factī/-ae/-a **sītis*** | *factī/-ae/-a **essētis*** | ^ |
+  | ^ | **3rd-person 第三人称** | **singular 单数** | *faciat* | *facēret* | ^ | *faciātur* | *facērētur* | ^ | *fēcerit* | *fēcisset* | ^ | *factus/-a/-um **sit*** | *factus/-a/-um **esset*** | ^ |
+  | ^ | ^ | **plural 复数** | *faciant* | *facērent* | ^ | *faciantur* | *facērentur* | ^ | *fēcerint* | *fēcissent* | ^ | *factī/-ae/-a **sint*** | *factī/-ae/-a **essent*** | ^ |
+  | **imperative 命令** | **2nd-person 第二人称** | **singular 单数** | *face* | - | *facitō* | - | - | - | - ||||||
+  | ^ | ^ | **plural 复数** | *facite* | ^ | *facitōte* | ^ | ^ | ^ | ^ ||||||
+  | ^ | **3rd-person 第三人称** | **singular 单数** | - | ^ | *facitō* | ^ | ^ | ^ | ^ ||||||
+  | ^ | ^ | **plural 复数** | ^ | ^ | *facitōte* | ^ | ^ | ^ | ^ ||||||
+
+  Latin 动词分词 (participles) 是由动词构成的形容词或名词有四种:
+
+  - present active participle 现在主动分词: 将词尾的 -re 改成 -ns 作为名词主格，3c i-stem 第三变位法 i-词干要额外加 -i-，4c 第四变位法要额外加 -e-；例如 *fac{++i++}{++ēns++}*
+  - perfect passive participle 完成被动分词 (也称 past participle 过去分词): 与动词第四形态一致，在作 supine 宾格动名词时，需使用 -um 结尾；例如 *fact**us/-a/-um***
+  - future active participle 将来主动分词: 在过去分词词尾前加 -ūr-，在作 supine 宾格动名词时，需使用 -um 结尾；例如 *fact{++ūr++}**us/-a/-um***
+  - future passive participle 将来被动分词 (也称 gerundive 动形词): 与现在主动分词类似，不过将 -ns 换成 -nd，再加入过去分词的词尾，在作 supine 宾格动名词时，需使用 -um 结尾；例如 *fac{++i++}{++end++}**us/-a/-um**
+
+  Latin 动词不定式有七种:
+
+  - present active infinitive 现在主动不定式: 最主要的动词不定式，不受语态和时态影响；例如 *facere* "to do"
+  - present passive infinitive 现在被动不定式: 将现在主动不定式的词尾改为 -rī，但第三变位法将 -ere 改为 -ī；例如 *facī* "to be done"
+  - perfect active infinitive 完成主动不定式: 在动词第三形态的词干上加 -isse；例如 *fēcisse* "to have done"
+  - perfect passive infinitive 完成被动不定式: 动词完成被动分词/过去分词和助动词 esse 共同构成；例如 *factus/-a/-um esse* "to have been done"
+  - future active infinitive 将来主动不定式: 动词将来主动分词和助动词 esse 共同构成；例如 *factūrus/-a/-um esse* "to be going to do"
+  - future passive infinitive 将来被动不定式: 动词完成被动分词/过去分词作 supine 宾格动名词，与助动词 īrī 共同构成；例如 *factum īrī* "to be going to be done"
+  - potential infinitive 潜在不定式: 动词将来主动分词和助动词 fuisse 共同构成；例如 *factūrus/-a/-um fuisse* "would do" or "would have done"
+
+- Noun ***factum*** (genitive *factī*) (意为事实、行为);
+  
+  Latin 名词有六个格和五种变格法 (declension)，大部分规则的名词可以通过单数属格 (genitive singular) 的词尾区分变格法:
+
+  - 1d: 以 a 为主要字母，-ae
+  - 2d: 以 o 为主要字母，-ī
+  - 3d: 以 i 为主要字母，-is
+  - 4d: 以 u 为主要字母，-ūs
+  - 5d: 以 e 为主要字母，-ēī/-eī
+
+  *factum* 是 second declension 第二变格:
+
+  | declension 变格 | singular | plural |
+  | --------------- | -------- | ------ |
+  | nominative 主格 | *factum* | *facta* |
+  | genitive 属格 | *factī* | *factōrum* |
+  | dative 与格 | *factō* | *factīs* |
+  | accusative 宾格 | *factum* | *facta* |
+  | ablative 夺格 | *factō* | *factīs* |
+  | vocative 呼格 | *factum* | *facta* |
+
+- Adjective ***factīcius*** (意为人造的、人为的)
+
+  Latin 形容词变格方式与名词几乎一致，可分为两类:
+
+  - 1d-2d: 区分阴阳中性，变格法与名词十分类似，多数以 -us/-a/um 结尾
+  - 3d: 不对名词词性做太大区分，使用第三变格法，都是 i-stem 词干形容词，变格时需要适当加 -i-
+  
+  *factīcius* 是前者:
+
+  ||||||||
+  | :-----------------: | :-: | :-: | :-: | :-: | :-: | :-: |
+  | **declension 变格** | **singular**  ||| **plural**    |||
+  | ^ | **masculine 阳性** | **feminine 阴性** | **neuter 中性** | **masculine** | **feminine** | **neuter** |
+  | nominative 主格 | *factīcius* | *factīcia* | *factīcium* | *factīciī* | *factīciae* | *factīcia* |
+  | genitive 属格 | *factīciī* | *factīciae* | *factīciī* | *factīciōrum* | *factīciārum* | *factīciōrum* |
+  | dative 与格 | *factīciō* | *factīciae* | *factīciō* | *factīciīs* |||
+  | accusative 宾格 | *factīcium* | *factīciam* | *factīcium* | *factīciōs* | *factīciās* | *factīcia* |
+  | ablative 夺格 | *factīciō* | *factīciā* | *factīciō* | *factīciīs* |||
+  | vocative 呼格 | *factīcie* | *factīcia* | *factīcium* | *factīciī* | *factīciae* | *factīcia* |
+
 ![alt text](img/indoeuro.jpg)
 
 ![alt text](img/image-2.png)
