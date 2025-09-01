@@ -166,14 +166,14 @@ Latin root ***fac*** (意为做、做某事)，有
 
 - Verb ***facere*** (first-person singular present active indicative *faciō*; passive infinitive *facī*) (意为做、制造)
 
-  Latin 动词分为四种主要形态，*faciō* (present active 进行时词干)、*facere* (infinitive 不定式)、*fēcī* (perfect active 完成时词干)、*factus* *(perfect passive 过去分词)，其变位法 (conjugation) 非常复杂，大部分规则的动词以其不定式 (infinitive) 结尾区分变位法:
+  Latin 动词分为四种主要形态，*faciō* (present active 进行时词干)、*facere* (infinitive 不定式)、*fēcī* (perfect active 完成时词干)、*factus* (perfect passive 过去分词)，其变位法 (conjugation) 非常复杂，大部分规则的动词以其不定式 (infinitive) 结尾区分变位法:
 
   - 1c: -āre
   - 2c: -ēre
   - 3c: -ere
   - 4c: -īre
 
-  *facere* 是 third conjugation -iō stem 第三变位 i-词干:
+  *facere* 是 third conjugation -iō stem 第三变位 i-词干 (并不完全正确，可见 [wiki](https://en.wiktionary.org/wiki/facio)):
 
   ||||||||||||||||
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
