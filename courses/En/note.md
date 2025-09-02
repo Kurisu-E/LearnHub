@@ -374,6 +374,8 @@ Later, as English came into contact with other cultures around the world and dis
 
 <!-- ![2025-08](logs/v/2025-08.md) -->
 
+<!-- ![2025-09](logs/v/2025-09.md) -->
+
 ### Reading & Writing
 
 <!-- ![2025-06](logs/rw/2025-06.md) -->
