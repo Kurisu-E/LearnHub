@@ -38,7 +38,19 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 历史介绍. This chapter includes:
 
 - The two basic concepts of calculus 微积分学的两个基本概念
+  - Calculus has a wade range of applications in various fields 微积分在各个领域有着广泛的应用
+  - Two fundamental specialized problems of a geometric nature 两个基本的几何性质问题
+    ![alt text](img/image.png)
+    - To assign a number which measures the area of this shaded region 指定一个数值来测量阴影部分面积
+      is dealt with by *integral calculus* in [Part I Chapter 1](#1the-concepts-of-integral-calculus) 在积分学中处理
+    - To assign a number which measures the steepness of this tangent line 指定一个数值来测量切线的斜率
+      is dealt with by *differential calculus* in [Part I Chapter 4](#4differential-calculus) 在微分学中处理
 - Historical background 历史背景
+  - The birth of integral calculus (2000yrs ago, the *method of exhaustion*, used successfully by Archimedes, without elementary algebra until nearly 18 centuries later 阿基米德使用穷竭法)
+  - The development in mathematics and the method of exhaustion (using Arabic characters and the decimal notation as a new way of expressing calculations in 16c. 阿拉伯字符和十进制表示法)
+  - Biggest impetus (Isaac Newton and Gottfried Leibniz in 17c.)
+  - A Firm mathematical basis (Augustin-Louis Cauchy and Bernhard Riemann in 19c.)
+  - Still being carried out in contemporary mathematics ...
 - The method of exhaustion for the area of a parabolic segment 抛物线段面积的穷竭法
 - A critical analysis of Archimedes' method 阿基米德方法的批判性分析
 - The approach to calculus to be used in this book 本书中使用的微积分方法
