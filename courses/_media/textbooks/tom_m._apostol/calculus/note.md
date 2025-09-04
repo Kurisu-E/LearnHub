@@ -52,6 +52,13 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
   - A Firm mathematical basis (Augustin-Louis Cauchy and Bernhard Riemann in 19c.)
   - Still being carried out in contemporary mathematics ...
 - The method of exhaustion for the area of a parabolic segment 抛物线段面积的穷竭法
+  - Slice into a number of strips (the inner one from below and the outer one from above) by using sets of rectangles (n-equal parts, $x=kb/n; k=0,1,2,\cdots,n$)
+    ![alt text](img/image-1.png)
+  - Calculate the area of each strip and add them up to obtain a formula for the sum $s_n$ (inner) and $S_n$ (outer)
+  - Use the identity (恒等式) to simplifies the sum of the squares (proved by taking $k=1,2,\cdots,n-1$ and adding all the formulas, all the terms canceling (相消) except two, and sum up the terms in an arithmetic progression (等差数列))
+  - Deduce inequalities $s_n < \dfrac{b^3}{3} < S_n$ by induction (归纳法)(a proof by induction is given in Section I 4.1.)
+  - Prove that $\dfrac{b^3}{3}$ is the only number which lies between $s_n$ and $S_n$ for every positive integer $n$
+- Exercises (the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow ax^3+c \rightarrow ax^k+c$)
 - A critical analysis of Archimedes' method 阿基米德方法的批判性分析
 - The approach to calculus to be used in this book 本书中使用的微积分方法
 
