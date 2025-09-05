@@ -144,7 +144,7 @@ lexicon and semantic change 词汇和词义演化过程中有很多变化方式�
 - 词形构造
   - ellipsis, shortening or clipping 缩写，例如 *prom* (意为舞会，缩写自 *promenade*)
   - acronyms, combination of initial letters 首字母缩写，例如 *radar* (意为雷达，缩写自 *{++ra++}dio {++d++}etection {++a++}nd {++r++}anging*)
-  - formation, blending of two words 复合词，例如 *motel* (意为汽车旅馆，复合自 *motor* 和 *hotel*)
+  - formation, blend of two words 复合词，例如 *motel* (意为汽车旅馆，复合自 *motor* 和 *hotel*)
   - back-formation 逆构，例如 grid (意为网格，是 *gridiron* 烤架的逆构词，也就是 *gridiron* 使用要比 *grid* 更早)
   - Affixation, combination of roots, prefixes, and suffixes (Some from French, but the most directly from Latin or Greek) 词缀法造词，例如 *unhappy* (意为不快乐的，复合自 *un-* from French 和 *happy* from Latin)
 - 语义演变
@@ -383,6 +383,8 @@ Later, as English came into contact with other cultures around the world and dis
 <!-- ![2025-07](logs/rw/2025-07.md) -->
 
 <!-- ![2025-08](logs/rw/2025-08.md) -->
+
+<!-- ![2025-09](logs/rw/2025-09.md) -->
 
 ## Exams
 
