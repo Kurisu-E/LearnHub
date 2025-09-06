@@ -35,7 +35,11 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 
 ### 1&emsp;Historical Introduction
 
-历史介绍. This chapter includes:
+历史介绍.
+
+The study of *calculus* is based on the two basic questions: How to measures the area of a arbitrary region? And how to measure the steepness of a tangent line? For the former question, Archimedes used the method of exhaustion (steps: slice, add up, simplify, use inequalities, prove by contradiction) to find the area of a parabolic segment, which, along with the development of algebra and the strengthening of mathematical basis, gave a way to define the *integral* of calculus.
+
+This chapter includes:
 
 - The two basic concepts of calculus 微积分学的两个基本概念
   - Calculus has a wade range of applications in various fields 微积分在各个领域有着广泛的应用
