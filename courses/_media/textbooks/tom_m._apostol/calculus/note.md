@@ -56,11 +56,21 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
     ![alt text](img/image-1.png)
   - Calculate the area of each strip and add them up to obtain a formula for the sum $s_n$ (inner) and $S_n$ (outer)
   - Use the identity (恒等式) to simplifies the sum of the squares (proved by taking $k=1,2,\cdots,n-1$ and adding all the formulas, all the terms canceling (相消) except two, and sum up the terms in an arithmetic progression (等差数列))
-  - Deduce inequalities $s_n < \dfrac{b^3}{3} < S_n$ by induction (归纳法)(a proof by induction is given in Section I 4.1.)
+  - Deduce inequalities $s_n < \dfrac{b^3}{3} < S_n$ by induction (归纳法)(a proof by induction is given in [{~~Section I 4.1.~>Section 4.1 of this part~~}](#4mathematical-induction-summation-notation-and-related-topics))
   - Prove that $\dfrac{b^3}{3}$ is the only number which lies between $s_n$ and $S_n$ for every positive integer $n$
-- Exercises (the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow ax^3+c \rightarrow ax^k+c$)
+- *Exercises*
+  the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow ax^3+c \rightarrow ax^k+c$
+  ![alt text](img/introduction-1-exercises-1.jpg)
 - A critical analysis of Archimedes' method 阿基米德方法的批判性分析
+  - Deductive systems (演绎系统)(axioms (公理) or postulates (假设)) - e.g. Euclidean theory of elementary geometry
+  - Renaissance (the advent of algebra in 16c. and the following 300 years) - conspicuously absent was the logically precise reasoning of the deductive method with its use of axioms, definitions, and theorems 缺乏使用公理、定义和定理的演绎法的逻辑精确推理 - blend of deductive reasoning combined with intuition, pure guesswork, and mysticism 结合演绎推理与直觉、纯粹猜测和神秘主义
+  - New and more critical period (early 19c.) - put the new mathematics on a firm foundation (logical purity and abstraction) - theorems or properties of those concepts cannot be accepted until the axioms are satisfactorily defined first 定理或那些概念的性质直到公理得到满意的定义之后才能被接受
+  - Archimedes used the properties (now as axioms) about area which is an undefined concept at that time. But he suggests a way to define the concepts of area (面积) and integral (积分) - the symbol $\int$ is introduced by Leibniz in 1675 (integral sign (积分符号)(the process of adding) + limits of integration (积分限)(the range of base) -> integration (积分)) - today the integral is defined in terms of the notion of real number (实数概念) without using ideas like "infinitesimally small quantities (无穷小量)"
 - The approach to calculus to be used in this book 本书中使用的微积分方法
+  - A complete treatment of calculus depends on the real number system (实数系统)(whose axioms and the simplest theorems are discussed in [{~~Part 3 of this chapter~>Chapter 3 of this Part~~}](#3a-set-of-axioms-for-the-real-number-system))
+  - A few properties stem from the least-upper-bound axiom (最小上界公理)(also known as the completeness axiom (完备性公理) or continuity axiom (连续性公理))
+  - A list of the various "methods of proof" (证明方法) for the purpose of deducing theorems from the axioms - all introduced in a convenient way and rigorously prove
+  - About starred sections (some of the proofs and some of the topics related to calculus)
 
 ### 2&emsp;Some Basic Concepts of the Theory of Sets
 
