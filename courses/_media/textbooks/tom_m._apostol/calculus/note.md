@@ -198,14 +198,14 @@ This chapter includes:
 
 - Introduction 简介
 - The area of a region between two graphs expressed as an integral 两个曲线之间的区域面积积分
-- Worked examples // TODO: what's worked examples?
+- Worked examples 求解例子
 - The trigonometric functions 三角函数
 - Integration formulas for the sine and cosine 正弦和余弦的积分公式
 - A geometric description of the sine and cosine functions 正弦和余弦函数的几何描述
 - Polar coordinates 极坐标
 - The integral for area in polar coordinates 极坐标下的面积积分
 - Application of integration to the calculation of volume 积分在体积计算中的应用
-- Application of integration to the concept of work // TODO: what's the concept of work?
+- Application of integration to the concept of work 积分在做功概念中的应用
 - Average value of a function 函数的平均值
 - The integral as a function of the upper limit. Indefinite integrals 积分上限的函数. 不定积分
 
@@ -247,7 +247,7 @@ This chapter includes:
 - Applications of the mean-value theorem to geometric properties of functions 中值定理在函数几何性质中的应用
 - Second-derivative test for extrema 极值的二阶导数判别法
 - Curve sketching 曲线作图
-- Worked examples of extremum problems // TODO: what's worked examples?
+- Worked examples of extremum problems 极值问题的求解例子
 - *Partial derivatives* 偏导数
 
 ### 5&emsp;The Relation between Integration and Differentiation
