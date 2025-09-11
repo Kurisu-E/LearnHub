@@ -64,12 +64,13 @@ This chapter includes:
   - Prove that $\dfrac{b^3}{3}$ is the only number which lies between $s_n$ and $S_n$ for every positive integer $n$
 - *Exercises*
   the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow ax^3+c \rightarrow ax^k+c$
-  ![alt text](img/introduction-1-exercises-1.jpg)
+  ![alt text](img/introduction_1-exercises_1-1.jpg)
 - A critical analysis of Archimedes' method 阿基米德方法的批判性分析
   - Deductive systems (演绎系统)(axioms (公理) or postulates (假设)) - e.g. Euclidean theory of elementary geometry
   - Renaissance (the advent of algebra in 16c. and the following 300 years) - conspicuously absent was the logically precise reasoning of the deductive method with its use of axioms, definitions, and theorems 缺乏使用公理、定义和定理的演绎法的逻辑精确推理 - blend of deductive reasoning combined with intuition, pure guesswork, and mysticism 结合演绎推理与直觉、纯粹猜测和神秘主义
   - New and more critical period (early 19c.) - put the new mathematics on a firm foundation (logical purity and abstraction) - theorems or properties of those concepts cannot be accepted until the axioms are satisfactorily defined first 定理或那些概念的性质直到公理得到满意的定义之后才能被接受
   - Archimedes used the properties (now as axioms) about area which is an undefined concept at that time. But he suggests a way to define the concepts of area (面积) and integral (积分) - the symbol $\int$ is introduced by Leibniz in 1675 (integral sign (积分符号)(the process of adding) + limits of integration (积分限)(the range of base) -> integration (积分)) - today the integral is defined in terms of the notion of real number (实数概念) without using ideas like "infinitesimally small quantities (无穷小量)"
+    $\int\limits_0^b{x^2}\,dx = \dfrac{b^3}{3}$ is read "the integral of $x^2$ from 0 to $b$ is $\dfrac{b^3}{3}$"
 - The approach to calculus to be used in this book 本书中使用的微积分方法
   - A complete treatment of calculus depends on the real number system (实数系统)(whose axioms and the simplest theorems are discussed in [{~~Part 3 of this chapter~>Chapter 3 of this Part~~}](#3a-set-of-axioms-for-the-real-number-system))
   - A few properties stem from the least-upper-bound axiom (最小上界公理)(also known as the completeness axiom (完备性公理) or continuity axiom (连续性公理))
@@ -78,12 +79,59 @@ This chapter includes:
 
 ### 2&emsp;Some Basic Concepts of the Theory of Sets
 
-集合理论的基本概念. This chapter includes:
+集合理论的基本概念.
+
+This chapter introduces the fundamental concepts of set theory, which serves as a foundational language for modern mathematics. The chapter explores the concept of *sets*, *elements*, relations between them both, *the roster notation*, *equality* of sets, *subsets*, *proper subsets*, and special sets such as the *empty set*, the *universal set*, *one-element sets* and *classes*, defines fundamental operations on sets including *union*, *intersection*, and *complement*, along with their algebraic properties. *Venn diagrams* are introduced as a visual tool for understanding set relationships.
+
+This chapter includes:
 
 - Introduction to set theory 集合论简介
+  Applications of set theory, how set theory comes to light, and some basic concepts of set theory.
+  - Useful in discussing any branches of mathematics (analysis, algebra, geometry)(分析、代数、几何)
+  - An agreement about the precise terminology that applies to more or less familiar ideas rather than a new theory
+  - Concepts:
+    - *set* (集合), *elements* (元素)(or *members* (成员)) of the set;
+    - elements *belong to* (属于)(or *contained in* (包含于)) the set;
+    - the set *contain* (包含)(or *composed of* (由 ... 组成)) its elements.
+  - Abstract sets (抽象集合) - sets in which nothing special is assumed about the nature of the elements (对元素的性质没有特殊假设的集合)
 - Notations for designating sets 表示集合的符号
+  Notations include sets, elements, elements belong to the set, the roster notation, and equality of sets.
+  - Sets - capital letters: $A, B, C, \cdots, X, Y, Z$;
+  - Elements - lower-case letters: $a, b, c, \cdots, x, y, z$;
+  - "$x$ belongs to $S$" - $x \in S$;
+  - $x \not \in S$;
+  - *The roster notation* (列举法) - listing the elements in braces: $\{2, 4, 6, \cdots\}$;
+  - Definition of set *equality* (集合相等) - "two sets are *equal* (or *identical*)": $A = B$; "two sets are *unequal*": $A \ne B$.
+    Theorem:
+    - the order in which the elements appear is irrelevant: $\set{2, 4, 6, 8} = \set{2, 8, 6, 4}$
+    - the elements listed in the roster notation can be not distinct: $\set{2, 4, 6, 8} = \set{2, 2, 4, 4, 6, 8}$
 - Subsets 子集
+  Definition of subsets, proper subsets, the universal set, the empty set, one-element sets, and Venn diagrams.
+  - Definition of a *subset* (子集) - "a set $A$ is *a subset of* a set $B$ (or $A$ is *contained in* $B$ or $B$ *contains* $A$)": $A \subseteq B$;
+    Theorem:
+    - $A = B \qquad \textit{if and only if} \quad A \subseteq B \text{ and } B \subseteq A$
+  - Definition of a *proper subset* (真子集) - "a set $A$ is *a proper subset of* a set $B$": $A \subseteq B$ but $A \ne B$: $A \subset B$;
+  - Definition of the *universal set* (全集) - concerned only with subsets of this given set - "the set of all $x$ such that $x$ satisfies $P$": $A = \set{x \mid x \in S \quad \text{and} \quad x \text{ satisfies } P_A}$ or $A = \set{x \mid x \text{ satisfies } P_A}$ when $S$ is understood
+  - Definition of the *empty set* (or the *void set*)(空集): $\varnothing$
+    Theorem:
+    - $\varnothing$ is a subset of every set
+  - *one-element sets* (单元素集合)
+  - *Venn diagrams* (韦恩图) - sets <-> regions; elements <-> points
 - Unions, intersections, complements 并集，交集，补集
+  Definition of union, intersection, and complement; the commutative and associative laws of set operations; definition of class and its operations.
+  ![alt text](img/image-2.png)
+  - Definition of a *union* (并集) - "$A$ union $B$": $A \cup B$;
+  - Definition of a *intersection* (交集) - "$A$ intersection $B$": $A \cap B$; two sets $A$ and $B$ are *disjoint* (不相交的): $A \cap B = \varnothing$;
+  - Definition of a *complement* (补集) - "the *complement* of $B$ *relative to* $A$": the *difference* $A-B$;
+  - The operations of union and intersection <-> ordinary addition and multiplication of real number
+    - *commutative* (可交换)
+    - *associative* (可结合)
+  - Definition of a *class* (类) - a collection of sets (集合簇) - capital script letters: $\mathscr{A}, \mathscr{B}, \mathscr{C}, \cdots, \mathscr{X}, \mathscr{Y}, \mathscr{Z}$;
+    - $\bigcup\limits_{A \in \mathscr{F}}{A} = \bigcup\limits_{k=1}^{n}{A_k}$
+    - $\bigcap\limits_{A \in \mathscr{F}}{A} = \bigcap\limits_{k=1}^{n}{A_k}$
+- *Exercises*
+  ![alt text](img/introduction_2-exercises_1-1.jpg)
+  ![alt text](img/introduction_2-exercises_1-2.jpg)
 
 ### 3&emsp;A Set of Axioms for the Real-Number System
 
