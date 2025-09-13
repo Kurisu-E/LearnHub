@@ -138,8 +138,49 @@ This chapter includes:
 实数系统的一组公理. This chapter includes:
 
 - Introduction 简介
+  Introduce how the real number system is constructed and the axioms of the real number system, which could divided into three groups: the *field axioms*, the *order axioms*, and the *least-upper-bound axiom* (also called the *axiom of continuity* or the *completeness axiom*).
+  - One popular method to introduce the real-number system: positive integers -> positive *rational* numbers -> positive *irrational* numbers -> negative real numbers and zero
+  - Irrational numbers were first introduced in the 19c. which may be found in a book *Foundations of Analysis* (by E. Landau), beginning with the Peano postulates and using the method of Dedekind
+  - Here we take the real numbers as undefined objects in the set $\bold{R}$ satisfying certain *nonconstructive* properties (as axioms), from which all properties can be deduced (when defined by a *constructive* process, the properties as axioms must be proved as theorems)
+
+    !!! note *nonconstructive* (非构造性) vs *constructive* (构造性)
+        *nonconstructive* vs *constructive* proof can be found in philosophy of mathematics and logic. Basically, *constructive* proof is a proof that provides a method to construct the object to be proved, while *nonconstructive* proof only shows that the object exists without providing an example.
+  - lower-case letters - real numbers
+    three groups of the axioms: the *field axioms* (域的公理), the *order axioms* (序的公理), and the *least-upper-bound axiom* (最小上界公理)(also called the *axiom of continuity* (连续性公理) or the *completeness axiom* (完备性公理))
 - The field axioms 域的公理
+  Basic on two operations (*addition* and *multiplication*), there lists six axioms, three fundamental laws (*commutative laws*, *associative laws*, *distributive law*) and three properties of existence (*an identity element*, *negatives*, *reciprocals*), and some theorems deduced by the above axioms, which introduce to the concepts of *subtraction*, *division*, and the *quotient*.
+  - Assume two operations in the set $\bold{R}$
+    - *addition* (加) - "*sum* (和) of the $x$ and $y$": $x + y$
+    - *multiplication* (乘) - "*product* (积) of the $x$ and $y$": $xy$ or $x \cdot y$
+  - The sum $x + y$ and the product $xy$ are *uniquely determined* (唯一确定) by $x$ and $y$
+  - Six axioms:
+    - AXIOM 1. *Commutative laws* (交换律)
+    - AXIOM 2. *Associative laws* (结合律)
+    - AXIOM 3. *Distributive law* (分配律)
+    - AXIOM 4. *Existence of an identity element* (存在单位元)
+    - AXIOM 5. *Existence of negatives* (存在负数)
+    - AXIOM 6. *Existence of reciprocals* (存在倒数)
+  - Theorems deduced by the above axioms, includes
+    - THEOREM I.2. *subtraction* (减法) - "the *negative* (负数) of $a$": $-a$
+    - THEOREM I.8. *division* (除法) - "the *quotient* (商) of $a$ and $b$": $a/b$ or $\dfrac{a}{b}$ - "the *reciprocal* (倒数) of $a$": $1/a$ or $a^{-1}$
 - The order axioms 序的公理
+  - Assume a certain subset $\bold{R^+} \subset \bold{R}$ called "the set of *positive* (正) numbers"
+  - Three axioms:
+    - AXIOM 7. *If $x$ and $y$ are in $\bold{R^+}$, so are $x + y$ and $xy$*.
+
+      !!! note *Closure* (封闭性) in Group theory
+
+    - AXIOM 8. *Fore every real $x \not ={0}$, either $x \in \bold{R^+}$ or $-x \in \bold{R^+}$, but not both*.
+
+      !!! note *Law of Excluded Middle* (排中律)
+
+    - AXIOM 9. *$0 \not \in \bold{R^+}$*.
+  - Concepts of *positiveness* (正性) and ordering
+    - "less than" $<$, "greater than" $>$, "less than or equal to" $\leq$, "greater than or equal to" $\geq$
+    - *positive* (正), *negative* (负), *nonnegative* (非负), *nonpositive* (非正)
+  - Theorems deduced by the above axioms, includes
+    - THEOREM I.16. *Trichotomy law* (三分律)
+    - THEOREM I.17. *Transitive law* (传递律)
 - Integers and rational numbers 整数和有理数
 - Geometric interpretation of real numbers as points on a line 将实数从几何角度解释为直线上的点
 - Upper bound of a set, maximum element, least upper bound (supremum) 集合的上界，最大元素，最小上界 (上确界)
