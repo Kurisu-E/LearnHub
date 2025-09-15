@@ -3,8 +3,6 @@ title: 思想政治理论 Ideological and Political Theory Notes
 author: Kur1su
 ---
 
-Learning Materials:
-
 Contents:
 
 [toc]
