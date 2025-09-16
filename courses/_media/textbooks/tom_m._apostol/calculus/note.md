@@ -108,7 +108,7 @@ Notations include sets, elements, elements belong to the set, the roster notatio
 - Sets - capital letters: $A, B, C, \cdots, X, Y, Z$;
 - Elements - lower-case letters: $a, b, c, \cdots, x, y, z$;
 - "$x$ belongs to $S$" - $x \in S$;
-- $x \not \in S$;
+- $x \notin S$;
 - *The roster notation* (列举法) - listing the elements in braces: $\{2, 4, 6, \cdots\}$;
 - Definition of set *equality* (集合相等) - "two sets are *equal* (or *identical*)": $A = B$; "two sets are *unequal*": $A \ne B$.
   Theorem:
@@ -159,7 +159,7 @@ Introduce how the real number system is constructed and the axioms of the real n
 
 - One popular method to introduce the real-number system: positive integers -> positive *rational* numbers -> positive *irrational* numbers -> negative real numbers and zero
 - Irrational numbers were first introduced in the 19c. which may be found in a book *Foundations of Analysis* (by E. Landau), beginning with the Peano postulates and using the method of Dedekind
-- Here we take the real numbers as undefined objects in the set $\bold{R}$ satisfying certain *nonconstructive* properties (as axioms), from which all properties can be deduced (when defined by a *constructive* process, the properties as axioms must be proved as theorems)
+- Here we take the real numbers as undefined objects in the set $\mathbf{R}$ satisfying certain *nonconstructive* properties (as axioms), from which all properties can be deduced (when defined by a *constructive* process, the properties as axioms must be proved as theorems)
 
   !!! note *nonconstructive* (非构造性) vs *constructive* (构造性)
       *nonconstructive* vs *constructive* proof can be found in philosophy of mathematics and logic. Basically, *constructive* proof is a proof that provides a method to construct the object to be proved, while *nonconstructive* proof only shows that the object exists without providing an example.
@@ -170,7 +170,7 @@ Introduce how the real number system is constructed and the axioms of the real n
 
 Basic on two operations (*addition* and *multiplication*), there lists six axioms, three fundamental laws (*commutative laws*, *associative laws*, *distributive law*) and three properties of existence (*an identity element*, *negatives*, *reciprocals*), and some theorems deduced by the above axioms, which introduce to the concepts of *subtraction*, *division*, and the *quotient*.
 
-- Assume two operations in the set $\bold{R}$
+- Assume two operations in the set $\mathbf{R}$
   - *addition* (加) - "*sum* (和) of the $x$ and $y$": $x + y$
   - *multiplication* (乘) - "*product* (积) of the $x$ and $y$": $xy$ or $x \cdot y$
 - The sum $x + y$ and the product $xy$ are *uniquely determined* (唯一确定) by $x$ and $y$
@@ -187,17 +187,19 @@ Basic on two operations (*addition* and *multiplication*), there lists six axiom
 
 #### 3.3&emsp;The order axioms 序的公理
 
-- Assume a certain subset $\bold{R^+} \subset \bold{R}$ called "the set of *positive* (正) numbers"
+Basic on the concept of *positiveness*, there lists three axioms, which introduce the concept of *ordering*, and some theorems deduced by the above axioms.
+
+- Assume a certain subset $\mathbf{R^+} \subset \mathbf{R}$ called "the set of *positive* (正) numbers"
 - Three axioms:
-  - AXIOM 7. *If $x$ and $y$ are in $\bold{R^+}$, so are $x + y$ and $xy$*.
+  - AXIOM 7. *If $x$ and $y$ are in $\mathbf{R^+}$, so are $x + y$ and $xy$*.
 
     !!! note *Closure* (封闭性) in Group theory
 
-  - AXIOM 8. *Fore every real $x \not ={0}$, either $x \in \bold{R^+}$ or $-x \in \bold{R^+}$, but not both*.
+  - AXIOM 8. *Fore every real $x \neq 0$, either $x \in \mathbf{R^+}$ or $-x \in \mathbf{R^+}$, but not both*.
 
     !!! note *Law of Excluded Middle* (排中律)
 
-  - AXIOM 9. *$0 \not \in \bold{R^+}$*.
+  - AXIOM 9. *$0 \notin \mathbf{R^+}$*.
 - Concepts of *positiveness* (正性) and ordering
   - "less than" $<$, "greater than" $>$, "less than or equal to" $\leq$, "greater than or equal to" $\geq$
   - *positive* (正), *negative* (负), *nonnegative* (非负), *nonpositive* (非正)
@@ -207,15 +209,79 @@ Basic on two operations (*addition* and *multiplication*), there lists six axiom
 
 #### 3.4&emsp;Integers and rational numbers 整数和有理数
 
+Definition of *inductive set*, defining the *positive integers*, the *set of positive integers* $\mathbf{P}$, the *negative integers*, the *set of integers* $\mathbf{Z}$, and the *set of rational numbers* $\mathbf{Q}$ based on it.
+
+- *Integers* (整数)
+  begin with the number $1$, whose existence is guaranteed by Axiom 4. The numbers $1, 2, 3, \cdots$, are obtained in the way by repeated addition of $1$.
+  - Definition of *inductive set* (归纳集):
+    - The number $1$ is in the set.
+    - For every $x$ in the set, the number $x + 1$ is also in the set.
+  - Definition of *Positive integers* (正整数): belongs to every inductive sets.
+    - the set of all positive integers $\mathbf{P}$ is the *smallest* inductive set.
+    - the logical basis for [*proof by induction* (数学归纳法)](#4mathematical-induction-summation-notation-and-related-topics-数学归纳法求和符号以及相关主题).
+  - the negatives of the positive integers are called *negative integers* (负整数)
+  - the *set of integers* (整数集) $\mathbf{Z}$ includes the positive integers, the negative integers, and the number $0$.
+  - some certain theorems
+- *Rational numbers* (有理数):
+  - Definition of *rational number* (有理数): quotients of integers $a/b$ (where $b \neq 0$).
+  - the set of rational numbers $\mathbf{Q}$ contains $\mathbf{Z}$ as a subset.
+  - $\mathbf{Q}$ satisfies all the field axioms and the order axioms so are called an *ordered field* (有序域).
+  - Real numbers that are not in $\mathbf{Q}$ are called *irrational* (无理数).
+
 #### 3.5&emsp;Geometric interpretation of real numbers as points on a line 将实数从几何角度解释为直线上的点
+
+- Each real number <-> one *point* (点) on the *real line* or the *real axis* (实数轴) <-> "the *point* $x$"
+- The geometric interpretation of
+  - real numbers
+  - ordering relation
 
 #### 3.6&emsp;Upper bound of a set, maximum element, least upper bound (supremum) 集合的上界，最大元素，最小上界 (上确界)
 
+There should be an another axiom to establish the existence of *irrational numbers* since the other nine axioms that usually discussed in elementary algebra are also satisfied by $\mathbf{Q}$. Before the introduction of this axiom, here are some concepts and theorems related to be *bounded above*, to *upper bounds*, the *maximum element*, and the *least upper bound* or *supremum*.
+
+- "a set of real numbers $S$ is *bounded above* (有上界) by *an* (一个) *upper bound* (上界) $B$": if $x \leq B$ for every $x \in S$.
+  - If an upper bound $B$ is also a member of $S$ - "$B$ is the *largest member* or the *maximum element* (最大元素) of $S$": $B = \max S$
+  - A set with no upper bound - "unbounded above" (无上界)
+  - Definition of *least upper bound* (最小上界) or *supremum* (上确界):
+    - $B$ is an upper bound for $S$.
+    - No number less than $B$ is an upper bound for $S$.
+
+    $B = \sup S$
+  - Difference between the *maximum element* and the *least upper bound*
+
 #### 3.7&emsp;The least-upper-bound axiom (completeness axiom) 最小上界公理 (完备性公理)
+
+Based on the very foregoing section, the *least-upper-bound axiom* or *completeness axiom* or *axiom of continuity* is introduced, defining the terms about *lower bound* as well.
+
+- AXIOM 10. *The least-upper-bound axiom* (最小上界公理) or *completeness axiom* (完备性公理) or *axiom of continuity* (连续性公理)
+- Definition of the terms *bounded below* (有下界), *lower bound* (下界), *minimum element* (最小元素), *greatest lower bound* (最大下界) or *infimum* (下确界) may be similarly formulated
+  - $L = \min S$ and $L = \inf S$
+- *The greatest-lower-bound theorem* can be proved by the above axiom, using the negative of the set.
+- Example: $S = \set{(1+1/n)^n}$, where $n = 1, 2, 3, \cdots$.
+  $\inf S = \min S = 2$.
+  $\sup S = e$, where $e = 2.71828...$ is called the *Euler number* (欧拉数); no $\max S$.
 
 #### 3.8&emsp;The Archimedean property of the real-number system 实数系统的阿基米德性质
 
-#### 3.9&emsp;Fundamental properties of the supremum and infimum 上确界和下确界的根本性质
+Some theorems are proved based on the *least-upper-bound axiom*, such as the *Archimedean property* of the real-number system and its following theorem useful in the discussion of integral calculus.
+
+- THEOREM I.28. *$\mathbf{P}$ is unbounded above.*
+  - THEOREM I.29. *$(\exists n \in \mathbf{P})\forall x (n > x) $.*
+  - THEOREM I.30 *Archimedean property* (阿基米德性质) of the real-number system: *$(\exists n \in \mathbf{P})(\forall x > 0)\forall y (nx > y)$.*
+    - a small ruler used often enough can measure arbitrarily large distances.
+    - as one of the axioms of Archimedean geometry
+    - this axiom is rejected in non-Archimedean geometries constructed in 19c. and 20c.
+  - THEOREM I.31. *$(\forall n \in \mathbf{P})\forall a \forall x \forall y (a \leq x \leq a + \dfrac{y}{n}) \Rightarrow x = a$.*
+
+#### 3.9&emsp;Fundamental properties of the supremum and infimum 上确界和下确界的基本性质
+
+- THEOREM I.32. *Let $S$ be a set of real numbers, if $S$ has a supremum or an infimum, then we have*
+  *$(\exists x \in S)(\forall h > 0)(x > \sup S - h)$,*
+  *$(\exists x \in S)(\forall h > 0)(x < \inf S + h)$.*
+- THEOREM I.33. *Additive property* (可加性)
+- THEOREM I.34. *$(\forall S \subset \mathbf{R} \land S \neq \varnothing)(\forall T \subset \mathbf{R} \land T \neq \varnothing)((\forall s \in S)(\forall t \in T)(s \leq T) \Rightarrow \sup S \leq \inf T)$.*
+
+#### *Exercises 0.3-1*
 
 #### 3.10&emsp;*Existence of square roots of nonnegative real numbers 非负实数的平方根的存在性*
 
