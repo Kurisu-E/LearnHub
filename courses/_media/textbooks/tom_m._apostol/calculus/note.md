@@ -61,14 +61,14 @@ The study of *calculus* is based on the two basic questions: How to measures the
     ![alt text](img/image-1.png)
 - Calculate the area of each strip and add them up to obtain a formula for the sum $s_n$ (inner) and $S_n$ (outer)
 - Use the identity (恒等式) to simplifies the sum of the squares (proved by taking $k=1,2,\cdots,n-1$ and adding all the formulas, all the terms canceling (相消) except two, and sum up the terms in an arithmetic progression (等差数列))
-- Deduce inequalities $s_n < \dfrac{b^3}{3} < S_n$ by induction (归纳法)(a proof by induction is given in [{~~Section I 4.1.~>Section 4.1 of this part~~}](#4mathematical-induction-summation-notation-and-related-topics-数学归纳法求和符号以及相关主题))
+- Deduce inequalities $s_n < \dfrac{b^3}{3} < S_n$ by induction (归纳法)(a proof by induction is given in [{~~Section I 4.1.~>Section 4.1 of this part~~}](#41an-example-of-a-proof-by-mathematical-induction-用数学归纳法的一个例子))
 - Prove that $\dfrac{b^3}{3}$ is the only number which lies between $s_n$ and $S_n$ for every positive integer $n$
 
 #### *Exercises 0.1-1*
 
 the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow ax^3+c \rightarrow ax^k+c$\
 
-![alt text](img/introduction_1-exercises_1-1.jpg)
+![alt text](img/exercises_0_1-1.jpg)
 
 #### 1.4&emsp;A critical analysis of Archimedes' method 阿基米德方法的批判性分析
 
@@ -148,8 +148,8 @@ Definition of union, intersection, and complement; the commutative and associati
 
 #### *Exercises 0.2-1*
 
-  ![alt text](img/introduction_2-exercises_1-1.jpg)
-  ![alt text](img/introduction_2-exercises_1-2.jpg)
+  ![alt text](img/exercises_0_2-1_1.jpg)
+  ![alt text](img/exercises_0_2-1_2.jpg)
 
 ### 3&emsp;A Set of Axioms for the Real-Number System 实数系统的一组公理
 
@@ -216,6 +216,9 @@ Definition of *inductive set*, defining the *positive integers*, the *set of pos
   - Definition of *inductive set* (归纳集):
     - The number $1$ is in the set.
     - For every $x$ in the set, the number $x + 1$ is also in the set.
+
+    !!! question According to *Peano Axioms* (皮亚诺公理)?
+
   - Definition of *Positive integers* (正整数): belongs to every inductive sets.
     - the set of all positive integers $\mathbf{P}$ is the *smallest* inductive set.
     - the logical basis for [*proof by induction* (数学归纳法)](#4mathematical-induction-summation-notation-and-related-topics-数学归纳法求和符号以及相关主题).
@@ -283,19 +286,81 @@ Some theorems are proved based on the *least-upper-bound axiom*, such as the *Ar
 
 #### *Exercises 0.3-1*
 
+![alt text](img/exercises_0_3-1-1.jpg)
+![alt text](img/exercises_0_3-1-2.jpg)
+
 #### 3.10&emsp;*Existence of square roots of nonnegative real numbers 非负实数的平方根的存在性*
+
+- The equation $x^2=a$ has a solution among the *real* numbers if $a\geq 0$. This $x$ is called a *square root* (平方根) of $a$ (*at most* and *exactly* two square roots, one positive $a^{1/2}$ or $\sqrt{a}$ and one negative $-a^{1/2}$ or $-\sqrt{a}$).
+- THEOREM I.35. *Every nonnegative real number $a$ has a unique nonnegative square root.*
+  Let $S$ be the set of all positive $x$ such that $x^2 \leq a$.
+  Say $\sup S = b$, let $c = \frac{1}{2}(b+a/b)$. Then $c$ is closer to $\sqrt{a}$ unless $b=\sqrt{a}$.
+
+  !!! note Choose $c$ such that $a < c < b$
+      - $c = (a+b)/2$;
+      - $c = \frac{1}{2b}(b^2+a^2)$ or $\frac{1}{2a}(b^2+a^2)$;
 
 #### 3.11&emsp;*Roots of higher order. Rational powers 高阶根. 有理次幂*
 
+- The equation $y^n = x$,
+  - when $n$ is a positive *odd* integer, has exactly one real $y$ for *each real* $x$. This $y$ is called the *nth root* (n 次根) of $x$ and is denoted by $y=x^{1/n}$ or $y=\sqrt[n]{x}$.
+  - when $n$ is a positive *even* integer, has two real $y$ for each *positive* real $x$. The one and only one positive $y$ is called the *positive nth root* (正 n 次根) of $x$ and is denoted by $y=x^{1/n}$ or $y=\sqrt[n]{x}$. The another $y$ is negative and is denoted by $-y=x^{1/n}$ or $-y=\sqrt[n]{x}$.
+  - Proofs are discussed in [section of the intermediate-value theorem for continuous functions](#38the-intermediate-value-theorem-for-continuous-functions-连续函数的介质定理).
+- Definition of rational powers of real numbers: $x^r = (x^m)^{1/n}$ for $r=m/n$ where $m$ and $n$ are positive integers.
+  $x^{-r}$, $x^r \cdot x^s = x^{r+s}$, $(x^r)^s = x^{rs}$, and $(xy)^r = x^r y^r$.
+
 #### 3.12&emsp;*Representation of real numbers by decimals 实数的小数表示*
 
+- *Finite decimal representation* (有限小数表示) of a real number $r$
+  - Necessarily rational, having the form $r = a/10^n$
+  - Not all rational numbers can be expressed with it. For example, $\frac{1}{3}$
+- It can be used to approximate an arbitrary real number to any desired degree of accuracy. In this case, we say that $x$ has the *infinite decimal representation* (无限小数表示).
+  - For example, $\frac{1}{3} = 0.3333\ldots$
+  - Every irrational number has an infinite decimal representation. Use a sequence of *nested intervals* (嵌套区间) as a basis for constructing the irrational numbers from the rational numbers.
+  - A real number might have two different decimal representations is merely a reflection of the fact that two different sets of real numbers can have the same supremum.
+    $\dfrac{1}{8} = 0.125000\ldots (\text{the set of all decimals} \leq x) = 0.124999\ldots (\text{the set of all decimals} < x)$
+  
 ### 4&emsp;Mathematical Induction, Summation Notation, and Related Topics 数学归纳法，求和符号，以及相关主题
 
 #### 4.1&emsp;An example of a proof by mathematical induction 用数学归纳法的一个例子
 
+- *Proof by induction* (归纳证明): starting with the number $1$, passing successively from $k$ to $k+1$ at each step.
+- Proving the pair of inequalities used in [{~~Section I 1.3~>Section 1.3 of this part~~}](#13the-method-of-exhaustion-for-the-area-of-a-parabolic-segment-抛物线段面积的穷竭法), namely
+  $$
+    1^2 + 2^2 + \cdots + (n-1)^2 < \dfrac{n^3}{3} < 1^2 + 2^2 + \cdots + n^2
+  $$
+  - Let us refer to this formula as $A(n)$. To prove that $A(n)$ is true for every positive integer $n$.
+  - $A(1): 0 < \dfrac{1^3}{3} < 1$
+  - Assuming the assertion has been proved for a particular value of $n$, say for $n=k$. That is, assume we have proved
+    $$
+      A(k): 1^2 + 2^2 + \cdots + (k-1)^2 < \dfrac{k^3}{3} < 1^2 + 2^2 + \cdots + k^2
+    $$
+    for a fixed $k\geq 1$.
+  - *Using this*, we shall deduce the corresponding result for $k+1$:
+    $$
+      A(k+1): 1^2 + 2^2 + \cdots + k^2 + (k+1)^2 < \dfrac{(k+1)^3}{3} < 1^2 + 2^2 + \cdots + k^2 + (k+1)^2
+    $$
+  - To obtain $A(k+1)$ from $A(k)$.
+
 #### 4.2&emsp;The principle of mathematical induction 数学归纳法原理
 
+- *Method of proof by induction* (归纳证明法). $A(n)$ is true for every $n\geq n_1$ if:
+  - Prove that $A(n_1)$ is true.
+  - Let $k$ be an arbitrary but fixed integer $\geq n_1$. Assume that $A(k)$ is true and prove that $A(k+1)$ is also true.
+- THEOREM I.36. *Principle of mathematical induction* (数学归纳法原理). *Let $S$ be a set of positive integers which has the following two properties:*
+  - *The number $1$ is in the set $S$.*
+  - *If an integer $k$ is in $S$, then so is $k+1$.*
+
+  *Then every positive integer is in the set $S.*
+  Proved by the definition of inductive set.
+- Applying this theorem to the set of $n$ for which $A(n+n_1-1)$ is true.
+
 #### 4.3&emsp;*The well-ordering principle 良序原理*
+
+- Another important property of the *positive* integers, as a basis for proofs by induction.
+- THEOREM I.37. *The well-ordering principle* (良序原理). *Every nonempty set of positive integers contains a smallest member.*
+- To prove an assertion $A(n)$, we can prove it by the method of contradiction. By the well-ordering principle, there must bt a *smallest* positive integer, say $k$, for which $A(k)$ is false.
+  Then this assertion must be true for $k-1$, since $k$ was the smallest integer for which it was false. Therefore we may prove it using $k-1$ as the starting point to lead a contradiction.
 
 #### 4.4&emsp;*Proof of the well-ordering principle 良序原理的证明*
 
