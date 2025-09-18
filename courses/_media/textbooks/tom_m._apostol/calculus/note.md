@@ -35,7 +35,7 @@ Volume II is divided into three parts, entitled *Linear Analysis*, *Nonlinear An
 
 ### 1&emsp;Historical Introduction 历史介绍
 
-The study of *calculus* is based on the two basic questions: How to measures the area of a arbitrary region? And how to measure the steepness of a tangent line? For the former question, Archimedes used the method of exhaustion (steps: slice, add up, simplify, use inequalities, prove by contradiction) to find the area of a parabolic segment, which, along with the development of algebra and the strengthening of mathematical basis, gave a way to define the *integral* of calculus.
+The study of *calculus* is based on the two basic questions: How to measures the area of a arbitrary region? And how to measure the steepness of a tangent line? For the former question, Archimedes used the method of exhaustion (steps: slice, add up, simplify, use inequalities, prove by contradiction) to find the area of a parabolic segment, which, along with the development of algebra and the strengthening of mathematical basis, gave a way to define the *integral* of calculus. 微积分的研究基于两个基本问题：如何测量任意区域的面积？以及如何测量切线的陡度？对于前者，阿基米德使用穷竭法（步骤：切片、加法、化简、运用不等式、反证法）来求抛物线段的面积. 随着代数学的发展和数学基础的强化，这种方法为定义微积分的积分提供了方法.
 
 #### 1.1&emsp;The two basic concepts of calculus 微积分学的两个基本概念
 
@@ -87,7 +87,7 @@ the ordinate (纵坐标) is $x^2 \rightarrow ax^2+c \rightarrow x^3 \rightarrow 
 
 ### 2&emsp;Some Basic Concepts of the Theory of Sets 集合理论的基本概念
 
-This chapter introduces the fundamental concepts of set theory, which serves as a foundational language for modern mathematics. The chapter explores the concept of *sets*, *elements*, relations between them both, *the roster notation*, *equality* of sets, *subsets*, *proper subsets*, and special sets such as the *empty set*, the *universal set*, *one-element sets* and *classes*, defines fundamental operations on sets including *union*, *intersection*, and *complement*, along with their algebraic properties. *Venn diagrams* are introduced as a visual tool for understanding set relationships.
+This chapter introduces the fundamental concepts of set theory, which serves as a foundational language for modern mathematics. The chapter explores the concepts of *sets*, *elements*, relations between them both, *the roster notation*, *equality* of sets, *subsets*, *proper subsets*, and special sets such as the *empty set*, the *universal set*, *one-element sets* and *classes*, defines fundamental operations on sets including *union*, *intersection*, and *complement*, along with their algebraic properties. *Venn diagrams* are introduced as a visual tool for understanding set relationships. 本章介绍集合论的基本概念，集合论是现代数学的基础语言. 本章探讨集合、元素、两者关系、列举法、集合相等、子集、真子集，以及如空集、全集、单元素集和类的概念，并定义集合的基本运算（包括并集、交集和补集）及其代数性质；韦恩图是理解集合关系的可视化工具.
 
 #### 2.1&emsp;Introduction to set theory 集合论简介
 
@@ -152,6 +152,12 @@ Definition of union, intersection, and complement; the commutative and associati
   ![alt text](img/exercises_0_2-1_2.jpg)
 
 ### 3&emsp;A Set of Axioms for the Real-Number System 实数系统的一组公理
+
+This chapter, by *nonconstructively* assuming *the existence of the set of real numbers*, introduces a set of axioms for the real-number system, which lays a solid foundation for the entire theory of calculus. The set of ten axioms can be divided into three groups: the *field axioms* (of six) which defines the concepts and properties of operations (addition, multiplication, and etc.) on the real numbers, the *order axioms* (of three) which defines the concepts and properties of order relations on the real numbers, and the *least-upper-bound axiom* or the *completeness axiom* or the *axiom of continuity*. 本章通过非构造性地假设实数集的存在，引入了一组实数系公理，为整个微积分理论奠定了坚实的基础. 这十条公理可以分为三组：域公理（共六条），定义了实数上的运算（加法、乘法等）的概念和性质；序公理（共三条），定义了实数上的序关系的概念和性质；以及最小上界公理或称完备性公理或称连续性公理.
+
+The first two groups of axioms, alongside with the definition of the *inductive set*, define the concepts of *positive integers*, *integers*, *rational numbers*. The third group of axioms, the *least-upper-bound axiom*, by defining the terms of *bounded* (upper bound, lower bound, supreme, infimum, and etc.) and exploring the properties deduced from it (such as the *Archimedean property*), proves, or rather, fills in the existence of *irrational numbers*. 前两组公理结合归纳集的定义，定义了正整数、整数、有理数的概念. 第三组公理，即最小上界公理，通过定义关于有界的术语（上界、下界、上确界、下确界等），并探索由此导出的性质（如阿基米德性质），证明了，或该说填补了无理数的存在性.
+
+In addition, this chapter, after proving the *existence of square roots of nonnegative real numbers*, also defines the concepts and algebraic operations of *square roots*, *roots in high orders*, and *rational powers*, and provides additional information on the representation of real numbers by *decimals*. 此外，本章在证明了非负实数的平方根的存在之后，还定义了平方根、高次根、有理幂的概念和代数运算，并补充了实数的十进制表示.
 
 #### 3.1&emsp;Introduction 简介
 
@@ -219,7 +225,7 @@ Definition of *inductive set*, defining the *positive integers*, the *set of pos
 
     !!! question According to *Peano Axioms* (皮亚诺公理)?
 
-  - Definition of *Positive integers* (正整数): belongs to every inductive sets.
+  - Definition of *positive integers* (正整数): belongs to every inductive sets.
     - the set of all positive integers $\mathbf{P}$ is the *smallest* inductive set.
     - the logical basis for [*proof by induction* (数学归纳法)](#4mathematical-induction-summation-notation-and-related-topics-数学归纳法求和符号以及相关主题).
   - the negatives of the positive integers are called *negative integers* (负整数)
@@ -351,7 +357,7 @@ Some theorems are proved based on the *least-upper-bound axiom*, such as the *Ar
   - *The number $1$ is in the set $S$.*
   - *If an integer $k$ is in $S$, then so is $k+1$.*
 
-  *Then every positive integer is in the set $S.*
+  *Then every positive integer is in the set $S$.*
   Proved by the definition of inductive set.
 - Applying this theorem to the set of $n$ for which $A(n+n_1-1)$ is true.
 
@@ -359,12 +365,24 @@ Some theorems are proved based on the *least-upper-bound axiom*, such as the *Ar
 
 - Another important property of the *positive* integers, as a basis for proofs by induction.
 - THEOREM I.37. *The well-ordering principle* (良序原理). *Every nonempty set of positive integers contains a smallest member.*
-- To prove an assertion $A(n)$, we can prove it by the method of contradiction. By the well-ordering principle, there must bt a *smallest* positive integer, say $k$, for which $A(k)$ is false.
-  Then this assertion must be true for $k-1$, since $k$ was the smallest integer for which it was false. Therefore we may prove it using $k-1$ as the starting point to lead a contradiction.
+- To prove an assertion $A(n)$, we can prove it by the method of contradiction. By the well-ordering principle, there must be a *smallest* positive integer, say $k$, for which $A(k)$ is false.
+  Then this assertion must be true for $k-1$, since $k$ was the smallest integer for which it was false. Therefore we may prove it using $k-1$ as the starting point to lead to a contradiction.
+
+#### *Exercises 0.4-1*
+
+![alt text](img/exercises_0_4-1.jpg)
 
 #### 4.4&emsp;*Proof of the well-ordering principle 良序原理的证明*
 
+- Let $T$ be a nonempty collection of positive integers. $T$ has a smallest member $t_0$, that is, $t_0 \leq t$ for all $t \in T$.
+- Assuming $T$ has no smallest member. Prove by leading to a contradiction from the principle of induction.
+
 #### 4.5&emsp;The summation notation 求和符号
+
+- *Summation notation* (求和符号) $\sum$ - "The sum of $a_k$ for $k$ running from $1$ to $n$":
+  $$\sum_{i=1}^n a_k = a_1 + a_2 + \cdots + a_n$$
+  - $k$: "the *index of summation* (求和指标)"; alternatively $i,j,k,m,$ etc. are called *dummy indices* (哑指标).
+- Definition of summation notation - *definition by induction* (归纳定义) or *recursive definition* (递归定义).
 
 #### 4.6&emsp;Absolute values and the triangle inequality 绝对值与三角不等式
 
