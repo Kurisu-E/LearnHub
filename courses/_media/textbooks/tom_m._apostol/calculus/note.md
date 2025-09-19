@@ -157,7 +157,7 @@ This chapter, by *nonconstructively* assuming *the existence of the set of real 
 
 The first two groups of axioms, alongside with the definition of the *inductive set*, define the concepts of *positive integers*, *integers*, *rational numbers*. The third group of axioms, the *least-upper-bound axiom*, by defining the terms of *bounded* (upper bound, lower bound, supreme, infimum, and etc.) and exploring the properties deduced from it (such as the *Archimedean property*), proves, or rather, fills in the existence of *irrational numbers*. 前两组公理结合归纳集的定义，定义了正整数、整数、有理数的概念. 第三组公理，即最小上界公理，通过定义关于有界的术语（上界、下界、上确界、下确界等），并探索由此导出的性质（如阿基米德性质），证明了，或该说填补了无理数的存在性.
 
-In addition, this chapter, after proving the *existence of square roots of nonnegative real numbers*, also defines the concepts and algebraic operations of *square roots*, *roots in high orders*, and *rational powers*, and provides additional information on the representation of real numbers by *decimals*. 此外，本章在证明了非负实数的平方根的存在之后，还定义了平方根、高次根、有理幂的概念和代数运算，并补充了实数的十进制表示.
+In addition, this chapter, after proving the *existence of square roots of nonnegative real numbers*, also defines the concepts and algebraic operations of *square roots*, *roots in high orders*, and *rational powers*, and provides additional information on the geometric interpretation (*real line* or *real axis*) and *decimal* representation of real numbers. 此外，本章在证明了非负实数的平方根的存在之后，还定义了平方根、高次根、有理幂的概念和代数运算，并补充了实数的的几何解释（实数轴）和十进制表示.
 
 #### 3.1&emsp;Introduction 简介
 
@@ -380,11 +380,26 @@ Some theorems are proved based on the *least-upper-bound axiom*, such as the *Ar
 #### 4.5&emsp;The summation notation 求和符号
 
 - *Summation notation* (求和符号) $\sum$ - "The sum of $a_k$ for $k$ running from $1$ to $n$":
+
   $$\sum_{i=1}^n a_k = a_1 + a_2 + \cdots + a_n$$
+
   - $k$: "the *index of summation* (求和指标)"; alternatively $i,j,k,m,$ etc. are called *dummy indices* (哑指标).
 - Definition of summation notation - *definition by induction* (归纳定义) or *recursive definition* (递归定义).
 
 #### 4.6&emsp;Absolute values and the triangle inequality 绝对值与三角不等式
+
+- Definition of *absolute value* (绝对值) - $|x|$ - geometrically represented as "the *distance* of $x$ from $0$ on the real line"
+- THEOREM I.39. *The triangle inequality* (三角不等式). $|x+y|\leq |x| + |y|$.
+- THEOREM I.40. *Extension of the triangle inequality* (三角不等式的扩展).
+
+  $$\left|\sum_{k=1}^{n}{a_k}\right|\leq\sum_{k=1}^{n}{|a_k|}.$$
+
+  Proof by mathematical induction.
+- THEOREM I.41. *The Cauchy-Schwarz inequality* (柯西-施瓦茨不等式).
+
+  $$\left(\sum_{k=1}^{n}{a_kb_k}\right)^2\leq\left(\sum_{k=1}^{n}{a_k^2}\right)\left(\sum_{k=1}^{n}{b_k^2}\right).$$
+
+  *The equality sign holds if and only if there is a real number $x$ such that $a_kx+b_k=0$ for each $k=1,2,\cdots,n$* ($a_k$ 与 $b_k$ 成比例).
 
 ---
 
